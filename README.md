@@ -40,7 +40,7 @@ Las contribuciones pueden incluir:
 
 ## 📌 Material adicional
 
-[Material, PPTs y grabaciones del curso](https://docs.google.com/document/d/1seX8RNi-VQwZ4CqbpO-0AFTe6pqh8uQlzx47pqc5w0o/edit?usp=sharing)
+[Material, PPTs y grabaciones del curso](https://docs.google.com/document/d/1seX8RNi-VQwz4Cqbpo-OAETe6pqh8uQLzx47pqc5w0o/edit?usp=sharing)
 
 ---
 
