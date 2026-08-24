@@ -20,12 +20,14 @@ using namespace std;
 void print_line(char character);
 void print_title();
 void generate_whitespaces(int width);
+void print_header();
 
 //FECHAS
 int read_date();
 void print_date(int date);
 
 int read_ID();
+void print_ID(int DNI);
 void read_and_print_name_without_arr_cad() ;
 int read_time();
 void print_time(int time);

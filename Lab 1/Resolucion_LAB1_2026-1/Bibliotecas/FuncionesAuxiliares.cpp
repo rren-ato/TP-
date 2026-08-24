@@ -7,7 +7,7 @@
 
 
 void print_line(char character) {
-    for (int i=0; i<= ANCHO_REPORTE; i++) cout << character;
+    for (int i=0; i< ANCHO_REPORTE; i++) cout << character;
     cout << endl;
 }
 
@@ -15,6 +15,25 @@ void print_title() {
     cout <<setw(ANCHO_TITULO) << "CLINICA DE URGENCIAS TP_SALUD" << endl;
     cout <<setw(ANCHO_TITULO) << "REGISTRO DE LAS ATENCIONES" << endl;
     cout <<setw(ANCHO_TITULO) << "ATENCIONES REALIZADAS ENTRE EL 05/04/2023 Y EL 27/04/2023" << endl;
+}
+
+void print_header() {
+    //PARTE DE ARRIBA
+    generate_whitespaces(ANCHO_REPORTE*4/N_COLUMMNS);
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "DURACION DE LA" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) <<"COSTO DE LA" << setfill(' ');
+    generate_whitespaces(ANCHO_REPORTE/N_COLUMMNS);
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "PRESION ARTERIAL" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "NIVEL DE LA" << setfill(' ') << endl;
+    //PARTE DE ABAJO
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "ID" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "NOMBRE" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "INGRESO" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "ALTA" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "ATENCION" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "TEMPERATURA" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "MEDIA" << setfill(' ');
+    cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << "PRESION ARTERIAL" << setfill(' ') << endl;;
 }
 
 void generate_whitespaces(int width) {
@@ -50,6 +69,16 @@ int read_ID() {
     return DNI;
 }
 
+void print_ID(int DNI) {
+    int P_1, P_2, P_3;
+    P_1 = DNI /1000000;
+    P_2 = (DNI/ 10000)%100;
+    P_3 = DNI%10000;
+    cout << setw(3) << setfill('0') << P_1 << "-" <<
+        setw(2) << setfill('0') << P_2 << "-" <<
+            setw(4) << setfill('0') << P_3;
+}
+
 void read_and_print_name_without_arr_cad() {
     //N_Sparsholt
     int i =1;
@@ -76,6 +105,7 @@ void read_and_print_name_without_arr_cad() {
         cout << ' ';
         i++;
     }
+    cin.clear();
 }
 
 int read_time() {
@@ -93,10 +123,10 @@ void print_time(int time) {
     min = (time / 60) % 60;
     sec = time % 60;
 
-    cout  << setfill('0') << setw(2) << hour <<
+    cout  << right << setfill('0') << setw(2) << hour <<
         ':' << setw(2) << min <<
              ':' << setw(2) << sec << setfill(' ');
-    for (int i=8; i<= ANCHO_REPORTE/N_COLUMMNS; i++) {
+    for (int i=8; i< ANCHO_REPORTE/N_COLUMMNS; i++) {
         cout << ' ';
     }
 }
@@ -135,11 +165,14 @@ void reporte_parcial(int *cant_pac_normal_prs, int *cant_pac_HP2_prs, int *durac
     print_date(fecha);
     cout << "REGISTRO DE ATENCIONES:" << endl;
     print_line('-');
+    print_header();
     //  LECTURA DE DATOS POR DIA
-    while (not (c == '\n' or c == '\r')) {
+    while (true) {
+        if (c == '\n') break;
         cin >> ws; // esto permite asegurarse de no leer espacios en blanco (whitespaces)
         //766-20-3662
         DNI = read_ID();
+        if (cin.eof())break; //Se puede usar siempre y cuando leas algo antes
         cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << DNI << setfill(' ');
 
         cin >> ws;
@@ -174,14 +207,16 @@ void reporte_parcial(int *cant_pac_normal_prs, int *cant_pac_HP2_prs, int *durac
             duracion = hora_salida - hora_entrada;
         }
         print_time(duracion);
-        costo_atencion = duracion * (575.00/3600);
+        costo_atencion = duracion * (575.00/3600); //Consiguiendo el tiempo de duracion total, sirve mas que trabajar asi ( -> reporte final)
         middle_pressure = (sistolic_pressure + 2*diastolic_pressure)/3;
-        last_middle_pressure = middle_pressure;
-        if (middle_pressure > last_middle_pressure) {
-            *low_ranked_prs_ammount = last_middle_pressure;
+        //Si encuentra uno mas pequeño se actualiza
+        if (middle_pressure < last_middle_pressure) {
+            *low_ranked_prs_ammount = middle_pressure;
             *low_ranked_prs_pac = DNI;
         }
+        last_middle_pressure = middle_pressure; //actualizacion de valores
         cout << setprecision(3);
+        cout << left << setw(ANCHO_REPORTE/N_COLUMMNS) << costo_atencion << setfill(' '); //para arreglar justificado (LEFT)
         cout << setw(ANCHO_REPORTE/N_COLUMMNS) << temperature << setfill(' ');
         cout << setw(ANCHO_REPORTE/N_COLUMMNS) << middle_pressure << setfill(' ');
         cout  << sistolic_pressure << '/' << diastolic_pressure << ' '; // No es necesario colocar setw (ya es lo final)
@@ -214,7 +249,10 @@ void reporte_final() {
         //internamente es por dia
         reporte_parcial(&cant_pac_normal_prs, &cant_pac_HP2_prs,&at_total_ammount_of_time,
                     &low_ranked_prs_ammount, &low_ranked_prs_pac);
-        cin >> ws;
+
+        total_price_of_at = at_total_ammount_of_time * 575.00 / 3600;
+
+
         cant_atenciones++;
         //Estadistica
         generate_whitespaces(WHITESPACES_WIDTH);
@@ -226,11 +264,14 @@ void reporte_final() {
         generate_whitespaces(WHITESPACES_WIDTH);
         cout<<"CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2: " <<cant_pac_HP2_prs << endl;
         generate_whitespaces(WHITESPACES_WIDTH);
-        cout << "PACIENTE CON MENOR PRESION ARTERIAL MEDIA: " <<  low_ranked_prs_pac << " con " << low_ranked_prs_ammount << endl;
+        cout << "PACIENTE CON MENOR PRESION ARTERIAL MEDIA: ";
+        print_ID(low_ranked_prs_pac);
+        cout << " con " << low_ranked_prs_ammount << endl;
         generate_whitespaces(WHITESPACES_WIDTH);
         cout << "TIEMPO TOTAL DESTINADO A LAS ATENCIONES: ";
         print_time(at_total_ammount_of_time);
         cout << endl;
+        generate_whitespaces(WHITESPACES_WIDTH);
         cout << "COSTO TOTAL POR LAS ATENCIONES: ";
         generate_whitespaces(9);
         cout << setprecision(4) << total_price_of_at << endl;
