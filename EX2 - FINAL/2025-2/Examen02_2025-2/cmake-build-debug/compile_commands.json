@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Examen02_2025_2.dir\\main.cpp.obj -c C:\\Users\\Renato\\Documents\\2026-1\\TP\\Ex2\\2025-2\\Examen02_2025-2\\main.cpp",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug/CMakeFiles/Examen02_2025_2.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Examen02_2025_2.dir\\Source\\FuncionesAuxiliares.cpp.obj -c C:\\Users\\Renato\\Documents\\2026-1\\TP\\Ex2\\2025-2\\Examen02_2025-2\\Source\\FuncionesAuxiliares.cpp",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/Source/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug/CMakeFiles/Examen02_2025_2.dir/Source/FuncionesAuxiliares.cpp.obj"
+}
+]

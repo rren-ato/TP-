@@ -1,0 +1,3 @@
+C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug/CMakeFiles/Examen02_2025_2.dir
+C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Renato/Documents/2026-1/TP/Ex2/2025-2/Examen02_2025-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
