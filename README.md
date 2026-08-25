@@ -42,6 +42,8 @@ Las contribuciones pueden incluir:
 
 [Material, PPTs y grabaciones del curso](https://docs.google.com/document/d/1seX8RNi-VQwz4Cqbpo-OAETe6pqh8uQLzx47pqc5w0o/edit?usp=sharing)
 
+[Sigue tu camino como programador, escoge un rol (luego de pasar el curso obiamente)].(https://roadmap.sh/)
+
 ---
 
 ## ⚠️ Importante
