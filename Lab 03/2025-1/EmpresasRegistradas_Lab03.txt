@@ -1,0 +1,40 @@
+79672079        contreras/chang/johana-cinthia     Chorrillos      P599-629        M852-620   P282-128
+77763722        farfan/salazar/margot   La_Molina     P482-255   M277-299     P163-421
+19568447      vega/soria/henrry      San_Juan_de_Lurigancho     M907-605
+81528434      epiquen/avila/enrique     Jesus_Maria        M832-314        G650-450      M837-854      P325-587     G377-489
+47844324   vilca/lee/nestor-hugo   Comas   P618-120        G835-830      P131-278
+86718074      escalante/rojas/ines-adria      Jesus_Maria      G368-136
+12270502      cueva/fuentes/cinthia-delia      El_Agustino      G250-663        P246-429   G855-340      G266-362        G991-678
+48528209      zavaleta/coronado/felicita-eloisa     Villa_Maria_del_Triunfo      G262-654   G402-859     G958-240   G400-314        P156-716
+88167677      prado/vera/juan        San_Miguel      G264-957      M366-914      G325-333      M435-175      P665-969
+12858682     zarate/perez/alexander      Barranco   M207-572   G520-337        M137-958
+75348522   lozada/forzani/delia     Independencia   G938-356        G113-951   P310-575     G841-644     G744-786
+87495937   morales/pasquel/karin-maribel   Independencia        G329-867
+81485316     justino/martinez/enrique      Santa_Maria_del_Mar      G710-594        P486-917      M774-204        G156-830   M500-707
+81799482        cerna/cerna/cinthia      Pucusana      M359-944      G635-752      G592-689   G605-765   M561-874
+13219606        rodriguez/moreno/blanca-ofelia     Pueblo_Libre   M312-270     P201-291
+73818744     fuentes/gamarra/hugo      Pueblo_Libre        P251-666     G938-342   G393-114   G662-512
+85501710     vizcardo/sinche/maribel        San_Borja     P532-434     M651-665
+12443643        lee/serrano/rosario   Santa_Maria_del_Mar        M483-214     P235-315        M421-807      G926-575
+82870470     sedano/retamoso/elia-yolanda        Rimac     P516-487      P478-603
+48450395   ramirez/astete/karina-estefania     Magdalena_del_Mar     G328-654     P692-666     P559-672   M317-350
+79641328   tokeshi/guevara/jaime     Cieneguilla        G734-120        M512-863      G437-799
+89314225        rios/durand/carlos-edilberto        Cercado_de_Lima      G760-721     P152-838      G256-432      M288-737      P355-270
+86429854   moscoso/laura/janet-valentina        Punta_Hermosa     G374-384     M580-968   M510-956   M360-947        P364-899
+84186239     rivero/coronado/hector-alonso-jose      Lince        G872-544      P582-282
+80457845      norabuena/moya/hector   Jesus_Maria   G874-915   G616-581   G410-582     M912-415   P670-603
+90467829   iparraguirre/perez-nicolas        Miraflores      M844-240     G189-507        P985-495     P863-768      G600-343
+88854166      pinto/rojas/juvenal-francisco     Jesus_Maria   M257-722        P324-421   G568-563   P131-555   G411-657
+77367073        jauregui/del/castillo/victor-ricardo     San_Juan_de_Miraflores      G542-724        G974-598   M655-400
+73567806     arca/sanchez/magali-beatriz-iris        Santa_Anita   P426-388   M993-637     G458-550        M666-407
+89941095      arca/larriega/lucero-yliana   Comas     P860-616   G138-788     M708-335     G226-459      P474-593
+87282766        suarez/chang/gloria      San_Bartolo     M440-802
+73972114     avila/martel/jaime/manuel   San_Juan_de_Lurigancho   G657-925        M862-577     P255-643     M646-319   M655-864
+79766395        fuentes/escalante/patricia/elizabeth     Santa_Anita      P195-859     G485-562     G763-950
+74325123      tang/moscoso/johana     La_Molina   P770-513        G968-856        M348-264   G214-608   P905-539
+13628871   quiroga/hernandez/silvana-zkenia-maria     Independencia      P203-441
+75945248        mejia/rodriguez/ines-valentina        Punta_Hermosa      G721-932     G450-448     P939-759
+80310768        minaya/berrocal/heli        Carabayllo        M267-848   M477-146     G893-799     G752-478        M982-853
+47528229   saavedra/gonzales/wilmer   Chorrillos      M466-711        P325-365
+82031355     egusquiza/berrocal/doris-nancy   Pucusana      P386-900        M599-949
+
