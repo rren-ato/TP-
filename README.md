@@ -22,6 +22,21 @@ No todos los laboratorios necesariamente contienen una resolución.
 
 ---
 
+## 📚 Material teórico
+
+Las clases teóricas y parte del material utilizado durante el curso se encuentran en un repositorio independiente.
+
+### 🔗 Repositorio Legacy
+
+**[TP — BACKUP](https://github.com/rren-ato/TP---BACKUP)**
+
+Este repositorio contiene material correspondiente a las **clases teóricas del profesor Erasmo**, además de otros cursos y contenidos que se encuentran organizados internamente como **submódulos**.
+
+> [!NOTE]
+> Este repositorio de laboratorios (`TP-`) está orientado principalmente al material práctico y evaluativo, mientras que `TP---BACKUP` conserva material teórico y otros contenidos relacionados con el curso.
+
+---
+
 ## 🤝 Contribuciones
 
 Si tienes una resolución diferente, una corrección, apuntes o material que pueda ser útil para otros estudiantes, eres bienvenido a contribuir mediante un **Pull Request**.
@@ -40,9 +55,19 @@ Las contribuciones pueden incluir:
 
 ## 📌 Material adicional
 
+### 📖 Material, PPTs y grabaciones
+
 [Material, PPTs y grabaciones del curso](https://docs.google.com/document/d/1seX8RNi-VQwz4Cqbpo-OAETe6pqh8uQLzx47pqc5w0o/edit?usp=sharing)
 
-[Sigue tu camino como programador, escoge un rol (luego de pasar el curso obiamente)](https://roadmap.sh/)
+### 🗂️ Clases teóricas y material Legacy
+
+[Repositorio TP — BACKUP](https://github.com/rren-ato/TP---BACKUP)
+
+Repositorio que contiene las clases teóricas del profesor Erasmo y otros cursos organizados internamente como submódulos.
+
+### 🧭 Roadmap de programación
+
+[Sigue tu camino como programador, escoge un rol (luego de pasar el curso, obviamente)](https://roadmap.sh/)
 
 ---
 
