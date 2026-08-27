@@ -1,3 +1,6 @@
 [submodule "Repo de PROGRA 2"]
 	path = Repo de PROGRA 2
 	url = https://github.com/jamesVLK/Evaluaciones-progra2.git
+[submodule "CLASE DE ERASMO - LEGACY/Repo de las clases de Erasmo"]
+	path = CLASE DE ERASMO - LEGACY/Repo de las clases de Erasmo
+	url = https://github.com/rren-ato/TP---BACKUP.git
