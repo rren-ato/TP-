@@ -6,7 +6,7 @@
 
 GitHub permite descargar un repositorio completo mediante `Code → Download ZIP`, pero no ofrece directamente una opción para descargar una sola subcarpeta.
 
-Para estos casos podemos utilizar **Download Directory**, una herramienta sencilla que permite descargar directamente el contenido de una carpeta de un repositorio público de GitHub.
+Para estos casos podemos utilizar **[Download Directory](https://download-directory.github.io/)**, una herramienta sencilla que permite descargar directamente el contenido de una carpeta de un repositorio público de GitHub.
 
 ---
 
