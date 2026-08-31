@@ -1,0 +1,235 @@
+1) MEDICO:
+CODIGO: 5791
+NOMBRE: Velasquez Huayanay Edgard Henry
+TARIFA: 437.90
+ESPECIALIDAD: Cardiologia
+2) MEDICO:
+CODIGO: 5119
+NOMBRE: Norabuena Preciado Cinthia
+TARIFA: 280.72
+ESPECIALIDAD: Cardiologia
+3) MEDICO:
+CODIGO: 1545
+NOMBRE: Correa Vizcardo Miguel
+TARIFA: 180.94
+ESPECIALIDAD: Cardiologia
+4) MEDICO:
+CODIGO: 8872
+NOMBRE: Corrales Tsukazan Irma Lourdes
+TARIFA: 490.97
+ESPECIALIDAD: Cardiologia
+5) MEDICO:
+CODIGO: 3603
+NOMBRE: Asmad Acuna Annie Ofelia
+TARIFA: 361.22
+ESPECIALIDAD: Cardiologia
+6) MEDICO:
+CODIGO: 6506
+NOMBRE: Salas Aguero Daniel
+TARIFA: 140.12
+ESPECIALIDAD: Dermatologia
+7) MEDICO:
+CODIGO: 5814
+NOMBRE: Portugal Benavente Johana Gloria
+TARIFA: 228.08
+ESPECIALIDAD: Dermatologia
+8) MEDICO:
+CODIGO: 5899
+NOMBRE: Landa Piscoya Christian
+TARIFA: 199.82
+ESPECIALIDAD: Dermatologia
+9) MEDICO:
+CODIGO: 1265
+NOMBRE: Gordillo Yino Yvonne Rosario
+TARIFA: 113.08
+ESPECIALIDAD: Dermatologia
+10) MEDICO:
+CODIGO: 2466
+NOMBRE: Coronel Chumpitaz Heli
+TARIFA: 274.29
+ESPECIALIDAD: Dermatologia
+11) MEDICO:
+CODIGO: 8516
+NOMBRE: Prado Paredes Juan
+TARIFA: 464.87
+ESPECIALIDAD: Endocrinologia
+12) MEDICO:
+CODIGO: 8159
+NOMBRE: Laura Wong Melvin Henrry
+TARIFA: 345.56
+ESPECIALIDAD: Endocrinologia
+13) MEDICO:
+CODIGO: 1847
+NOMBRE: Inga Flores Cesar Adolfo
+TARIFA: 234.35
+ESPECIALIDAD: Endocrinologia
+14) MEDICO:
+CODIGO: 2139
+NOMBRE: Del Pozo Isabel Jugo
+TARIFA: 335.77
+ESPECIALIDAD: Endocrinologia
+15) MEDICO:
+CODIGO: 8618
+NOMBRE: Morales Valverde Ines Martha
+TARIFA: 114.79
+ESPECIALIDAD: Gastroenterologia
+16) MEDICO:
+CODIGO: 6587
+NOMBRE: Justino Cruz Williams
+TARIFA: 378.14
+ESPECIALIDAD: Gastroenterologia
+17) MEDICO:
+CODIGO: 3922
+NOMBRE: Chavez Prado Silvana
+TARIFA: 304.56
+ESPECIALIDAD: Gastroenterologia
+18) MEDICO:
+CODIGO: 2239
+NOMBRE: Cerna Durand Martin
+TARIFA: 483.82
+ESPECIALIDAD: Gastroenterologia
+19) MEDICO:
+CODIGO: 7727
+NOMBRE: Cabrera Canales Guillermo Edric
+TARIFA: 159.62
+ESPECIALIDAD: Gastroenterologia
+20) MEDICO:
+CODIGO: 8748
+NOMBRE: Palomares Vera Henrry Humberto
+TARIFA: 496.65
+ESPECIALIDAD: Geriatria
+21) MEDICO:
+CODIGO: 6836
+NOMBRE: Pairazaman Cuba Alberto
+TARIFA: 193.00
+ESPECIALIDAD: Geriatria
+22) MEDICO:
+CODIGO: 2427
+NOMBRE: Martel Asmad Bruno Roberto
+TARIFA: 190.25
+ESPECIALIDAD: Geriatria
+23) MEDICO:
+CODIGO: 9398
+NOMBRE: Gonzales Arias Henry
+TARIFA: 140.19
+ESPECIALIDAD: Geriatria
+24) MEDICO:
+CODIGO: 1282
+NOMBRE: Vilcara Correa Victor
+TARIFA: 265.18
+ESPECIALIDAD: Ginecologia
+25) MEDICO:
+CODIGO: 1313
+NOMBRE: Soma Inga Dialy
+TARIFA: 482.04
+ESPECIALIDAD: Ginecologia
+26) MEDICO:
+CODIGO: 6924
+NOMBRE: Paredes Patino Christian
+TARIFA: 222.03
+ESPECIALIDAD: Ginecologia
+27) MEDICO:
+CODIGO: 6357
+NOMBRE: Mejia Haza Francisco Edgar
+TARIFA: 162.06
+ESPECIALIDAD: Ginecologia
+28) MEDICO:
+CODIGO: 9418
+NOMBRE: Valverde Berrocal Rony Gonzalo
+TARIFA: 211.66
+ESPECIALIDAD: Neumologia
+29) MEDICO:
+CODIGO: 8697
+NOMBRE: Lozada Yino Martha
+TARIFA: 143.53
+ESPECIALIDAD: Neumologia
+30) MEDICO:
+CODIGO: 5908
+NOMBRE: Benavente Ayala Virginia Irma
+TARIFA: 103.57
+ESPECIALIDAD: Neumologia
+31) MEDICO:
+CODIGO: 1323
+NOMBRE: Farfan Raraz Waldemar
+TARIFA: 435.39
+ESPECIALIDAD: Oftalmologia
+32) MEDICO:
+CODIGO: 2846
+NOMBRE: Caro Polo Sandro
+TARIFA: 436.54
+ESPECIALIDAD: Oftalmologia
+33) MEDICO:
+CODIGO: 2824
+NOMBRE: Auris Zimic Javier Daniel
+TARIFA: 238.43
+ESPECIALIDAD: Oftalmologia
+34) MEDICO:
+CODIGO: 2655
+NOMBRE: Prado Vergel Carlos Julian
+TARIFA: 327.46
+ESPECIALIDAD: Oncologia
+35) MEDICO:
+CODIGO: 9017
+NOMBRE: Landeo Sueldo Adolfo
+TARIFA: 418.29
+ESPECIALIDAD: Oncologia
+36) MEDICO:
+CODIGO: 9994
+NOMBRE: Calderon Ortega Guillermo
+TARIFA: 304.30
+ESPECIALIDAD: Oncologia
+37) MEDICO:
+CODIGO: 4691
+NOMBRE: Suarez Bolanos Rafael
+TARIFA: 319.48
+ESPECIALIDAD: Pediatria
+38) MEDICO:
+CODIGO: 2375
+NOMBRE: Camacho Aguero Elia Rosa
+TARIFA: 190.84
+ESPECIALIDAD: Pediatria
+39) MEDICO:
+CODIGO: 1691
+NOMBRE: Aquino Toro Valentina Rocio
+TARIFA: 252.29
+ESPECIALIDAD: Pediatria
+40) MEDICO:
+CODIGO: 9846
+NOMBRE: Amezquita Epiquen Evert Roberto
+TARIFA: 418.17
+ESPECIALIDAD: Pediatria
+41) MEDICO:
+CODIGO: 5243
+NOMBRE: Yoshinari Rivera Paul
+TARIFA: 302.87
+ESPECIALIDAD: Traumatologia
+42) MEDICO:
+CODIGO: 9822
+NOMBRE: Malca Saavedra Doris Milagros
+TARIFA: 421.81
+ESPECIALIDAD: Traumatologia
+43) MEDICO:
+CODIGO: 5204
+NOMBRE: Hijar Yep Williams Christian
+TARIFA: 219.54
+ESPECIALIDAD: Traumatologia
+44) MEDICO:
+CODIGO: 4494
+NOMBRE: Larriega Arca Isabel Madeleine
+TARIFA: 245.01
+ESPECIALIDAD: Urologia
+45) MEDICO:
+CODIGO: 4393
+NOMBRE: Cuba Narvaez Paul John
+TARIFA: 322.29
+ESPECIALIDAD: Urologia
+46) MEDICO:
+CODIGO: 1759
+NOMBRE: Cruz Fuentes Johana Ydali
+TARIFA: 399.63
+ESPECIALIDAD: Urologia
+47) MEDICO:
+CODIGO: 9444
+NOMBRE: Arca Amezquita Edric Ronald
+TARIFA: 102.48
+ESPECIALIDAD: Urologia

@@ -1,0 +1,11 @@
+#ifndef LABORATORIO09_2026_1_ESTRUCTURAS_FECHA_H
+#define LABORATORIO09_2026_1_ESTRUCTURAS_FECHA_H
+
+struct Fecha {
+    int dia;
+    int mes;
+    int año;
+    int fecha_AAAAMMDD;
+};
+
+#endif //LABORATORIO09_2026_1_ESTRUCTURAS_FECHA_H
