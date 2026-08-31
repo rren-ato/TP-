@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+	"dir-cur-src" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1",
+	"dir-top-bld" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+	"dir-top-src" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug/CMakeFiles/Lab01_EntradaYSalida_2026_1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/Bibliotecas/FuncionesAuxiliares.cpp"
+		},
+		"CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/main.cpp"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.o -c /home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/main.cpp",
+  "file": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/main.cpp",
+  "output": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug/CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.o -c /home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "file": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "/home/flan/Descargas/2026_1_Laboratorio_01_20236332_Fernandez_Andre/Lab01_EntradaYSalida_2026-1/cmake-build-debug/CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.o"
+}
+]

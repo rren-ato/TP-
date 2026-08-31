@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.o: dyndep
+
+build CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.o: dyndep
+

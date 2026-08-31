@@ -1,0 +1,551 @@
+                                              CLINICA DE URGENCIAS TP_SALUD
+                                               REGISTRO DE LOS ATENCIONES
+                                  ATENCIONES REALIZADAS ENTRE EL 05/04/2023 Y EL 27/04/2023
+============================================================================================================================================
+FECHA:    05/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+59278966    K ANTONIETTI    03:11:00    03:17:59    00:06:59         66.92          36.70         2832.00       118/72 (Normal)
+77787046    J FOLLAN    04:31:00    07:22:30    02:51:30       1643.54          39.00         1952.00        96/61 (Normal)
+85679802    P FLUKES    05:43:00    06:58:49    01:15:49        726.58          39.30         4845.33       158/92 (Hipertension Nivel 2)
+438984639    T PAWFOOT    06:25:00    07:59:38    01:34:38        906.90          36.90         3509.33       112/94 (Elevada)
+377592511    H TOPLING    06:33:00    07:58:01    01:25:01        814.74          36.90         2397.33       116/62 (Normal)
+37015510     G ORNIZ    09:04:00    09:35:29    00:31:29        301.72          35.90         2932.67       106/83 (Elevada)
+246593959    R PIERCE    12:41:00    14:04:47    01:23:47        802.92          37.30         3045.00       105/87 (Elevada)
+63689732     C BRIMACOMBE    14:45:00    16:08:30    01:23:30        800.21          36.70         2482.00       102/73 (Normal)
+259149232    M OLEXA    00:56:00    01:39:05    00:43:05        412.88          39.30         5493.33       160/103 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:9
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   4
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   2
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   259-14-9232 con 5493.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      11:15:48
+  COSTO TOTAL POR LAS ATENCIONES:   6476.42
+============================================================================================================================================
+FECHA:    06/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+40984045    O SPILLANE    01:35:00    02:05:06    00:30:06        288.46          38.40         3752.00       168/67 (Hipertension Nivel 2)
+193436202    D JON    02:00:00    03:12:36    01:12:36        695.75          36.60         4557.00       147/93 (Hipertension Nivel 2)
+647148894    M JUKES    04:09:00    04:25:17    00:16:17        156.05          38.20         5390.00       154/105 (Hipertension Nivel 2)
+443362330    J BALLIN    06:42:00    07:44:30    01:02:30        598.96          38.50         3644.67       154/71 (Hipertension Nivel 2)
+684812276    T SLOWLEY    09:00:00    10:33:27    01:33:27        895.56          38.00         3281.33        92/107 (Elevada)
+752359712    Y GRESLEY    09:20:00    12:10:01    02:50:01       1629.33          39.00         4529.67       127/107 (Hipertension Nivel 2)
+533115273    R GIACOPELLO    14:55:00    15:50:31    00:55:31        532.03          38.20         3025.00       121/75 (Elevada)
+530186594    B DELION    15:50:00    17:58:47    02:08:47       1234.17          37.30         4747.00       141/101 (Hipertension Nivel 2)
+781169719    H BRESLIN    16:27:00    18:38:18    02:11:18       1258.29          36.30         4193.33       148/85 (Hipertension Nivel 1)
+297233279    Q GLAZER    18:26:00    21:10:53    02:44:53       1580.13          37.40         3242.67       128/76 (Elevada)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   6
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   647-14-8894 con 5390.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      15:25:26
+  COSTO TOTAL POR LAS ATENCIONES:   8868.74
+============================================================================================================================================
+FECHA:    07/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+614272796    S SANGO    03:52:00    04:40:08    00:48:08        461.28          36.50         3497.33       122/86 (Hipertension Nivel 1)
+70774757    G WHAPLINGTON    03:56:00    04:13:32    00:17:32        168.03          39.30         4568.67       154/89 (Hipertension Nivel 1)
+442417832    A NESEY    06:09:00    06:27:42    00:18:42        179.21          38.00         5605.00       177/95 (Hipertension Nivel 2)
+469905298    R HUGGETT    06:40:00    08:01:06    01:21:06        777.21          38.60         3897.33       158/74 (Hipertension Nivel 2)
+32471403     T D'OYLY    11:58:00    12:37:24    00:39:24        377.58          35.70         2603.67       107/73 (Normal)
+325347964    P FLANAGAN    13:44:00    16:14:01    02:30:01       1437.66          39.00         4785.33       148/97 (Hipertension Nivel 2)
+530292305    Y LORAIT    19:56:00    20:09:08    00:13:08        125.86          39.60         3368.67       163/62 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:7
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   4
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   442-41-7832 con 5605.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      06:08:01
+  COSTO TOTAL POR LAS ATENCIONES:   3526.83
+============================================================================================================================================
+FECHA:    08/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+323155382    Q DREYE    00:02:00    01:15:33    01:13:33        704.85          37.40         3102.00        99/94 (Elevada)
+646663685    L ELMHURST    00:17:00    01:38:29    01:21:29        780.88          38.60         4048.00       176/69 (Hipertension Nivel 2)
+679417943    R RICHTEN    00:22:00    00:59:26    00:37:26        358.74          39.90         3621.00       153/71 (Hipertension Nivel 2)
+270144609    T ELDRED    01:14:00    02:36:39    01:22:39        792.06          38.10         4602.00       177/78 (Hipertension Nivel 2)
+375191172    G EARWAKER    02:04:00    02:42:16    00:38:16        366.72          35.70         3373.33       110/92 (Elevada)
+441689259    R DJURKOVIC    03:24:00    04:19:44    00:55:44        534.11          38.60         2986.67       112/80 (Hipertension Nivel 1)
+362316050    U GOBLE    03:47:00    04:35:04    00:48:04        460.64          35.70         2058.33        95/65 (Normal)
+148594378    J HULLETT    07:24:00    07:51:25    00:27:25        262.74          36.00         2475.00        99/75 (Normal)
+591748687    W FARGHER    08:12:00    10:03:23    01:51:23       1067.42          37.30         4021.67       127/95 (Hipertension Nivel 2)
+334314472    C SPRACKLIN    17:26:00    17:49:19    00:23:19        223.45          38.40         1890.00        90/63 (Normal)
+593932765    E LE HUQUET    20:10:00    22:19:35    02:09:35       1241.84          39.80         4909.67       143/103 (Hipertension Nivel 2)
+144253409    N CHETTER    20:29:00    20:41:25    00:12:25        118.99          39.50         6277.33       176/107 (Hipertension Nivel 2)
+176323686    N BRIMSON    21:43:00    23:40:43    01:57:43       1128.12          36.90         5408.00       169/96 (Hipertension Nivel 2)
+578734353    E SICCOMBE    22:24:24    23:49:00    01:24:36        810.75          38.00         3910.00       115/102 (Elevada)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:14
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   3
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   7
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   144-25-3409 con 6277.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      15:23:37
+  COSTO TOTAL POR LAS ATENCIONES:   8851.33
+============================================================================================================================================
+FECHA:    09/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+630503515    K COLLETT    01:00:00    02:59:50    01:59:50       1148.40          35.70         3290.00       105/94 (Elevada)
+610553526    Y OVID    01:07:00    02:23:18    01:16:18        731.21          36.00         3542.00       161/66 (Hipertension Nivel 2)
+38876238    B BEAVER    03:11:00    05:59:57    02:48:57       1619.10          37.60         4355.67       179/73 (Hipertension Nivel 2)
+20723750     B GREVILE    08:04:00    08:47:57    00:43:57        421.19          36.10         3192.00       126/76 (Elevada)
+400452411    X BALDEN    08:34:00    11:23:19    02:49:19       1622.62          39.40         3552.00       144/74 (Hipertension Nivel 2)
+43696143    C TAWN    11:09:00    13:35:15    02:26:15       1401.56          36.20         3458.00       133/78 (Hipertension Nivel 1)
+115322649    W EYRES    23:54:00    02:07:03    -21:-46:-57     -12524.94          38.90         4328.67       151/86 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:7
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   3
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   388-7-6238 con 4355.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      -9:-42:-21
+  COSTO TOTAL POR LAS ATENCIONES:  -5580.85
+============================================================================================================================================
+FECHA:    10/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+22281128     S RICARDIN    01:20:00    02:47:24    01:27:24        837.58          38.50         3564.00       132/81 (Hipertension Nivel 1)
+88877325     J JERZYCOWSKI    01:51:00    04:09:48    02:18:48       1330.17          36.30         2415.00       105/69 (Normal)
+371277072    I PYCOCK    03:28:00    06:11:08    02:43:08       1563.36          36.80         3640.00       104/105 (Elevada)
+84528750     D SIKORSKY    03:49:00    05:22:45    01:33:45        898.44          36.60         2913.33        92/95 (Elevada)
+526564625    G DREINAN    13:30:00    15:34:08    02:04:08       1189.61          37.10         4256.00       133/96 (Hipertension Nivel 1)
+894473029    L MCNEACHTAIN    16:23:00    16:28:37    00:05:37         53.83          37.20         2216.67        95/70 (Normal)
+133595051    V CONRAD    19:02:00    20:32:38    01:30:38        868.57          37.50         2972.67        98/91 (Elevada)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:7
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   2
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   0
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   526-56-4625 con 4256.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      11:43:28
+  COSTO TOTAL POR LAS ATENCIONES:   6741.56
+============================================================================================================================================
+FECHA:    11/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+762644163    T COOKSON    00:51:00    01:42:18    00:51:18        491.62          38.20         2656.00        96/83 (Elevada)
+647701937    X BENZING    03:29:00    05:25:22    01:56:22       1115.18          36.90         3975.33       134/89 (Hipertension Nivel 1)
+840598475    V ROMEO    03:41:00    04:32:37    00:51:37        494.66          37.60         2896.67       110/79 (Normal)
+241399857    U PETETT    05:14:00    06:13:03    00:59:03        565.90          37.10         3196.67       137/70 (Hipertension Nivel 1)
+347271017    J PULL    07:31:00    10:30:05    02:59:05       1716.22          38.00         4701.67       155/91 (Hipertension Nivel 2)
+267846280    L RISING    08:19:00    10:17:36    01:58:36       1136.58          38.60         2754.00       102/81 (Elevada)
+496712879    J BRAHAM    21:06:00    22:41:11    01:35:11        912.17          39.40         3658.00       177/62 (Hipertension Nivel 2)
+142103821    U OXENHAM    21:35:00    23:59:31    02:24:31       1384.95          35.60         3031.67       107/85 (Elevada)
+342189585    Q FAICHNEY    22:53:00    23:19:45    00:26:45        256.35          36.50         3822.00       117/98 (Elevada)
+204947733    V NEWBAND    22:55:00    23:59:31    01:04:31        618.28          37.90         2550.00        90/85 (Elevada)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   2
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   347-27-1017 con 4701.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      15:06:59
+  COSTO TOTAL POR LAS ATENCIONES:   8691.92
+============================================================================================================================================
+FECHA:    12/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+34499228     V LIMPRICHT    00:52:00    01:06:54    00:14:54        142.79          37.20         3826.67       164/70 (Hipertension Nivel 2)
+529581742    S SELLMAN    01:56:00    03:12:30    01:16:30        733.12          38.80         2729.33        92/89 (Elevada)
+240683060    I TOOTELL    02:01:00    02:48:34    00:47:34        455.85          35.50         5760.00       160/108 (Hipertension Nivel 2)
+653254152    K SMOWTON    03:57:00    04:00:58    00:03:58         38.01          38.60         5193.33       164/95 (Hipertension Nivel 2)
+897466177    W DILLINGHAM    04:53:00    07:21:19    02:28:19       1421.37          36.20         3040.00        95/96 (Elevada)
+547687669    Y HURN    05:06:00    06:12:34    01:06:34        637.93          38.10         4200.00       126/100 (Hipertension Nivel 2)
+628201693    H KLIMKE    07:08:00    08:40:26    01:32:26        885.82          39.70         3762.67       166/68 (Hipertension Nivel 2)
+51126241    J KINGSCOTE    07:36:00    10:11:26    02:35:26       1489.57          39.20         2829.00       123/69 (Elevada)
+563641719    Y WINTERINGHAM    07:37:00    08:54:50    01:17:50        745.90          36.30         3190.00       110/87 (Elevada)
+569171454    H LOPEZ    08:39:00    11:27:05    02:48:05       1610.80          39.10         3570.00       119/90 (Elevada)
+18289226     R LOTHLORIEN    18:12:00    19:11:49    00:59:49        573.24          37.00         5493.33       160/103 (Hipertension Nivel 2)
+867308564    L ELIJAHU    18:24:00    20:18:57    01:54:57       1101.60          39.00         4178.33       115/109 (Elevada)
+224584970    P ELVERSTONE    19:18:00    20:44:13    01:26:13        826.24          35.70         3480.00       116/90 (Elevada)
+854908395    P GOSSOP    22:55:00    23:40:41    00:45:41        437.80          38.90         5399.67       167/97 (Hipertension Nivel 2)
+871567981    H LANDY    21:13:00    23:42:04    02:29:04       1428.56          36.90         2352.00       112/63 (Normal)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:15
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   7
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   240-68-3060 con 5760.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      21:47:20
+  COSTO TOTAL POR LAS ATENCIONES:  12528.61
+============================================================================================================================================
+FECHA:    13/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+115962596    R DMITROVIC    13:49:00    14:13:54    00:24:54        238.62          37.70         3709.33       104/107 (Elevada)
+509213427    C CROY    16:09:00    18:12:16    02:03:16       1181.31          35.70         3626.00       111/98 (Elevada)
+342849323    B THOROLD    18:04:00    19:10:33    01:06:33        637.77          39.70         3699.00       137/81 (Hipertension Nivel 1)
+880962037    H JASPER    18:46:00    18:54:41    00:08:41         83.22          36.90         6031.33       166/109 (Hipertension Nivel 2)
+583858092    V NICKERSON    21:04:00    21:50:47    00:46:47        448.34          39.20         3698.00       129/86 (Hipertension Nivel 1)
+821507505    T RAWLIN    20:21:00    23:05:51    02:44:51       1579.81          36.30         2913.33       115/76 (Normal)
+752271468    D DEDON    20:43:00    23:29:50    02:46:50       1598.82          39.30         2300.33       103/67 (Normal)
+408316363    A STOWE    21:14:00    23:26:25    02:12:25       1268.99          37.80         4915.33       146/101 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:8
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   2
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   2
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   880-96-2037 con 6031.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      12:14:17
+  COSTO TOTAL POR LAS ATENCIONES:   7036.88
+============================================================================================================================================
+FECHA:    14/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+735206750    D SHEEHAN    00:25:00    01:00:43    00:35:43        342.28          35.80         3010.00       105/86 (Elevada)
+43917103     F CUSEICK    01:26:00    04:14:52    02:48:52       1618.31          38.20         4533.33       136/100 (Hipertension Nivel 1)
+332898975    F DREGAN    02:00:00    04:20:42    02:20:42       1348.38          35.90         2350.00        94/75 (Normal)
+461705641    I GLASSCOO    03:12:00    03:16:26    00:04:26         42.49          38.90         3103.33        95/98 (Elevada)
+55289390    Y STOBBIE    03:43:00    04:04:23    00:21:23        204.92          38.90         2897.33       106/82 (Elevada)
+724588259    W BRIARS    04:39:00    06:59:48    02:20:48       1349.33          39.60         3011.67       139/65 (Hipertension Nivel 1)
+891569495    I EYRES    06:17:00    09:16:28    02:59:28       1719.89          38.80         4719.00       143/99 (Hipertension Nivel 2)
+26517218    K MACADAM    06:19:00    06:42:37    00:23:37        226.33          36.60         2032.33        91/67 (Normal)
+178319644    E ILLWELL    08:15:00    10:37:02    02:22:02       1361.15          38.70         2420.00       110/66 (Normal)
+775193289    N BRETTLE    08:17:00    08:56:55    00:39:55        382.53          39.10         2625.00       125/63 (Elevada)
+507463167    N FACKRELL    10:49:00    11:58:53    01:09:53        669.72          40.00         4620.33       167/83 (Hipertension Nivel 1)
+294306567    E WINTERBORNE    20:19:00    22:55:01    02:36:01       1495.16          39.20         2248.33        95/71 (Normal)
+58636979     W BRUGMANN    20:47:00    21:12:06    00:25:06        240.54          39.80         4897.00       177/83 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:13
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   4
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   1
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   586-36-979 con 4897.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      19:07:56
+  COSTO TOTAL POR LAS ATENCIONES:  11001.03
+============================================================================================================================================
+FECHA:    15/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+749393053    Y MINCHELLA    03:22:00    05:59:32    02:37:32       1509.69          38.40         2574.00        99/78 (Normal)
+473154074    M BRIMFIELD    03:28:00    04:16:54    00:48:54        468.62          37.90         4260.00       142/90 (Hipertension Nivel 2)
+10586438    J BAUMER    09:44:00    12:41:21    02:57:21       1699.60          38.40         4166.67       125/100 (Hipertension Nivel 2)
+186996396    T SZEPE    10:05:00    12:36:05    02:31:05       1447.88          39.40         2275.00        91/75 (Normal)
+427827478    O GREENSTEAD    16:38:00    16:47:35    00:09:35         91.84          38.40         4982.67       148/101 (Hipertension Nivel 2)
+62452442     N STANSBY    18:22:00    20:01:14    01:39:14        950.99          37.00         5191.67       175/89 (Hipertension Nivel 1)
+1536149     I THOMINGA    18:28:00    20:16:14    01:48:14       1037.24          36.80         3266.67       140/70 (Hipertension Nivel 2)
+560684267    O DINWOODIE    20:41:00    23:16:23    02:35:23       1489.09          37.40         2048.00        96/64 (Normal)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:8
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   3
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   4
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   624-52-442 con 5191.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      15:07:18
+  COSTO TOTAL POR LAS ATENCIONES:   8694.96
+============================================================================================================================================
+FECHA:    16/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+814548172    G YOUNIE    00:20:00    02:29:54    02:09:54       1244.88          38.10         4272.00       144/89 (Hipertension Nivel 1)
+49248459     D BRANDOM    00:48:00    02:01:20    01:13:20        702.78          36.00         2838.00        99/86 (Elevada)
+307923400    K CASLETT    01:52:00    03:41:51    01:49:51       1052.73          37.50         3562.00       137/78 (Hipertension Nivel 1)
+86754344    S GIMLET    02:26:00    02:48:05    00:22:05        211.63          39.40         4590.00       135/102 (Hipertension Nivel 1)
+302122442    Z PUNTON    04:38:00    04:40:03    00:02:03         19.65          35.60         5370.67       152/106 (Hipertension Nivel 2)
+203453196    V SEIVERTSEN    10:51:00    13:46:20    02:55:20       1680.28          36.60         2240.00       112/60 (Normal)
+176524519    N SHILLETO    13:02:00    14:49:09    01:47:09       1026.85          35.70         2501.67        95/79 (Normal)
+509794975    Y BRENNAN    19:32:00    22:17:37    02:45:37       1587.16          38.00         2294.00        93/74 (Normal)
+693795815    R HINTZE    19:37:00    20:19:47    00:42:47        410.01          39.10         4300.00       150/86 (Hipertension Nivel 1)
+429323098    Z ALLDRIDGE    20:13:00    21:58:14    01:45:14       1008.49          36.80         4371.00       141/93 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   3
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   2
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   302-12-2442 con 5370.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      15:33:20
+  COSTO TOTAL POR LAS ATENCIONES:   8944.44
+============================================================================================================================================
+FECHA:    17/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+648235753    E SPOFFORTH    01:46:00    03:47:40    02:01:40       1165.97          38.50         4598.33       155/89 (Hipertension Nivel 1)
+873885082    V LYFIELD    04:08:00    04:38:57    00:30:57        296.60          37.60         3696.00       154/72 (Hipertension Nivel 2)
+622882180    H SAMPER    07:54:00    10:31:27    02:37:27       1508.90          39.30         3451.67       109/95 (Elevada)
+59741817     T TITMAN    08:03:00    08:20:41    00:17:41        169.47          37.20         2725.33       112/73 (Normal)
+782344167    X OSGARBY    09:04:00    10:21:48    01:17:48        745.58          37.00         3071.67        97/95 (Elevada)
+615592575    D HASELHURST    10:20:00    10:39:10    00:19:10        183.68          37.50         2310.00        90/77 (Normal)
+292458684    K HILLIAM    11:37:00    12:02:07    00:25:07        240.70          38.80         4238.00       163/78 (Hipertension Nivel 2)
+60122464     C BLAKEBOROUGH    11:53:00    14:37:51    02:44:51       1579.81          37.90         4559.00       141/97 (Hipertension Nivel 2)
+26778835     D WELLAN    12:26:00    14:48:14    02:22:14       1363.07          36.10         3933.00       171/69 (Hipertension Nivel 2)
+194929947    C STOTHER    23:20:00    23:26:53    00:06:53         65.97          36.90         4050.00       150/81 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   2
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   4
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   648-23-5753 con 4598.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      12:43:48
+  COSTO TOTAL POR LAS ATENCIONES:   7319.75
+============================================================================================================================================
+FECHA:    18/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+380939949    A DORIE    00:05:00    01:18:34    01:13:34        705.01          35.80         3531.00       107/99 (Elevada)
+682327258    J KNIGHTSBRIDGE    04:26:00    06:50:16    02:24:16       1382.56          36.00         4366.00       177/74 (Hipertension Nivel 2)
+477574070    G POTTERIDGE    04:45:00    04:56:55    00:11:55        114.20          37.50         5566.67       167/100 (Hipertension Nivel 2)
+159849480    C CHAPPELLE    05:34:00    08:14:49    02:40:49       1541.16          36.00         3917.67       161/73 (Hipertension Nivel 2)
+401218466    M SHIMUK    06:05:00    06:34:58    00:29:58        287.18          37.00         3644.67       142/77 (Hipertension Nivel 2)
+765737914    P SENIOR    06:26:00    06:48:52    00:22:52        219.14          39.20         2733.33       100/82 (Elevada)
+425905230    L WILLAVOYS    09:22:00    12:18:22    02:56:22       1690.18          38.50         3362.67        97/104 (Elevada)
+857682721    W CORRADINO    16:09:00    16:16:38    00:07:38         73.15          37.00         2910.00        97/90 (Elevada)
+261829019    W REMBRANT    17:34:00    19:16:43    01:42:43        984.37          39.10         3058.67       124/74 (Elevada)
+479428894    Z FRIMAN    20:46:00    23:52:40    03:06:40       1788.89          40.00         5415.00       171/95 (Hipertension Nivel 2)
+533298111    M NASSIE    21:12:00    23:04:45    01:52:45       1080.52          39.40         4458.67       152/88 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:11
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   5
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   477-57-4070 con 5566.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      17:09:32
+  COSTO TOTAL POR LAS ATENCIONES:   9866.36
+============================================================================================================================================
+FECHA:    19/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+898298913    B CHAMPNEYS    08:32:00    09:15:20    00:43:20        415.28          39.90         4433.00       143/93 (Hipertension Nivel 2)
+12766159    T MATTHESSEN    08:48:00    10:26:41    01:38:41        945.72          38.60         3740.00       110/102 (Elevada)
+413162095    M DABORNE    09:32:00    10:56:19    01:24:19        808.03          35.80         2288.00       104/66 (Normal)
+230187731    C KNOLLER    09:34:00    12:17:31    02:43:31       1567.03          35.50         2560.00       120/64 (Elevada)
+209171202    O HEARST    14:01:00    14:40:22    00:39:22        377.26          37.40         4000.00       150/80 (Hipertension Nivel 1)
+406914923    W MOULES    15:29:00    17:06:40    01:37:40        935.97          39.80         2817.67       107/79 (Normal)
+381345796    E GUILLFORD    16:12:00    18:49:28    02:37:28       1509.06          39.00         2963.33       127/70 (Elevada)
+800508275    E JIROUTEK    16:52:00    17:19:01    00:27:01        258.91          38.60         5573.33       176/95 (Hipertension Nivel 2)
+606929021    G KIPPIN    20:37:00    22:02:45    01:25:45        821.77          39.60         3596.67       130/83 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:9
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   2
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   2
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   800-50-8275 con 5573.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      13:17:07
+  COSTO TOTAL POR LAS ATENCIONES:   7639.03
+============================================================================================================================================
+FECHA:    20/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+255512877    H BUFF    00:13:00    00:33:59    00:20:59        201.09          37.70         5044.00       156/97 (Hipertension Nivel 2)
+805599555    K HADLOW    01:50:00    04:43:19    02:53:19       1660.95          38.40         3060.00       102/90 (Elevada)
+790804467    J KINGSNOAD    02:29:00    03:00:36    00:31:36        302.83          36.70         3968.00       124/96 (Hipertension Nivel 2)
+373464972    M DE MULLETT    04:54:00    05:55:57    01:01:57        593.69          37.60         5287.33       154/103 (Hipertension Nivel 2)
+24149565     S GEERTJE    07:52:00    10:29:12    02:37:12       1506.50          40.00         3644.67       154/71 (Hipertension Nivel 2)
+127839031    V BADROCK    08:22:00    09:41:43    01:19:43        763.95          36.70         5925.33       176/101 (Hipertension Nivel 2)
+35285161     Y CANET    08:38:00    10:19:59    01:41:59        977.34          37.70         2800.00       120/70 (Elevada)
+216593629    G MILLOM    17:52:00    18:07:25    00:15:25        147.74          36.30         5270.33       163/97 (Hipertension Nivel 2)
+505127655    R KISS    17:57:00    20:44:16    02:47:16       1602.97          36.20         4429.00       129/103 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:9
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   7
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   127-83-9031 con 5925.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      13:29:26
+  COSTO TOTAL POR LAS ATENCIONES:   7757.07
+============================================================================================================================================
+FECHA:    21/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+395415858    E ERVINE    01:13:00    01:24:52    00:11:52        113.72          38.50         5013.33       160/94 (Hipertension Nivel 2)
+130624906    Q SPURRIOR    02:44:00    04:38:31    01:54:31       1097.45          39.30         2790.00        90/93 (Elevada)
+199427548    F DIVELL    12:54:00    13:29:45    00:35:45        342.60          36.40         3040.00       114/80 (Hipertension Nivel 1)
+272236884    A MICKAN    17:23:00    19:47:48    02:24:48       1387.67          35.60         6008.33       175/103 (Hipertension Nivel 2)
+704423319    X COLDBATHE    17:45:00    20:35:51    02:50:51       1637.31          38.70         4360.33       127/103 (Hipertension Nivel 2)
+178382955    O PORT    22:28:00    22:45:11    00:17:11        164.67          38.50         4620.00       132/105 (Hipertension Nivel 1)
+736669425    K BLAIK    23:10:00    23:21:25    00:11:25        109.41          39.20         2139.00        93/69 (Normal)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:7
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   3
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   272-23-6884 con 6008.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      08:26:23
+  COSTO TOTAL POR LAS ATENCIONES:   4852.84
+============================================================================================================================================
+FECHA:    22/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+143315826    W POSNETTE    00:44:00    01:54:09    01:10:09        672.27          36.70         3189.33        92/104 (Elevada)
+249323203    C RASELL    12:30:00    14:26:10    01:56:10       1113.26          35.70         3554.67       172/62 (Hipertension Nivel 2)
+77152904     V COONIHAN    12:52:00    14:37:38    01:45:38       1012.32          39.30         2928.00       122/72 (Elevada)
+473655654    B CHAMPNEYS    18:25:00    21:10:01    02:45:01       1581.41          38.00         4030.00       130/93 (Hipertension Nivel 1)
+74411240    C JINDRICH    18:46:00    21:31:50    02:45:50       1589.24          37.20         2208.00        96/69 (Normal)
+304299773    E OTLEY    21:32:00    23:07:17    01:35:17        913.13          39.10         3960.00       120/99 (Hipertension Nivel 2)
+360542856    Z ALLCROFT    18:37:00    23:22:47    04:45:47       2738.76          37.00         3503.00       113/93 (Elevada)
+261206037    A WHITEMARSH    22:10:00    23:53:13    01:43:13        989.16          38.20         5243.00       147/107 (Hipertension Nivel 2)
+505955668    Y JOANNIDI    22:42:00    23:18:11    00:36:11        346.76          40.00         3413.67       133/77 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:9
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   3
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   261-20-6037 con 5243.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      19:03:16
+  COSTO TOTAL POR LAS ATENCIONES:  10956.31
+============================================================================================================================================
+FECHA:    23/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+858856744    W QUIDDINGTON    00:43:00    01:00:13    00:17:13        164.99          37.20         3742.33       109/103 (Elevada)
+408403195    U WILDSMITH    05:05:00    08:00:30    02:55:30       1681.88          35.90         3003.33       106/85 (Elevada)
+255334780    O CLEMMEY    07:09:00    08:59:03    01:50:03       1054.65          38.30         4458.67       176/76 (Hipertension Nivel 2)
+298985532    D SPIRA    17:43:00    19:08:38    01:25:38        820.65          37.90         4233.00       153/83 (Hipertension Nivel 1)
+845194922    A GEFFINGER    18:00:00    18:09:01    00:09:01         86.41          38.90         3733.33       160/70 (Hipertension Nivel 2)
+17126921    S EUSTANCH    18:31:00    20:24:07    01:53:07       1084.03          38.90         3926.67       124/95 (Hipertension Nivel 2)
+794765261    R BREMING    19:13:00    20:38:26    01:25:26        818.74          38.20         2904.00       121/72 (Elevada)
+684938823    K CHILDE    19:21:00    20:53:35    01:32:35        887.26          37.90         5940.00       165/108 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:8
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   4
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   684-93-8823 con 5940.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      11:28:33
+  COSTO TOTAL POR LAS ATENCIONES:   6598.60
+============================================================================================================================================
+FECHA:    24/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+460156586    P STILLMANN    03:16:00    06:00:32    02:44:32       1576.78          35.90         2810.67       136/62 (Hipertension Nivel 1)
+597643246    Q DOODY    04:24:00    06:26:10    02:02:10       1170.76          38.00         4112.33       169/73 (Hipertension Nivel 2)
+209933232    Q BRAWN    11:35:00    13:04:31    01:29:31        857.87          39.30         3225.00       129/75 (Elevada)
+705468327    T WILSON    14:40:00    14:51:20    00:11:20        108.61          38.10         4293.33       161/80 (Hipertension Nivel 1)
+379548312    Z SZYMANEK    17:51:00    19:48:40    01:57:40       1127.64          38.40         4379.00       151/87 (Hipertension Nivel 1)
+802217879    T JENK    19:19:00    20:12:24    00:53:24        511.75          37.60         3366.67       101/100 (Elevada)
+369832373    F POINTING    19:23:00    19:29:44    00:06:44         64.53          36.80         3190.00       145/66 (Hipertension Nivel 2)
+243128113    N WINBORN    19:44:00    22:23:12    02:39:12       1525.67          37.60         3596.00       174/62 (Hipertension Nivel 2)
+160141320    K DE VAEN    22:49:00    23:10:49    00:21:49        209.08          37.20         5464.33       169/97 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:9
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   0
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   4
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   160-14-1320 con 5464.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      12:26:22
+  COSTO TOTAL POR LAS ATENCIONES:   7152.68
+============================================================================================================================================
+FECHA:    25/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+392875203    B DUHAM    00:44:00    01:10:39    00:26:39        255.40          37.60         3610.00       114/95 (Elevada)
+101134808    V GOWDRIDGE    01:36:00    01:55:05    00:19:05        182.88          39.60         5285.00       151/105 (Hipertension Nivel 2)
+609174908    E LENNEY    03:02:00    04:30:35    01:28:35        848.92          38.40         4788.00       171/84 (Hipertension Nivel 1)
+214648639    G LA WILLE    04:33:00    05:03:46    00:30:46        294.85          36.00         3841.33       172/67 (Hipertension Nivel 2)
+274849636    D KENNICOTT    05:35:00    07:03:46    01:28:46        850.68          36.50         1911.33        94/61 (Normal)
+613576485    U DADSWELL    07:51:00    08:25:27    00:34:27        330.15          37.50         3526.00       129/82 (Hipertension Nivel 1)
+36588539     I DUXFIELD    09:25:00    11:51:58    02:26:58       1408.43          37.90         3626.00       147/74 (Hipertension Nivel 2)
+785284887    O BOLT    22:01:00    23:50:24    01:49:24       1048.42          36.00         5013.33       160/94 (Hipertension Nivel 2)
+755904647    B GWILLIAM    23:01:00    23:36:09    00:35:09        336.85          37.10         5152.00       168/92 (Hipertension Nivel 2)
+69630533     T ERVINE    22:33:00    23:24:40    00:51:40        495.14          36.20         4429.67       137/97 (Hipertension Nivel 1)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   5
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   101-13-4808 con 5285.00
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      10:31:29
+  COSTO TOTAL POR LAS ATENCIONES:   6051.72
+============================================================================================================================================
+FECHA:    26/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+74952280     H SWANNE    01:57:00    03:47:31    01:50:31       1059.12          38.60         4487.33       127/106 (Hipertension Nivel 2)
+73476364    O FRIDAYE    07:01:00    07:52:06    00:51:06        489.71          35.50         3708.00       108/103 (Elevada)
+365593831    L BETTLESTONE    15:09:00    17:17:15    02:08:15       1229.06          36.50         5377.33       148/109 (Hipertension Nivel 2)
+396153301    M NORCLIFF    15:39:00    18:20:05    02:41:05       1543.72          39.90         5226.67       160/98 (Hipertension Nivel 2)
+458998740    P FOUNTAIN    16:43:00    19:01:53    02:18:53       1330.97          38.60         5338.67       176/91 (Hipertension Nivel 2)
+489739085    G HATTERSLEY    20:35:00    23:18:11    02:43:11       1563.84          35.60         5191.67       175/89 (Hipertension Nivel 1)
+66733602    Y LAMPEN    21:04:00    23:57:08    02:53:08       1659.19          37.70         3750.00       125/90 (Hipertension Nivel 2)
+230344538    C COSTI    21:37:00    22:41:32    01:04:32        618.44          38.30         2077.00        93/67 (Normal)
+695906476    A PAGET    21:49:00    22:58:14    01:09:14        663.49          36.60         3760.00       141/80 (Hipertension Nivel 1)
+402653498    Y SHARPE    20:57:00    23:11:40    02:14:40       1290.56          37.50         3286.67       116/85 (Elevada)
+820786035    I ARONOV    22:00:00    23:17:13    01:17:13        739.99          35.80         2720.00        96/85 (Elevada)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:11
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   5
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   365-59-3831 con 5377.33
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      21:11:48
+  COSTO TOTAL POR LAS ATENCIONES:  12188.08
+============================================================================================================================================
+FECHA:    27/04/2023
+REGISTRO DE ATENCIONES:
+--------------------------------------------------------------------------------------------------------------------------------------------
+                                                   DURACION DE LA   COSTO DE LA                   PRESION ARTERIAL         NIVEL DE LA
+ID          NOMBRE           INGRESO      ALTA       ATENCION       ATENCION    TEMPERATURA          MEDIA              PRESION ARTERIAL
+484453732    T ONDRASEK    03:45:00    06:18:12    02:33:12       1468.17          36.40         4176.00       144/87 (Hipertension Nivel 1)
+166365523    R CLAIDEN    07:15:00    08:03:26    00:48:26        464.15          37.40         4794.00       153/94 (Hipertension Nivel 2)
+6677227     S CASTAGNARO    07:34:00    07:36:58    00:02:58         28.43          35.50         2392.00        92/78 (Normal)
+74872573     C CASTILLE    08:11:00    09:58:16    01:47:16       1027.97          39.70         2952.00       123/72 (Elevada)
+735884353    G REDBOURN    08:59:00    10:39:12    01:40:12        960.25          36.70         3220.00       140/69 (Hipertension Nivel 2)
+304191206    C LILION    10:32:00    10:54:27    00:22:27        215.15          37.20         3825.33       151/76 (Hipertension Nivel 2)
+438353087    L BEAU    11:46:00    12:39:37    00:53:37        513.83          35.80         3423.33       130/79 (Hipertension Nivel 1)
+230574543    M WHITTLESEA    20:50:00    21:11:34    00:21:34        206.68          36.90         3309.33       136/73 (Hipertension Nivel 1)
+72829993    U CAPPELL    21:27:00    22:47:32    01:20:32        771.78          39.30         4000.00       120/100 (Hipertension Nivel 2)
+636959318    U REDSULL    22:05:00    23:09:15    01:04:15        615.73          39.60         5813.67       163/107 (Hipertension Nivel 2)
+--------------------------------------------------------------------------------------------------------------------------------------------
+  RESUMEN DEL CANAL:
+  CANTIDAD DE ATENCIONES:10
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN NORMAL:   1
+  CANTIDAD DE PACIENTES CON NIVEL DE LA PRESION ARTERIAL EN HIPERTENSION NIVEL 2:   5
+  PACIENTE CON MAYOR PRESION ARTERIAL MEDIA:   636-95-9318 con 5813.67
+  TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      10:54:29
+  COSTO TOTAL POR LAS ATENCIONES:   6272.13
+============================================================================================================================================
+RESUMEN FINAL
+   CANTIDAD DE ATENCIONES: 221
+   TIEMPO TOTAL DESTINADO A LAS ATENCIONES:      299:53:22
+   COSTO TOTAL POR LAS ATENCIONES:         172436.43
