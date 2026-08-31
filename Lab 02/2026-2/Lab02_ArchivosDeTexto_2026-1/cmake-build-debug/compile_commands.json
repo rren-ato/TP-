@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab02_ArchivosDeTexto_2026_1.dir\\main.cpp.obj -c D:\\EEGGCC\\TP\\LAB02\\2026_1_Laboratorio_02_20236332_Fernandez_Andre\\Lab02_ArchivosDeTexto_2026-1\\main.cpp",
+  "file": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/main.cpp",
+  "output": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug/CMakeFiles/Lab02_ArchivosDeTexto_2026_1.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab02_ArchivosDeTexto_2026_1.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c D:\\EEGGCC\\TP\\LAB02\\2026_1_Laboratorio_02_20236332_Fernandez_Andre\\Lab02_ArchivosDeTexto_2026-1\\Bibliotecas\\FuncionesAuxiliares.cpp",
+  "file": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug/CMakeFiles/Lab02_ArchivosDeTexto_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]

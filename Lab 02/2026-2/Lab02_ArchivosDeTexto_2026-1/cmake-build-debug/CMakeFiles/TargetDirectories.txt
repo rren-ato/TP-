@@ -1,0 +1,3 @@
+D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug/CMakeFiles/Lab02_ArchivosDeTexto_2026_1.dir
+D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/EEGGCC/TP/LAB02/2026_1_Laboratorio_02_20236332_Fernandez_Andre/Lab02_ArchivosDeTexto_2026-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
