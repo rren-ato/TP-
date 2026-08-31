@@ -1,0 +1,2017 @@
+                                              CLINICA DE URGENCIAS TP_SALUD
+                                                  REGISTRO DE ATENCIONES
+=======================================================================================================================================
+FECHA: 01/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 463179883          NOMBRE: TANBY LASTY X.               EDAD: 56         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 96     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:52:54    COSTO TOTAL: 505.51
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 332449371          NOMBRE: WESSEL CUBBINO X.            EDAD: 18         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.50     PRESION SISTOLICA: 106     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:12:00    COSTO TOTAL: 1849.12
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 421399248          NOMBRE: WHITEAR BOGGES H.            EDAD: 13         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 93     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:39:02    COSTO TOTAL: 1020.91
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 354256792          NOMBRE: FRACZKIEWICZ COATHUP S.      EDAD: 07         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 40.00     PRESION SISTOLICA: 123     PRESION DIASTOLICA: 93
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:04:22    COSTO TOTAL: 1247.04
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 609178678          NOMBRE: BIDDULPH CREBO M.            EDAD: 62         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.70     PRESION SISTOLICA: 152     PRESION DIASTOLICA: 80
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:25:19    COSTO TOTAL: 650.66
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 469306816          NOMBRE: VEVERS PREUVOST G.           EDAD: 34         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 162     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:53:38    COSTO TOTAL: 1465.75
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 799442163          NOMBRE: HURDLE TABER Z.              EDAD: 07         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.70     PRESION SISTOLICA: 140     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:50:34    COSTO TOTAL: 868.42
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 298107060          NOMBRE: HEARON MARTYGIN O.           EDAD: 34         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 111     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 03:14:39    COSTO TOTAL: 682.18
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 882391200          NOMBRE: YOCKNEY WALAK P.             EDAD: 10         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 144     PRESION DIASTOLICA: 105
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:39:35    COSTO TOTAL: 423.59
+=======================================================================================================================================
+FECHA: 02/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 521841782          NOMBRE: LABORDA FIDAL A.             EDAD: 32         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 104     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:28:23    COSTO TOTAL: 1226.78
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 814600292          NOMBRE: MULLANY GOBOURN Z.           EDAD: 16         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 40.00     PRESION SISTOLICA: 115     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:43:10    COSTO TOTAL: 1232.85
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 112443497          NOMBRE: GILLFORD SARTAIN Q.          EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.70     PRESION SISTOLICA: 111     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 02:56:26    COSTO TOTAL: 2108.39
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 551359369          NOMBRE: MURDY SIMONETTO B.           EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.70     PRESION SISTOLICA: 91     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:38:51    COSTO TOTAL: 1273.91
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 132481247          NOMBRE: CORDER EASTABROOK G.         EDAD: 58         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 162     PRESION DIASTOLICA: 64
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 00:51:39    COSTO TOTAL: 427.02
+=======================================================================================================================================
+FECHA: 03/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 240683060          NOMBRE: MITRIKHIN TOOTELL I.         EDAD: 66         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 135     PRESION DIASTOLICA: 100
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:36:20    COSTO TOTAL: 374.77
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 289260537          NOMBRE: SCOWN GIONETTITTI Y.         EDAD: 05         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.00     PRESION SISTOLICA: 91     PRESION DIASTOLICA: 63
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:38:10    COSTO TOTAL: 1585.95
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 797107600          NOMBRE: SIMONICH MALLETRATT V.       EDAD: 01         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 144     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:08:02    COSTO TOTAL: 1703.88
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 528576645          NOMBRE: DIKELS LUTY R.               EDAD: 44         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 105     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 00:33:24    COSTO TOTAL: 281.95
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 781400701          NOMBRE: BENEZ KUHNE A.               EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 146     PRESION DIASTOLICA: 71
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:12:54    COSTO TOTAL: 326.41
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 669742146          NOMBRE: CHILDE BILBY C.              EDAD: 58         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 133     PRESION DIASTOLICA: 109
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 03:22:15    COSTO TOTAL: 2134.72
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 444034235          NOMBRE: RATHE AISKRIGG G.            EDAD: 29         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 168     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:57:10    COSTO TOTAL: 1869.96
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 434165502          NOMBRE: BOGGISH ROMANET N.           EDAD: 50         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 170     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:26:20    COSTO TOTAL: 451.65
+=======================================================================================================================================
+FECHA: 04/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 603110846          NOMBRE: KOCHS MATTICCI C.            EDAD: 50         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 95     PRESION DIASTOLICA: 67
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:06:04    COSTO TOTAL: 295.81
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 795386179          NOMBRE: LANGSTON BEADE J.            EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 106     PRESION DIASTOLICA: 96
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:59:51    COSTO TOTAL: 509.80
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 278016800          NOMBRE: LAVEN SCOGIN E.              EDAD: 66         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 91     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:12:31    COSTO TOTAL: 578.39
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 607914614          NOMBRE: LOBE FLOREZ Z.               EDAD: 12         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 172     PRESION DIASTOLICA: 64
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:25:01    COSTO TOTAL: 1162.97
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 130624906          NOMBRE: PAIRPOINT SPURRIOR Q.        EDAD: 50         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 145     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 00:57:34    COSTO TOTAL: 485.96
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 892258683          NOMBRE: ALLDRIDGE COLLIARD G.        EDAD: 14         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.70     PRESION SISTOLICA: 138     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:00:59    COSTO TOTAL: 601.28
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 878550051          NOMBRE: WITCOMB HARRINGTON R.        EDAD: 22         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 119     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 03:00:52    COSTO TOTAL: 1222.18
+=======================================================================================================================================
+FECHA: 05/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 676032440          NOMBRE: PROTT TARN B.                EDAD: 13         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 157     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:55:42    COSTO TOTAL: 236.93
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 367529587          NOMBRE: LILLOE MILLAN R.             EDAD: 75         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.70     PRESION SISTOLICA: 145     PRESION DIASTOLICA: 105
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:38:48    COSTO TOTAL: 1130.90
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 378025523          NOMBRE: YURIKOV GOULDIE A.           EDAD: 23         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 147     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:55:30    COSTO TOTAL: 2458.49
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 897463852          NOMBRE: KLAGGEMAN SCHUBUSER P.       EDAD: 56         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 139     PRESION DIASTOLICA: 87
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:37:44    COSTO TOTAL: 2209.61
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 683465079          NOMBRE: RAITHMILL GOSTRIDGE B.       EDAD: 47         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.80     PRESION SISTOLICA: 140     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:41:59    COSTO TOTAL: 1406.80
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 784549931          NOMBRE: KINGDOM GOUDIE M.            EDAD: 46         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 121     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:25:30    COSTO TOTAL: 1191.90
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 553278559          NOMBRE: SATCH GARNSWORTHY Q.         EDAD: 08         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 109     PRESION DIASTOLICA: 63
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 00:51:05    COSTO TOTAL: 253.88
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 274808104          NOMBRE: MCILVENNA HADIGATE M.        EDAD: 44         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.80     PRESION SISTOLICA: 95     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:10:35    COSTO TOTAL: 316.04
+=======================================================================================================================================
+FECHA: 06/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 606559151          NOMBRE: UNION LERVEN T.              EDAD: 59         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 127     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:48:58    COSTO TOTAL: 756.55
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 635962790          NOMBRE: SCHOFFEL HOOKES H.           EDAD: 06         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.20     PRESION SISTOLICA: 120     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:50:47    COSTO TOTAL: 1712.46
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 662905190          NOMBRE: VEDEKHOV BLORE O.            EDAD: 71         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 89
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:00:08    COSTO TOTAL: 620.26
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 563012494          NOMBRE: DONOVIN BLAASCH D.           EDAD: 34         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 138     PRESION DIASTOLICA: 93
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 03:15:56    COSTO TOTAL: 2731.38
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 864785560          NOMBRE: PLACE COLESON Q.             EDAD: 14         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 118     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 00:59:01    COSTO TOTAL: 785.40
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 249323203          NOMBRE: WISBY RASELL C.              EDAD: 50         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 170     PRESION DIASTOLICA: 96
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:17:43    COSTO TOTAL: 1088.69
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 818268196          NOMBRE: BOSSINGHAM MACNALLY B.       EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 127     PRESION DIASTOLICA: 63
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:01:47    COSTO TOTAL: 276.63
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 458988860          NOMBRE: BECKINGHAM HELGASS J.        EDAD: 37         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.90     PRESION SISTOLICA: 165     PRESION DIASTOLICA: 102
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:50:01    COSTO TOTAL: 1383.90
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 254347286          NOMBRE: DALLIWATER SAWL Z.           EDAD: 34         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.70     PRESION SISTOLICA: 174     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:35:41    COSTO TOTAL: 335.34
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 658829991          NOMBRE: SIMON ROSCHER O.             EDAD: 07         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 169     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:38:18    COSTO TOTAL: 527.05
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 288056370          NOMBRE: SNOAD BRIXEY R.              EDAD: 16         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.40     PRESION SISTOLICA: 128     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:12:01    COSTO TOTAL: 958.40
+=======================================================================================================================================
+FECHA: 07/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 416455565          NOMBRE: SAIPY BUCKBY I.              EDAD: 20         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 167     PRESION DIASTOLICA: 102
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:01:49    COSTO TOTAL: 666.15
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 846587999          NOMBRE: BUDDINGTON MUNBY R.          EDAD: 27         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 153     PRESION DIASTOLICA: 67
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:57:09    COSTO TOTAL: 1538.52
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 145395406          NOMBRE: POTTERIDGE GLASSPOOL H.      EDAD: 69         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.10     PRESION SISTOLICA: 92     PRESION DIASTOLICA: 98
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 03:09:02    COSTO TOTAL: 1949.84
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 715127760          NOMBRE: TATTERS OVEY C.              EDAD: 49         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 106     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:21:52    COSTO TOTAL: 1987.34
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 176144067          NOMBRE: O'_MEARA BLAND Q.            EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 90     PRESION DIASTOLICA: 78
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:49:27    COSTO TOTAL: 1699.09
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 374261067          NOMBRE: POMFRETT MAILLARD V.         EDAD: 12         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 124     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:11:57    COSTO TOTAL: 655.78
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 442290481          NOMBRE: MACKEAN RADISH Q.            EDAD: 55         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:05:47    COSTO TOTAL: 440.83
+=======================================================================================================================================
+FECHA: 08/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 719636159          NOMBRE: FOLLITT REUVEN O.            EDAD: 54         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 99     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:46:47    COSTO TOTAL: 901.43
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 432345614          NOMBRE: DE_VERSON DEWHIRST E.        EDAD: 79         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 120     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:35:35    COSTO TOTAL: 1108.00
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 621486458          NOMBRE: EMBLIN KINSELLA N.           EDAD: 38         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.30     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 89
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:51:15    COSTO TOTAL: 1558.45
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 218420736          NOMBRE: CASIROLI DICKIN T.           EDAD: 55         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 121     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:10:43    COSTO TOTAL: 316.63
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 411324858          NOMBRE: AUGER MACTRUSTY J.           EDAD: 67         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 70
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 03:13:29    COSTO TOTAL: 1995.74
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 715745338          NOMBRE: REDBOURN FILKIN J.           EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 150     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:43:12    COSTO TOTAL: 361.68
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 341843922          NOMBRE: CREAMER CARSON K.            EDAD: 10         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.00     PRESION SISTOLICA: 164     PRESION DIASTOLICA: 86
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 03:03:04    COSTO TOTAL: 1175.19
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 344367156          NOMBRE: HALLIHAN MANDELL M.          EDAD: 44         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.60     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 02:04:50    COSTO TOTAL: 457.37
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 389275303          NOMBRE: DE_AMBROSIS NEVET B.         EDAD: 20         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 119     PRESION DIASTOLICA: 78
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:46:32    COSTO TOTAL: 880.78
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 502811725          NOMBRE: LUPARTO BOULDER W.           EDAD: 13         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 122     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 03:25:16    COSTO TOTAL: 1612.22
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 672892190          NOMBRE: KRIMMER RUSHMARE K.          EDAD: 33         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.20     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 78
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 00:54:16    COSTO TOTAL: 190.19
+---------------------------------------------------------------------------------------------------------------------------------------
+12) DATOS DEL PACIENTE:
+    ID: 175557298          NOMBRE: MCPHARLAIN STAPLEFORD M.     EDAD: 56         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 142     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 03:16:33    COSTO TOTAL: 2074.55
+---------------------------------------------------------------------------------------------------------------------------------------
+13) DATOS DEL PACIENTE:
+    ID: 514752742          NOMBRE: HOUSEGOE ROYLE S.            EDAD: 29         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 127     PRESION DIASTOLICA: 69
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:21:28    COSTO TOTAL: 687.71
+---------------------------------------------------------------------------------------------------------------------------------------
+14) DATOS DEL PACIENTE:
+    ID: 400487366          NOMBRE: PLANK MATTIOLI H.            EDAD: 64         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 161     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:53:46    COSTO TOTAL: 1466.88
+=======================================================================================================================================
+FECHA: 09/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 146694652          NOMBRE: ENGLISHBY SINGYARD I.        EDAD: 34         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.10     PRESION SISTOLICA: 179     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:19:24    COSTO TOTAL: 730.57
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 110779670          NOMBRE: CARSWELL SKACEL D.           EDAD: 36         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.70     PRESION SISTOLICA: 91     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:21:38    COSTO TOTAL: 674.92
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 294075007          NOMBRE: ROUNDTREE PERKINS R.         EDAD: 75         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 95     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 00:35:47    COSTO TOTAL: 153.50
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 501245548          NOMBRE: BARTRUM TOWEY W.             EDAD: 03         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 92     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:31:33    COSTO TOTAL: 1190.32
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 206254281          NOMBRE: COD YARRINGTON D.            EDAD: 72         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 178     PRESION DIASTOLICA: 71
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:59:31    COSTO TOTAL: 994.70
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 459361115          NOMBRE: DY GRIMSDITCH O.             EDAD: 38         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 125     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:47:55    COSTO TOTAL: 378.21
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 790279833          NOMBRE: SWALOWE MCCLORY C.           EDAD: 29         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.70     PRESION SISTOLICA: 163     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 03:03:08    COSTO TOTAL: 819.98
+=======================================================================================================================================
+FECHA: 10/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 706094564          NOMBRE: DELION VICKARS U.            EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.40     PRESION SISTOLICA: 97     PRESION DIASTOLICA: 103
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:00:30    COSTO TOTAL: 408.82
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 875623505          NOMBRE: BRITTAN RENOUF C.            EDAD: 07         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 105     PRESION DIASTOLICA: 81
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 03:04:37    COSTO TOTAL: 2206.18
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 455213671          NOMBRE: HATT COSTE D.                EDAD: 11         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 98     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:30:38    COSTO TOTAL: 1208.02
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 600623412          NOMBRE: TOMASIAN PONTING H.          EDAD: 14         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 160     PRESION DIASTOLICA: 71
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:54:31    COSTO TOTAL: 1524.00
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 113606899          NOMBRE: CAMMACK ITSCOVITZ W.         EDAD: 58         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.10     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:40:19    COSTO TOTAL: 561.86
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 343753388          NOMBRE: BRAUNROTH DAMREL M.          EDAD: 40         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.30     PRESION SISTOLICA: 125     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:31:09    COSTO TOTAL: 1146.58
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 294075007          NOMBRE: ROUNDTREE PERKINS R.         EDAD: 75         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 101     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:21:28    COSTO TOTAL: 451.41
+=======================================================================================================================================
+FECHA: 11/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 432345614          NOMBRE: DE_VERSON DEWHIRST E.        EDAD: 79         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 110     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 00:35:11    COSTO TOTAL: 238.52
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 135054896          NOMBRE: PASH POW P.                  EDAD: 17         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 115     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:04:17    COSTO TOTAL: 515.53
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 728155341          NOMBRE: CODA KIELY R.                EDAD: 12         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.60     PRESION SISTOLICA: 125     PRESION DIASTOLICA: 89
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:24:21    COSTO TOTAL: 926.65
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 345870533          NOMBRE: BURNESS ALYUKIN A.           EDAD: 20         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 125     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:31:10    COSTO TOTAL: 1595.54
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 852355869          NOMBRE: WILFING BRENNON T.           EDAD: 15         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 95
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:11:11    COSTO TOTAL: 436.77
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 112443497          NOMBRE: GILLFORD SARTAIN Q.          EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 156     PRESION DIASTOLICA: 87
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:50:50    COSTO TOTAL: 607.46
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 259100339          NOMBRE: DRAYSEY DODRIDGE Q.          EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 156     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:11:10    COSTO TOTAL: 850.45
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 404617141          NOMBRE: BRANDASSI SCHULER G.         EDAD: 46         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 146     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 03:13:55    COSTO TOTAL: 2439.28
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 554841081          NOMBRE: MELMETH BARROW J.            EDAD: 27         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 171     PRESION DIASTOLICA: 98
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:40:06    COSTO TOTAL: 1323.65
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 628789167          NOMBRE: CRAWSHAY PAMPHILON X.        EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 123     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 00:52:56    COSTO TOTAL: 193.94
+=======================================================================================================================================
+FECHA: 12/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 278016800          NOMBRE: LAVEN SCOGIN E.              EDAD: 66         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 109     PRESION DIASTOLICA: 89
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 00:56:08    COSTO TOTAL: 161.32
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 463179883          NOMBRE: TANBY LASTY X.               EDAD: 56         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 110     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:34:16    COSTO TOTAL: 330.37
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 496434865          NOMBRE: MEALIFFE WOODSTOCK L.        EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 163     PRESION DIASTOLICA: 78
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 03:25:06    COSTO TOTAL: 2859.16
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 195519264          NOMBRE: LINDENBERG LYMPANY C.        EDAD: 47         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.90     PRESION SISTOLICA: 116     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:55:15    COSTO TOTAL: 602.93
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 275361151          NOMBRE: TORALD TUMILSON C.           EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 91     PRESION DIASTOLICA: 64
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:00:52    COSTO TOTAL: 390.73
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 318271087          NOMBRE: MARROW BUSAIN Q.             EDAD: 74         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 164     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:58:13    COSTO TOTAL: 1208.22
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 207154815          NOMBRE: HESELWOOD BRATTAN O.         EDAD: 20         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:32:58    COSTO TOTAL: 416.26
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 839138580          NOMBRE: VAIN BARBERY X.              EDAD: 38         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 110     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 03:25:07    COSTO TOTAL: 1386.04
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 354759525          NOMBRE: FARLOE SHAYES L.             EDAD: 76         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 114     PRESION DIASTOLICA: 79
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:34:27    COSTO TOTAL: 405.17
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 598533927          NOMBRE: NANETTI NOADS S.             EDAD: 68         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 118     PRESION DIASTOLICA: 103
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:34:02    COSTO TOTAL: 1333.15
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 251388325          NOMBRE: HENLON MARJORAM X.           EDAD: 37         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 179     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:57:47    COSTO TOTAL: 1500.79
+---------------------------------------------------------------------------------------------------------------------------------------
+12) DATOS DEL PACIENTE:
+    ID: 169566778          NOMBRE: WHEELIKER BLITZ H.           EDAD: 65         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.60     PRESION SISTOLICA: 170     PRESION DIASTOLICA: 103
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:41:00    COSTO TOTAL: 462.69
+---------------------------------------------------------------------------------------------------------------------------------------
+13) DATOS DEL PACIENTE:
+    ID: 186285457          NOMBRE: MCKEURTON DOWNING L.         EDAD: 24         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.30     PRESION SISTOLICA: 158     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:10:35    COSTO TOTAL: 1079.62
+---------------------------------------------------------------------------------------------------------------------------------------
+14) DATOS DEL PACIENTE:
+    ID: 146694652          NOMBRE: ENGLISHBY SINGYARD I.        EDAD: 34         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.10     PRESION SISTOLICA: 150     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:14:11    COSTO TOTAL: 1870.56
+---------------------------------------------------------------------------------------------------------------------------------------
+15) DATOS DEL PACIENTE:
+    ID: 660862261          NOMBRE: KEYSALL MCKEOWN E.           EDAD: 27         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 122     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:39:54    COSTO TOTAL: 1388.70
+=======================================================================================================================================
+FECHA: 13/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 240683060          NOMBRE: MITRIKHIN TOOTELL I.         EDAD: 66         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 148     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:44:54    COSTO TOTAL: 747.05
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 496693161          NOMBRE: KUNZ SHARK A.                EDAD: 48         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 152     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:19:11    COSTO TOTAL: 354.54
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 206254281          NOMBRE: COD YARRINGTON D.            EDAD: 72         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 139     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:13:10    COSTO TOTAL: 1152.55
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 658829991          NOMBRE: SIMON ROSCHER O.             EDAD: 07         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.30     PRESION SISTOLICA: 144     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:30:58    COSTO TOTAL: 1999.30
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 854613541          NOMBRE: GETHINS LIGHTMAN U.          EDAD: 27         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.90     PRESION SISTOLICA: 167     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:30:59    COSTO TOTAL: 790.18
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 669742146          NOMBRE: CHILDE BILBY C.              EDAD: 58         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.00     PRESION SISTOLICA: 175     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:49:23    COSTO TOTAL: 593.63
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 124733676          NOMBRE: FUDGE BILOFSKY K.            EDAD: 48         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 40.00     PRESION SISTOLICA: 175     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 03:13:25    COSTO TOTAL: 1679.79
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 111194529          NOMBRE: GORVETTE KHOTER Q.           EDAD: 11         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 128     PRESION DIASTOLICA: 84
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:05:15    COSTO TOTAL: 538.35
+=======================================================================================================================================
+FECHA: 14/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 496434865          NOMBRE: MEALIFFE WOODSTOCK L.        EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.00     PRESION SISTOLICA: 107     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 00:59:57    COSTO TOTAL: 835.72
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 314593768          NOMBRE: MCFADIN RAGSDALE L.          EDAD: 24         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 172     PRESION DIASTOLICA: 103
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:34:29    COSTO TOTAL: 2164.08
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 374261067          NOMBRE: POMFRETT MAILLARD V.         EDAD: 12         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 169     PRESION DIASTOLICA: 84
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:08:42    COSTO TOTAL: 914.26
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 526032526          NOMBRE: ELFE YARR V.                 EDAD: 54         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.60     PRESION SISTOLICA: 98     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:20:43    COSTO TOTAL: 950.87
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 373707925          NOMBRE: MINGHI DIVES W.              EDAD: 16         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 175     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:21:36    COSTO TOTAL: 1112.17
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 705012168          NOMBRE: WHETHER JOWITT S.            EDAD: 70         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 171     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 01:24:07    COSTO TOTAL: 728.03
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 267105957          NOMBRE: KNIGHT GUSLON O.             EDAD: 26         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 131     PRESION DIASTOLICA: 79
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:28:03    COSTO TOTAL: 2073.96
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 760591309          NOMBRE: KORBA OAKLEY Z.              EDAD: 52         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 100     PRESION DIASTOLICA: 67
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:34:03    COSTO TOTAL: 1317.50
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 846667490          NOMBRE: CAUDRELIER CLISSETT T.       EDAD: 48         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:05:27    COSTO TOTAL: 912.39
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 218420736          NOMBRE: CASIROLI DICKIN T.           EDAD: 55         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 143     PRESION DIASTOLICA: 96
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:37:30    COSTO TOTAL: 806.10
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 570113903          NOMBRE: ADNAM AUDISS X.              EDAD: 26         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:03:14    COSTO TOTAL: 881.49
+---------------------------------------------------------------------------------------------------------------------------------------
+12) DATOS DEL PACIENTE:
+    ID: 368534901          NOMBRE: STUMP RUBINSZTEIN I.         EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 103     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:50:07    COSTO TOTAL: 2383.08
+---------------------------------------------------------------------------------------------------------------------------------------
+13) DATOS DEL PACIENTE:
+    ID: 603149459          NOMBRE: NEAME MILIER A.              EDAD: 69         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.80     PRESION SISTOLICA: 104     PRESION DIASTOLICA: 69
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:37:45    COSTO TOTAL: 389.38
+=======================================================================================================================================
+FECHA: 15/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 628201693          NOMBRE: ASKER KLIMKE H.              EDAD: 18         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.20     PRESION SISTOLICA: 155     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:17:02    COSTO TOTAL: 613.57
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 476997972          NOMBRE: BERRIMAN JANISSON D.         EDAD: 68         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.90     PRESION SISTOLICA: 149     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:30:25    COSTO TOTAL: 1019.75
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 524758060          NOMBRE: DUGGON SIMPSON R.            EDAD: 04         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 126     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 00:37:58    COSTO TOTAL: 243.73
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 802595463          NOMBRE: KERNELL SMYTHIN R.           EDAD: 24         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 118     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:52:20    COSTO TOTAL: 2402.38
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 112443497          NOMBRE: GILLFORD SARTAIN Q.          EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 40.00     PRESION SISTOLICA: 155     PRESION DIASTOLICA: 98
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:00:28    COSTO TOTAL: 628.14
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 715745338          NOMBRE: REDBOURN FILKIN J.           EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 167     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:26:10    COSTO TOTAL: 1208.46
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 728312493          NOMBRE: MCGARVA CHITTOCK W.          EDAD: 70         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 149     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 00:39:21    COSTO TOTAL: 452.01
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 117024931          NOMBRE: STUMMEYER TENBRUG N.         EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.10     PRESION SISTOLICA: 169     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 00:31:07    COSTO TOTAL: 244.40
+=======================================================================================================================================
+FECHA: 16/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 331092284          NOMBRE: MARCHINGTON LAITY X.         EDAD: 43         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 95
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:58:06    COSTO TOTAL: 260.14
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 260547458          NOMBRE: MCAVEY CHESNAY O.            EDAD: 29         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 111     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:04:49    COSTO TOTAL: 903.57
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 794765261          NOMBRE: IAMITTII BREMING R.          EDAD: 28         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.10     PRESION SISTOLICA: 126     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:37:07    COSTO TOTAL: 1364.53
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 259100339          NOMBRE: DRAYSEY DODRIDGE Q.          EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 90
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 00:55:57    COSTO TOTAL: 186.28
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 867068022          NOMBRE: OAKDEN TOURS W.              EDAD: 34         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 99     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:06:58    COSTO TOTAL: 350.34
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 548939953          NOMBRE: COCKSHUTT O'NEILL S.         EDAD: 73         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 137     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:44:53    COSTO TOTAL: 1141.35
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 256954828          NOMBRE: TOLOSSI KIMMINGS R.          EDAD: 28         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 166     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 01:39:58    COSTO TOTAL: 1055.13
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 316343057          NOMBRE: O'DOWD METHUEN X.            EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:33:27    COSTO TOTAL: 397.50
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 809146629          NOMBRE: CORRADINI KINMOND N.         EDAD: 51         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.90     PRESION SISTOLICA: 117     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:03:51    COSTO TOTAL: 527.89
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 606559151          NOMBRE: UNION LERVEN T.              EDAD: 59         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 127     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:53:41    COSTO TOTAL: 594.73
+=======================================================================================================================================
+FECHA: 17/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 428147095          NOMBRE: ROBIC PERES F.               EDAD: 39         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.00     PRESION SISTOLICA: 159     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:45:37    COSTO TOTAL: 1369.26
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 489438448          NOMBRE: HAM BUNSTONE O.              EDAD: 10         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:07:06    COSTO TOTAL: 998.28
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 600623412          NOMBRE: TOMASIAN PONTING H.          EDAD: 14         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 149     PRESION DIASTOLICA: 102
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:36:40    COSTO TOTAL: 438.17
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 689474564          NOMBRE: BEWLAY MCCOLM Q.             EDAD: 17         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 157     PRESION DIASTOLICA: 102
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:45:37    COSTO TOTAL: 847.00
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 194487359          NOMBRE: WILLOWBY STOWERS F.          EDAD: 60         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 130     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 00:53:48    COSTO TOTAL: 197.11
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 551809262          NOMBRE: EMMITT DEELAY K.             EDAD: 08         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 99     PRESION DIASTOLICA: 87
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:23:07    COSTO TOTAL: 1180.80
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 554841081          NOMBRE: MELMETH BARROW J.            EDAD: 27         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.00     PRESION SISTOLICA: 115     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:12:24    COSTO TOTAL: 692.65
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 306598935          NOMBRE: ELDERTON URPETH O.           EDAD: 44         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 111     PRESION DIASTOLICA: 67
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:16:51    COSTO TOTAL: 1071.31
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 367682505          NOMBRE: ALMACK HUMPHERSON D.         EDAD: 06         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 135     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:55:35    COSTO TOTAL: 236.43
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 229852969          NOMBRE: KITTLEY NAJERA K.            EDAD: 17         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.30     PRESION SISTOLICA: 90     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:14:23    COSTO TOTAL: 862.67
+=======================================================================================================================================
+FECHA: 18/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 288056370          NOMBRE: SNOAD BRIXEY R.              EDAD: 16         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 155     PRESION DIASTOLICA: 100
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 03:11:22    COSTO TOTAL: 1534.68
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 278843772          NOMBRE: BAUDASSO TODARINI Z.         EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 90     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 00:38:12    COSTO TOTAL: 127.18
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 781400701          NOMBRE: BENEZ KUHNE A.               EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.60     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:49:55    COSTO TOTAL: 1434.38
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 721193123          NOMBRE: WICKHAM FRANZELINI I.        EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 141     PRESION DIASTOLICA: 81
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:29:46    COSTO TOTAL: 730.12
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 455213671          NOMBRE: HATT COSTE D.                EDAD: 11         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 136     PRESION DIASTOLICA: 89
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 01:50:40    COSTO TOTAL: 1109.66
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 140302555          NOMBRE: MAMMATT VASILCHENKO L.       EDAD: 19         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.20     PRESION SISTOLICA: 163     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 03:11:31    COSTO TOTAL: 1001.92
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 335732892          NOMBRE: PIWALL RICKS Y.              EDAD: 15         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 176     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:32:13    COSTO TOTAL: 1255.88
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 310752760          NOMBRE: MENGUY MAYHOW B.             EDAD: 78         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 00:49:12    COSTO TOTAL: 565.16
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 496239655          NOMBRE: MICKLEBURGH MAFFIN X.        EDAD: 15         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 165     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:00:55    COSTO TOTAL: 488.53
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 421399248          NOMBRE: WHITEAR BOGGES H.            EDAD: 13         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 100     PRESION DIASTOLICA: 91
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 01:17:40    COSTO TOTAL: 270.33
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 180358890          NOMBRE: BRILLEMAN VIGURS S.          EDAD: 22         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 92     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:14:45    COSTO TOTAL: 472.25
+=======================================================================================================================================
+FECHA: 19/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 849837668          NOMBRE: CUTRESS OGILVIE G.           EDAD: 05         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 125     PRESION DIASTOLICA: 86
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:36:47    COSTO TOTAL: 1006.47
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 593362410          NOMBRE: WHOPPLES WRIGHTSON G.        EDAD: 23         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 94     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 02:59:50    COSTO TOTAL: 658.88
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 304723326          NOMBRE: BLAKENEY BRITO O.            EDAD: 73         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 172     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:11:34    COSTO TOTAL: 483.05
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 412296293          NOMBRE: TRETT GIANNESCHI J.          EDAD: 76         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.80     PRESION SISTOLICA: 119     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:32:44    COSTO TOTAL: 956.52
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 113606899          NOMBRE: CAMMACK ITSCOVITZ W.         EDAD: 58         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 174     PRESION DIASTOLICA: 92
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 03:17:07    COSTO TOTAL: 1711.93
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 510695252          NOMBRE: SPELMAN MABON Y.             EDAD: 51         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.30     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:11:51    COSTO TOTAL: 606.53
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 157317520          NOMBRE: SLAFFORD GWILLIM K.          EDAD: 47         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 131     PRESION DIASTOLICA: 70
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:40:14    COSTO TOTAL: 1324.76
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 636906357          NOMBRE: DANFORD LAMBARTH B.          EDAD: 57         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.50     PRESION SISTOLICA: 160     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 02:54:50    COSTO TOTAL: 2199.23
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 672892190          NOMBRE: KRIMMER RUSHMARE K.          EDAD: 33         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 116     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 03:04:49    COSTO TOTAL: 2589.00
+=======================================================================================================================================
+FECHA: 20/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 452961280          NOMBRE: SNEDKER PAOLUCCI C.          EDAD: 33         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 134     PRESION DIASTOLICA: 87
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 03:00:51    COSTO TOTAL: 662.60
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 253845746          NOMBRE: HAULKHAM CELLI Q.            EDAD: 22         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 176     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 03:00:00    COSTO TOTAL: 1563.27
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 166202794          NOMBRE: SYNCKE PERCY U.              EDAD: 68         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.70     PRESION SISTOLICA: 171     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 00:46:08    COSTO TOTAL: 312.76
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 621486458          NOMBRE: EMBLIN KINSELLA N.           EDAD: 38         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 160     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 01:09:57    COSTO TOTAL: 738.31
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 310269113          NOMBRE: KEPP SIMPOLE C.              EDAD: 16         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 141     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 00:53:23    COSTO TOTAL: 185.81
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 341843922          NOMBRE: CREAMER CARSON K.            EDAD: 10         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 147     PRESION DIASTOLICA: 99
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:26:33    COSTO TOTAL: 1469.47
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 782344167          NOMBRE: AICKEN OSGARBY X.            EDAD: 36         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.90     PRESION SISTOLICA: 137     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:35:03    COSTO TOTAL: 1636.53
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 548786274          NOMBRE: TINCOMBE HOUSEGOE Z.         EDAD: 70         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.30     PRESION SISTOLICA: 166     PRESION DIASTOLICA: 63
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:51:45    COSTO TOTAL: 533.79
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 828490441          NOMBRE: PROOM JENSEN U.              EDAD: 19         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 65
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:45:11    COSTO TOTAL: 470.96
+=======================================================================================================================================
+FECHA: 21/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 825237126          NOMBRE: TRUMPER CLARKE WILLIAMS W.   EDAD: 42         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.50     PRESION SISTOLICA: 147     PRESION DIASTOLICA: 109
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 03:02:59    COSTO TOTAL: 2301.75
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 215507038          NOMBRE: TROUBRIDGE AGNEY R.          EDAD: 34         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 168     PRESION DIASTOLICA: 72
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:43:34    COSTO TOTAL: 856.25
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 421277766          NOMBRE: WINFINDINE MC_COUGHAN O.     EDAD: 51         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 159     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:14:53    COSTO TOTAL: 705.64
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 145050045          NOMBRE: WATKINSON JEFFERY K.         EDAD: 38         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.40     PRESION SISTOLICA: 111     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:46:47    COSTO TOTAL: 584.52
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 888705454          NOMBRE: DURRANT BOLSTERIDGE Q.       EDAD: 16         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 161     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:31:12    COSTO TOTAL: 453.26
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 457452849          NOMBRE: SHARPLESS STERT D.           EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 100     PRESION DIASTOLICA: 109
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:13:58    COSTO TOTAL: 979.56
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 335849373          NOMBRE: CLENDENNEN HAGLINTON C.      EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 158     PRESION DIASTOLICA: 75
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:34:17    COSTO TOTAL: 468.58
+=======================================================================================================================================
+FECHA: 22/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 520322321          NOMBRE: GULL ANTRACK X.              EDAD: 35         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 93
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 02:07:58    COSTO TOTAL: 468.85
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 662905190          NOMBRE: VEDEKHOV BLORE O.            EDAD: 71         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.40     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 01:24:55    COSTO TOTAL: 311.78
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 497866002          NOMBRE: IKRINGILL COLL W.            EDAD: 72         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 117     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:17:35    COSTO TOTAL: 891.20
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 767424576          NOMBRE: WHARLTON END M.              EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 170     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:15:29    COSTO TOTAL: 474.82
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 635962790          NOMBRE: SCHOFFEL HOOKES H.           EDAD: 06         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 135     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:16:38    COSTO TOTAL: 1809.48
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 251729605          NOMBRE: HARG GENTRY I.               EDAD: 35         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 113     PRESION DIASTOLICA: 103
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 03:28:53    COSTO TOTAL: 1763.32
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 852355869          NOMBRE: WILFING BRENNON T.           EDAD: 15         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.30     PRESION SISTOLICA: 115     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:15:43    COSTO TOTAL: 607.22
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 285410221          NOMBRE: GIDDEN AGGISS N.             EDAD: 39         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 165     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 03:04:01    COSTO TOTAL: 1598.15
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 198356734          NOMBRE: GONEAU EYKEL U.              EDAD: 49         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 126     PRESION DIASTOLICA: 63
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:18:02    COSTO TOTAL: 273.48
+=======================================================================================================================================
+FECHA: 23/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 175557298          NOMBRE: MCPHARLAIN STAPLEFORD M.     EDAD: 56         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 107     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:10:53    COSTO TOTAL: 615.61
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 897463852          NOMBRE: KLAGGEMAN SCHUBUSER P.       EDAD: 56         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 136     PRESION DIASTOLICA: 94
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:36:45    COSTO TOTAL: 653.77
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 610553526          NOMBRE: DREWET OVID Y.               EDAD: 29         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 107     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:28:35    COSTO TOTAL: 732.38
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 319839008          NOMBRE: BURNSIDE HESBROOK H.         EDAD: 70         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.00     PRESION SISTOLICA: 149     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:19:45    COSTO TOTAL: 1597.49
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 760334176          NOMBRE: READMIRE DEAR Q.             EDAD: 45         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.10     PRESION SISTOLICA: 178     PRESION DIASTOLICA: 95
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:35:52    COSTO TOTAL: 1315.77
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 176144067          NOMBRE: O'_MEARA BLAND Q.            EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 95     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:12:19    COSTO TOTAL: 1752.31
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 260112849          NOMBRE: FELMINGHAM VINSON D.         EDAD: 66         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 101     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:33:57    COSTO TOTAL: 124.65
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 839138580          NOMBRE: VAIN BARBERY X.              EDAD: 38         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.80     PRESION SISTOLICA: 131     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 00:43:32    COSTO TOTAL: 367.49
+=======================================================================================================================================
+FECHA: 24/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 621707472          NOMBRE: BRAYBROOKES BISSIKER T.      EDAD: 63         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 103     PRESION DIASTOLICA: 101
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:59:56    COSTO TOTAL: 1518.94
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 643903414          NOMBRE: MACINNES MANGHAM U.          EDAD: 64         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 145     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 03:28:33    COSTO TOTAL: 1724.22
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 463179883          NOMBRE: TANBY LASTY X.               EDAD: 56         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.20     PRESION SISTOLICA: 102     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 03:16:59    COSTO TOTAL: 1710.77
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 190912664          NOMBRE: LEAD GOULLEE C.              EDAD: 14         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.10     PRESION SISTOLICA: 109     PRESION DIASTOLICA: 98
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:32:22    COSTO TOTAL: 762.08
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 288918881          NOMBRE: FANNON SCOTCHBOUROUGE Z.     EDAD: 42         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.00     PRESION SISTOLICA: 129     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 01:01:17    COSTO TOTAL: 224.53
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 275361151          NOMBRE: TORALD TUMILSON C.           EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 163     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 00:30:49    COSTO TOTAL: 410.11
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 178521500          NOMBRE: WASIELEWICZ BEAVINGTON K.    EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 156     PRESION DIASTOLICA: 95
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:30:12    COSTO TOTAL: 1179.71
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 181457803          NOMBRE: PORTCHMOUTH CISLAND O.       EDAD: 21         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 101     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 01:55:03    COSTO TOTAL: 951.20
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 597410817          NOMBRE: INNS TITMAN T.               EDAD: 13         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 01:22:03    COSTO TOTAL: 676.96
+=======================================================================================================================================
+FECHA: 25/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 794743955          NOMBRE: EMMANUELE CUNNINGHAM E.      EDAD: 15         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.40     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:38:12    COSTO TOTAL: 1586.29
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 728155341          NOMBRE: CODA KIELY R.                EDAD: 12         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 166     PRESION DIASTOLICA: 64
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:45:02    COSTO TOTAL: 820.20
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 621707472          NOMBRE: BRAYBROOKES BISSIKER T.      EDAD: 63         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.10     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 78
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:49:56    COSTO TOTAL: 760.88
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 166202794          NOMBRE: SYNCKE PERCY U.              EDAD: 68         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.90     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:48:15    COSTO TOTAL: 1456.20
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 661567551          NOMBRE: SIDDEN WOLLARD W.            EDAD: 33         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 122     PRESION DIASTOLICA: 80
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:43:54    COSTO TOTAL: 2295.99
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 794765261          NOMBRE: IAMITTII BREMING R.          EDAD: 28         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.20     PRESION SISTOLICA: 164     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:41:29    COSTO TOTAL: 1421.63
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 471834980          NOMBRE: DI_FRANCESHCI LOMAX Z.       EDAD: 53         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 141     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:47:03    COSTO TOTAL: 903.68
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 306598935          NOMBRE: ELDERTON URPETH O.           EDAD: 44         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.00     PRESION SISTOLICA: 128     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:33:09    COSTO TOTAL: 1330.08
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 716807186          NOMBRE: GODSPEEDE VENNERS S.         EDAD: 29         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.80     PRESION SISTOLICA: 166     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 00:47:15    COSTO TOTAL: 594.36
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 609178678          NOMBRE: BIDDULPH CREBO M.            EDAD: 62         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 115     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:59:36    COSTO TOTAL: 266.86
+=======================================================================================================================================
+FECHA: 26/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 867068022          NOMBRE: OAKDEN TOURS W.              EDAD: 34         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 142     PRESION DIASTOLICA: 81
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 00:34:30    COSTO TOTAL: 233.13
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 553278559          NOMBRE: SATCH GARNSWORTHY Q.         EDAD: 08         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 171     PRESION DIASTOLICA: 98
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 02:03:32    COSTO TOTAL: 1476.23
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 444834739          NOMBRE: SCHOUT AIREY Q.              EDAD: 44         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.00     PRESION SISTOLICA: 94     PRESION DIASTOLICA: 70
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 01:00:29    COSTO TOTAL: 211.97
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 112443497          NOMBRE: GILLFORD SARTAIN Q.          EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.90     PRESION SISTOLICA: 144     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 02:17:01    COSTO TOTAL: 680.96
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 864785560          NOMBRE: PLACE COLESON Q.             EDAD: 14         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.70     PRESION SISTOLICA: 162     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 03:28:35    COSTO TOTAL: 1672.75
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 760591309          NOMBRE: KORBA OAKLEY Z.              EDAD: 52         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 112     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:46:06    COSTO TOTAL: 1334.63
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 388342380          NOMBRE: ABRAHAMS NORMANTON E.        EDAD: 46         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 114     PRESION DIASTOLICA: 92
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:50:02    COSTO TOTAL: 1405.78
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 846587999          NOMBRE: BUDDINGTON MUNBY R.          EDAD: 27         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.20     PRESION SISTOLICA: 126     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 03:03:13    COSTO TOTAL: 820.35
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 802595463          NOMBRE: KERNELL SMYTHIN R.           EDAD: 24         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 151     PRESION DIASTOLICA: 60
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:51:18    COSTO TOTAL: 1416.25
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 574653712          NOMBRE: JACSON MASSOW J.             EDAD: 25         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 102     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 521.09     DURACION: 02:17:19    COSTO TOTAL: 1192.57
+---------------------------------------------------------------------------------------------------------------------------------------
+11) DATOS DEL PACIENTE:
+    ID: 404617141          NOMBRE: BRANDASSI SCHULER G.         EDAD: 46         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.70     PRESION SISTOLICA: 104     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 01:03:23    COSTO TOTAL: 797.30
+=======================================================================================================================================
+FECHA: 27/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 636906357          NOMBRE: DANFORD LAMBARTH B.          EDAD: 57         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 40.00     PRESION SISTOLICA: 171     PRESION DIASTOLICA: 95
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:19:09    COSTO TOTAL: 487.67
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 875623505          NOMBRE: BRITTAN RENOUF C.            EDAD: 07         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.50     PRESION SISTOLICA: 179     PRESION DIASTOLICA: 86
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 02:24:53    COSTO TOTAL: 504.29
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 294306567          NOMBRE: CANTY WINTERBORNE E.         EDAD: 21         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 146     PRESION DIASTOLICA: 61
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 00:34:59    COSTO TOTAL: 487.68
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 256954828          NOMBRE: TOLOSSI KIMMINGS R.          EDAD: 28         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.40     PRESION SISTOLICA: 120     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 02:55:01    COSTO TOTAL: 1847.27
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 699998759          NOMBRE: TIMEWELL STEBBING Y.         EDAD: 27         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 129     PRESION DIASTOLICA: 106
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 633.29     DURACION: 01:06:13    COSTO TOTAL: 698.91
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 526032526          NOMBRE: ELFE YARR V.                 EDAD: 54         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.60     PRESION SISTOLICA: 131     PRESION DIASTOLICA: 80
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:45:46    COSTO TOTAL: 714.70
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 213044901          NOMBRE: GREEDING ZUM_FELDE L.        EDAD: 21         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 90     PRESION DIASTOLICA: 93
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 02:13:14    COSTO TOTAL: 466.94
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 421399248          NOMBRE: WHITEAR BOGGES H.            EDAD: 13         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.50     PRESION SISTOLICA: 159     PRESION DIASTOLICA: 87
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 03:09:33    COSTO TOTAL: 1520.11
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 416455565          NOMBRE: SAIPY BUCKBY I.              EDAD: 20         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.40     PRESION SISTOLICA: 131     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:48:57    COSTO TOTAL: 736.21
+---------------------------------------------------------------------------------------------------------------------------------------
+10) DATOS DEL PACIENTE:
+    ID: 310269113          NOMBRE: KEPP SIMPOLE C.              EDAD: 16         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 132     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 00:33:08    COSTO TOTAL: 140.94
+=======================================================================================================================================
+FECHA: 28/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 280604794          NOMBRE: WYBURN GILLINGHAM Z.         EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.50     PRESION SISTOLICA: 160     PRESION DIASTOLICA: 68
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 02:52:16    COSTO TOTAL: 2413.20
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 145050045          NOMBRE: WATKINSON JEFFERY K.         EDAD: 38         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.60     PRESION SISTOLICA: 145     PRESION DIASTOLICA: 69
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:06:42    COSTO TOTAL: 563.06
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 229852969          NOMBRE: KITTLEY NAJERA K.            EDAD: 17         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.00     PRESION SISTOLICA: 143     PRESION DIASTOLICA: 66
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 01:15:33    COSTO TOTAL: 484.99
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 890839216          NOMBRE: DRIFFILL MEMBRY H.           EDAD: 59         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 94     PRESION DIASTOLICA: 77
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 00:42:32    COSTO TOTAL: 287.41
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 367529587          NOMBRE: LILLOE MILLAN R.             EDAD: 75         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.60     PRESION SISTOLICA: 90     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 01:53:06    COSTO TOTAL: 485.18
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 476997972          NOMBRE: BERRIMAN JANISSON D.         EDAD: 68         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.80     PRESION SISTOLICA: 164     PRESION DIASTOLICA: 93
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 210.28     DURACION: 00:37:52    COSTO TOTAL: 108.82
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 319839008          NOMBRE: BURNSIDE HESBROOK H.         EDAD: 70         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.90     PRESION SISTOLICA: 120     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:01:02    COSTO TOTAL: 1383.54
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 698471909          NOMBRE: BRIANCE WHITTOCK C.          EDAD: 47         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 166     PRESION DIASTOLICA: 83
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 03:04:51    COSTO TOTAL: 2576.87
+---------------------------------------------------------------------------------------------------------------------------------------
+09) DATOS DEL PACIENTE:
+    ID: 117024931          NOMBRE: STUMMEYER TENBRUG N.         EDAD: 04         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.60     PRESION SISTOLICA: 175     PRESION DIASTOLICA: 82
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:23:04    COSTO TOTAL: 918.41
+=======================================================================================================================================
+FECHA: 29/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 893185714          NOMBRE: SNELGROVE GAMBIE O.          EDAD: 49         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 147     PRESION DIASTOLICA: 108
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:27:31    COSTO TOTAL: 2056.43
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 289260537          NOMBRE: SCOWN GIONETTITTI Y.         EDAD: 05         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.30     PRESION SISTOLICA: 121     PRESION DIASTOLICA: 64
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 840.51     DURACION: 01:33:17    COSTO TOTAL: 1241.42
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 799212876          NOMBRE: WHERRY DILLAWAY X.           EDAD: 19         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.10     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 69
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 01:12:38    COSTO TOTAL: 1012.53
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 194487359          NOMBRE: WILLOWBY STOWERS F.          EDAD: 60         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.80     PRESION SISTOLICA: 105     PRESION DIASTOLICA: 85
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 836.42     DURACION: 02:47:19    COSTO TOTAL: 2332.45
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 496434865          NOMBRE: MEALIFFE WOODSTOCK L.        EDAD: 22         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.90     PRESION SISTOLICA: 122     PRESION DIASTOLICA: 97
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 496.06     DURACION: 02:01:48    COSTO TOTAL: 1007.00
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 659643380          NOMBRE: ROUGHT WAHNER C.             EDAD: 61         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.80     PRESION SISTOLICA: 108     PRESION DIASTOLICA: 80
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:21:27    COSTO TOTAL: 1194.07
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 809146629          NOMBRE: CORRADINI KINMOND N.         EDAD: 51         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.10     PRESION SISTOLICA: 153     PRESION DIASTOLICA: 76
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:40:57    COSTO TOTAL: 1087.59
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 207154815          NOMBRE: HESELWOOD BRATTAN O.         EDAD: 20         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 35.70     PRESION SISTOLICA: 172     PRESION DIASTOLICA: 62
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:11:47    COSTO TOTAL: 590.06
+=======================================================================================================================================
+FECHA: 30/04/2023
+PACIENTES ATENDIDOS:
+---------------------------------------------------------------------------------------------------------------------------------------
+01) DATOS DEL PACIENTE:
+    ID: 844819989          NOMBRE: BUTTS VELDENS C.             EDAD: 17         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 37.10     PRESION SISTOLICA: 103     PRESION DIASTOLICA: 107
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 268.65     DURACION: 02:11:54    COSTO TOTAL: 561.05
+---------------------------------------------------------------------------------------------------------------------------------------
+02) DATOS DEL PACIENTE:
+    ID: 683465079          NOMBRE: RAITHMILL GOSTRIDGE B.       EDAD: 47         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 137     PRESION DIASTOLICA: 100
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 313.89     DURACION: 03:17:00    COSTO TOTAL: 1030.61
+---------------------------------------------------------------------------------------------------------------------------------------
+03) DATOS DEL PACIENTE:
+    ID: 551359369          NOMBRE: MURDY SIMONETTO B.           EDAD: 09         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.20     PRESION SISTOLICA: 152     PRESION DIASTOLICA: 67
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 754.74     DURACION: 02:55:42    COSTO TOTAL: 2099.62
+---------------------------------------------------------------------------------------------------------------------------------------
+04) DATOS DEL PACIENTE:
+    ID: 369335075          NOMBRE: LETHBURY ESPOSI H.           EDAD: 08         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.40     PRESION SISTOLICA: 128     PRESION DIASTOLICA: 74
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 01:53:50    COSTO TOTAL: 396.21
+---------------------------------------------------------------------------------------------------------------------------------------
+05) DATOS DEL PACIENTE:
+    ID: 274629187          NOMBRE: STANWAY ESLAND O.            EDAD: 42         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 38.80     PRESION SISTOLICA: 154     PRESION DIASTOLICA: 109
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 02:53:30    COSTO TOTAL: 1464.63
+---------------------------------------------------------------------------------------------------------------------------------------
+06) DATOS DEL PACIENTE:
+    ID: 206254281          NOMBRE: COD YARRINGTON D.            EDAD: 72         SEXO: FEMENINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.30     PRESION SISTOLICA: 173     PRESION DIASTOLICA: 88
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 405.44     DURACION: 02:44:15    COSTO TOTAL: 910.11
+---------------------------------------------------------------------------------------------------------------------------------------
+07) DATOS DEL PACIENTE:
+    ID: 878367830          NOMBRE: BRIMILCOME PIETRZYK J.       EDAD: 19         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 36.60     PRESION SISTOLICA: 177     PRESION DIASTOLICA: 73
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 506.50     DURACION: 01:44:07    COSTO TOTAL: 878.92
+---------------------------------------------------------------------------------------------------------------------------------------
+08) DATOS DEL PACIENTE:
+    ID: 628789167          NOMBRE: CRAWSHAY PAMPHILON X.        EDAD: 26         SEXO: MASCULINO
+    SIGNOS VITALES:
+    TEMPERATURA: 39.00     PRESION SISTOLICA: 165     PRESION DIASTOLICA: 104
+    ATENCION:
+    COSTO POR HORA SEGUN LA ESPECIALIDAD: 219.83     DURACION: 00:44:40    COSTO TOTAL: 163.65
