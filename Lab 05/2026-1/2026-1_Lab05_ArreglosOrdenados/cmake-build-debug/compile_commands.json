@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\2026_1_Lab05_ArreglosOrdenados.dir\\main.cpp.obj -c D:\\EEGGCC\\TP\\LAB05\\2026_1_Laboratorio_05_20236332_Fernandez_Andre\\2026-1_Lab05_ArreglosOrdenados\\main.cpp",
+  "file": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/main.cpp",
+  "output": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/cmake-build-debug/CMakeFiles/2026_1_Lab05_ArreglosOrdenados.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\2026_1_Lab05_ArreglosOrdenados.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c D:\\EEGGCC\\TP\\LAB05\\2026_1_Laboratorio_05_20236332_Fernandez_Andre\\2026-1_Lab05_ArreglosOrdenados\\Bibliotecas\\FuncionesAuxiliares.cpp",
+  "file": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/TP/LAB05/2026_1_Laboratorio_05_20236332_Fernandez_Andre/2026-1_Lab05_ArreglosOrdenados/cmake-build-debug/CMakeFiles/2026_1_Lab05_ArreglosOrdenados.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
