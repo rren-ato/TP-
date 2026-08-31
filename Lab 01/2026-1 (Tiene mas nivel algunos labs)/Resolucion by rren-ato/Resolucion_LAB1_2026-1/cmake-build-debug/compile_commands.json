@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Resolucion_LAB1_2026_1.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2026-1\\Lab 1\\Resolucion_LAB1_2026-1\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/cmake-build-debug/CMakeFiles/Resolucion_LAB1_2026_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Resolucion_LAB1_2026_1.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2026-1\\Lab 1\\Resolucion_LAB1_2026-1\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2026-1/Lab 1/Resolucion_LAB1_2026-1/cmake-build-debug/CMakeFiles/Resolucion_LAB1_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
