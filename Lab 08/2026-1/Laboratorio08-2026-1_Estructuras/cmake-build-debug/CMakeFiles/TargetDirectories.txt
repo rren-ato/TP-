@@ -1,0 +1,3 @@
+D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug/CMakeFiles/Laboratorio08_2026_1_Estructuras.dir
+D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir

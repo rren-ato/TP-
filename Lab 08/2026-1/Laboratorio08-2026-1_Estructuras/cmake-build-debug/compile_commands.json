@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Laboratorio08_2026_1_Estructuras.dir\\main.cpp.obj -c D:\\Cursos\\TP\\LAB08\\Lab08_2026_1_20236332_Fernandez_Andre\\Laboratorio08-2026-1_Estructuras\\main.cpp",
+  "file": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/main.cpp",
+  "output": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug/CMakeFiles/Laboratorio08_2026_1_Estructuras.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Laboratorio08_2026_1_Estructuras.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c D:\\Cursos\\TP\\LAB08\\Lab08_2026_1_20236332_Fernandez_Andre\\Laboratorio08-2026-1_Estructuras\\Bibliotecas\\FuncionesAuxiliares.cpp",
+  "file": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/Cursos/TP/LAB08/Lab08_2026_1_20236332_Fernandez_Andre/Laboratorio08-2026-1_Estructuras/cmake-build-debug/CMakeFiles/Laboratorio08_2026_1_Estructuras.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]

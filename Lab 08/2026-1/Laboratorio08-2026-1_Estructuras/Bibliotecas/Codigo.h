@@ -1,0 +1,10 @@
+#ifndef LABORATORIO08_2026_1_ESTRUCTURAS_CODIGO_H
+#define LABORATORIO08_2026_1_ESTRUCTURAS_CODIGO_H
+
+struct Codigo {
+    int valor1;
+    int valor2;
+    int valor3;
+};
+
+#endif //LABORATORIO08_2026_1_ESTRUCTURAS_CODIGO_H
