@@ -1,0 +1,3 @@
+D:/EEGGCC/TP/Examen1_2026_1_20236332_Fernandez_Andre/Pregunta1_2026_1/cmake-build-debug/CMakeFiles/Pregunta1_2026_1.dir
+D:/EEGGCC/TP/Examen1_2026_1_20236332_Fernandez_Andre/Pregunta1_2026_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/EEGGCC/TP/Examen1_2026_1_20236332_Fernandez_Andre/Pregunta1_2026_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

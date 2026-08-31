@@ -1,0 +1,421 @@
+=======================================================================================================================================
+                                                 CLINICA DE URGENCIAS TP_SALUD
+                                                      ATENCIONES POR SEDE
+=======================================================================================================================================
+SEDE: 513 - SAN MARTIN DE PORRES
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   770827913 - HASELDINE LONGWORTH N.        02:12:00      8618 - MORALES VALVERDE INES MARTHA           805       252.54
+02) 01/04/2023   378125523 - YURIKOV GOULDIE A.            02:25:19      6506 - SALAS AGUERO DANIEL                    368       339.36
+03) 07/04/2023   888461367 - DOXSEY LEVEE W.               02:05:47      6506 - SALAS AGUERO DANIEL                    368       293.75
+04) 08/04/2023   462373053 - SPRACKLIN HEMPEL A.           03:03:04      9994 - CALDERON ORTEGA GUILLERMO              996       928.45
+05) 09/04/2023   852355869 - WILFING BRENNON T.            03:19:24      9398 - GONZALES ARIAS HENRY                   762       465.90
+06) 12/04/2023   728312493 - MCGARVA CHITTOCK W.           02:39:54      9822 - MALCA SAAVEDRA DORIS MILAGROS          985      1124.12
+07) 16/04/2023   852355869 - WILFING BRENNON T.            01:06:58      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       273.46
+08) 16/04/2023   691129990 - HARBERTSON ABRAHIM H.         01:39:58      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576       696.72
+09) 17/04/2023   521841782 - LABORDA FIDAL A.              02:23:07      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       247.04
+10) 18/04/2023   198356734 - GONEAU EYKEL U.               03:11:22      2846 - CARO POLO SANDRO                       369      1392.32
+11) 20/04/2023   506942779 - DOWNIE CORNEW B.              00:51:45      9994 - CALDERON ORTEGA GUILLERMO              996       262.46
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 11
+TOTAL PAGO SEDE: $/. 6276.12
+TIEMPO TOTAL ATENCIONES: 24:58:38
+=======================================================================================================================================
+SEDE: 615 - IQUITOS LA VICTORIA
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 05/04/2023   251729605 - HARG GENTRY I.                00:51:05      8618 - MORALES VALVERDE INES MARTHA           805        97.73
+02) 10/04/2023   274808104 - MCILVENNA HADIGATE M.         01:21:28      5791 - VELASQUEZ HUAYANAY EDGARD HENRY        454       594.57
+03) 11/04/2023   782344167 - AICKEN OSGARBY X.             00:52:56      6506 - SALAS AGUERO DANIEL                    368       123.62
+04) 12/04/2023   111194529 - GORVETTE KHOTER Q.            00:56:08      5899 - LANDA PISCOYA CHRISTIAN                368       186.94
+05) 16/04/2023   852355869 - WILFING BRENNON T.            01:04:49      9017 - LANDEO SUELDO ADOLFO                   996       451.87
+06) 16/04/2023   344367156 - HALLIHAN MANDELL M.           01:33:27      8159 - LAURA WONG MELVIN HENRRY               207       538.21
+07) 23/04/2023   236996309 - LINDELOF FEAK I.              02:35:52      9418 - VALVERDE BERROCAL RONY GONZALO         670       549.85
+08) 23/04/2023   198356734 - GONEAU EYKEL U.               00:33:57      2427 - MARTEL ASMAD BRUNO ROBERTO             762       107.65
+09) 26/04/2023   481991791 - HAMMAND SILVESTON Y.          01:46:06      2846 - CARO POLO SANDRO                       369       771.95
+10) 26/04/2023   506942779 - DOWNIE CORNEW B.              01:03:23      1323 - FARFAN RARAZ WALDEMAR                  369       459.94
+11) 27/04/2023   706194564 - DELION VICKARS U.             00:33:08      6587 - JUSTINO CRUZ WILLIAMS                  805       208.82
+12) 29/04/2023   890839216 - DRIFFILL MEMBRY H.            01:33:17      1313 - SOMA INGA DIALY                        716       749.44
+13) 29/04/2023   113606899 - CAMMACK ITSCOVITZ W.          02:01:48      1847 - INGA FLORES CESAR ADOLFO               207       475.73
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 13
+TOTAL PAGO SEDE: $/. 5316.31
+TIEMPO TOTAL ATENCIONES: 16:47:24
+=======================================================================================================================================
+SEDE: 850 - EL POLO
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   111194529 - GORVETTE KHOTER Q.            02:04:22      2846 - CARO POLO SANDRO                       369       904.85
+02) 03/04/2023   659676667 - THREADGILL SCHERMICK J.       02:38:10      5243 - YOSHINARI RIVERA PAUL                  985       798.40
+03) 03/04/2023   888461367 - DOXSEY LEVEE W.               02:57:10      8697 - LOZADA YINO MARTHA                     670       423.81
+04) 06/04/2023   506942779 - DOWNIE CORNEW B.              02:48:58      1265 - GORDILLO YINO YVONNE ROSARIO           368       318.45
+05) 07/04/2023   344367156 - HALLIHAN MANDELL M.           02:49:27      2655 - PRADO VERGEL CARLOS JULIAN             996       924.80
+06) 07/04/2023   506942779 - DOWNIE CORNEW B.              02:11:57      8697 - LOZADA YINO MARTHA                     670       315.65
+07) 08/04/2023   698471909 - BRIANCE WHITTOCK C.           02:53:46      6506 - SALAS AGUERO DANIEL                    368       405.80
+08) 09/04/2023   636295268 - THURNER SHAWEL D.             03:03:08      1313 - SOMA INGA DIALY                        716      1471.29
+09) 10/04/2023   502543350 - ETHINGTON ROW Z.              01:31:09      6506 - SALAS AGUERO DANIEL                    368       212.87
+10) 11/04/2023   635962790 - SCHOFFEL HOOKES H.            00:50:50      9994 - CALDERON ORTEGA GUILLERMO              996       257.81
+11) 12/04/2023   852355869 - WILFING BRENNON T.            01:55:15      8618 - MORALES VALVERDE INES MARTHA           805       220.49
+12) 14/04/2023   459361115 - DY GRIMSDITCH O.              02:34:29      1265 - GORDILLO YINO YVONNE ROSARIO           368       291.15
+13) 16/04/2023   814601292 - MULLANY GOBOURN Z.            01:03:51      8697 - LOZADA YINO MARTHA                     670       152.74
+14) 16/04/2023   521841782 - LABORDA FIDAL A.              01:53:41      8748 - PALOMARES VERA HENRRY HUMBERTO         762       941.01
+15) 19/04/2023   112443497 - GILLFORD SARTAIN Q.           02:11:34      2139 - DEL POZO ISABEL JUGO                   207       736.27
+16) 21/04/2023   462373053 - SPRACKLIN HEMPEL A.           01:13:58      5791 - VELASQUEZ HUAYANAY EDGARD HENRY        454       539.83
+17) 23/04/2023   712254902 - GINMAN SKARMAN J.             01:28:35      9017 - LANDEO SUELDO ADOLFO                   996       617.56
+18) 24/04/2023   198356734 - GONEAU EYKEL U.               03:28:33      9398 - GONZALES ARIAS HENRY                   762       487.28
+19) 24/04/2023   659676667 - THREADGILL SCHERMICK J.       03:16:59      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       748.80
+20) 24/04/2023   166202794 - SYNCKE PERCY U.               00:30:49      8516 - PRADO PAREDES JUAN                     207       238.76
+21) 27/04/2023   782344167 - AICKEN OSGARBY X.             02:55:01      9418 - VALVERDE BERROCAL RONY GONZALO         670       617.40
+22) 28/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       01:15:33      9398 - GONZALES ARIAS HENRY                   762       176.52
+23) 29/04/2023   770827913 - HASELDINE LONGWORTH N.        02:11:47      9994 - CALDERON ORTEGA GUILLERMO              996       668.36
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 23
+TOTAL PAGO SEDE: $/. 12469.91
+TIEMPO TOTAL ATENCIONES: 49:49:02
+=======================================================================================================================================
+SEDE: 201 - SANCHEZ FERRER
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   662216522 - RICKETTS STANLACK G.          01:39:35      2427 - MARTEL ASMAD BRUNO ROBERTO             762       315.76
+02) 07/04/2023   770827913 - HASELDINE LONGWORTH N.        02:57:09      2824 - AURIS ZIMIC JAVIER DANIEL              369       703.96
+03) 08/04/2023   521841782 - LABORDA FIDAL A.              02:35:35      1323 - FARFAN RARAZ WALDEMAR                  369      1128.99
+04) 08/04/2023   278116800 - LAVEN SCOGIN E.               01:51:15      5791 - VELASQUEZ HUAYANAY EDGARD HENRY        454       811.94
+05) 08/04/2023   888461367 - DOXSEY LEVEE W.               00:54:16      6506 - SALAS AGUERO DANIEL                    368       126.73
+06) 09/04/2023   782344167 - AICKEN OSGARBY X.             02:59:31      5119 - NORABUENA PRECIADO CINTHIA             454       839.90
+07) 11/04/2023   278496531 - TABOR VANNACCI L.             01:04:17      5243 - YOSHINARI RIVERA PAUL                  985       324.49
+08) 11/04/2023   131716388 - TERRAM KUNZLER A.             02:24:21      1691 - AQUINO TORO VALENTINA ROCIO            576       606.97
+09) 14/04/2023   260547458 - MCAVEY CHESNAY O.             01:24:07      9444 - ARCA AMEZQUITA EDRIC RONALD            453       143.67
+10) 15/04/2023   834502690 - PESTERFIELD KIEFF C.          02:52:20      9418 - VALVERDE BERROCAL RONY GONZALO         670       607.93
+11) 18/04/2023   635962790 - SCHOFFEL HOOKES H.            02:49:55      8872 - CORRALES TSUKAZAN IRMA LOURDES         454      1390.40
+12) 20/04/2023   852355869 - WILFING BRENNON T.            01:45:11      2239 - CERNA DURAND MARTIN                    805       848.16
+13) 22/04/2023   462373053 - SPRACKLIN HEMPEL A.           01:24:55      2846 - CARO POLO SANDRO                       369       617.83
+14) 23/04/2023   229852969 - KITTLEY NAJERA K.             00:43:32      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576       303.41
+15) 24/04/2023   260547458 - MCAVEY CHESNAY O.             01:32:22      2375 - CAMACHO AGUERO ELIA ROSA               576       293.79
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 15
+TOTAL PAGO SEDE: $/. 9063.93
+TIEMPO TOTAL ATENCIONES: 28:58:21
+=======================================================================================================================================
+SEDE: 429 - PASEO DE LA REPUBLICA
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 04/04/2023   691129990 - HARBERTSON ABRAHIM H.         02:00:59      1759 - CRUZ FUENTES JOHANA YDALI              453       805.81
+02) 05/04/2023   131716388 - TERRAM KUNZLER A.             00:55:42      9418 - VALVERDE BERROCAL RONY GONZALO         670       196.49
+03) 06/04/2023   888461367 - DOXSEY LEVEE W.               03:15:56      8159 - LAURA WONG MELVIN HENRRY               207      1128.45
+04) 08/04/2023   344367156 - HALLIHAN MANDELL M.           01:46:47      4691 - SUAREZ BOLANOS RAFAEL                  576       568.59
+05) 08/04/2023   521841782 - LABORDA FIDAL A.              02:04:50      9994 - CALDERON ORTEGA GUILLERMO              996       633.11
+06) 08/04/2023   229852969 - KITTLEY NAJERA K.             03:25:16      8748 - PALOMARES VERA HENRRY HUMBERTO         762      1699.09
+07) 13/04/2023   799442163 - HURDLE TABER Z.               01:19:11      5243 - YOSHINARI RIVERA PAUL                  985       399.70
+08) 20/04/2023   521841782 - LABORDA FIDAL A.              03:00:51      9418 - VALVERDE BERROCAL RONY GONZALO         670       637.98
+09) 21/04/2023   521841782 - LABORDA FIDAL A.              01:43:34      4691 - SUAREZ BOLANOS RAFAEL                  576       551.46
+10) 24/04/2023   131716388 - TERRAM KUNZLER A.             02:30:12      6506 - SALAS AGUERO DANIEL                    368       350.77
+11) 25/04/2023   662216522 - RICKETTS STANLACK G.          02:43:54      5243 - YOSHINARI RIVERA PAUL                  985       827.34
+12) 26/04/2023   166202794 - SYNCKE PERCY U.               03:28:35      1691 - AQUINO TORO VALENTINA ROCIO            576       877.06
+13) 28/04/2023   201902001 - BABIN DE AVENELL M.           02:23:04      9017 - LANDEO SUELDO ADOLFO                   996       997.39
+14) 29/04/2023   852355869 - WILFING BRENNON T.            01:12:38      8516 - PRADO PAREDES JUAN                     207       562.75
+15) 30/04/2023   459361115 - DY GRIMSDITCH O.              01:44:07      5204 - HIJAR YEP WILLIAMS CHRISTIAN           985       380.96
+16) 30/04/2023   770827913 - HASELDINE LONGWORTH N.        00:44:40      1313 - SOMA INGA DIALY                        716       358.85
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 16
+TOTAL PAGO SEDE: $/. 10975.80
+TIEMPO TOTAL ATENCIONES: 34:20:16
+=======================================================================================================================================
+SEDE: 618 - GUARDIA CIVIL
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 02/04/2023   469306816 - VEVERS PREUVOST G.            01:43:10      2655 - PRADO VERGEL CARLOS JULIAN             996       563.05
+02) 04/04/2023   415953806 - SIBBERING BANTHAM D.          03:12:31      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576      1341.74
+03) 04/04/2023   636295268 - THURNER SHAWEL D.             00:57:34      8872 - CORRALES TSUKAZAN IRMA LOURDES         454       471.06
+04) 06/04/2023   770827913 - HASELDINE LONGWORTH N.        01:17:43      5119 - NORABUENA PRECIADO CINTHIA             454       363.61
+05) 08/04/2023   698471909 - BRIANCE WHITTOCK C.           03:16:33      6924 - PAREDES PATINO CHRISTIAN               716       727.33
+06) 09/04/2023   274808104 - MCILVENNA HADIGATE M.         01:21:38      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       140.91
+07) 10/04/2023   834502690 - PESTERFIELD KIEFF C.          03:04:37      2655 - PRADO VERGEL CARLOS JULIAN             996      1007.58
+08) 12/04/2023   698471909 - BRIANCE WHITTOCK C.           03:25:06      6506 - SALAS AGUERO DANIEL                    368       478.98
+09) 12/04/2023   551809262 - EMMITT DEELAY K.              01:32:58      1323 - FARFAN RARAZ WALDEMAR                  369       674.61
+10) 12/04/2023   535116522 - THEZE D'AMBROSI D.            02:34:02      1545 - CORREA VIZCARDO MIGUEL                 454       464.51
+11) 12/04/2023   260547458 - MCAVEY CHESNAY O.             02:10:35      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       533.24
+12) 13/04/2023   834502690 - PESTERFIELD KIEFF C.          01:30:59      8618 - MORALES VALVERDE INES MARTHA           805       174.07
+13) 17/04/2023   890839216 - DRIFFILL MEMBRY H.            02:12:24      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       540.66
+14) 18/04/2023   867168022 - OAKDEN TOURS W.               00:38:12      1545 - CORREA VIZCARDO MIGUEL                 454       115.20
+15) 19/04/2023   782344167 - AICKEN OSGARBY X.             02:36:47      7727 - CABRERA CANALES GUILLERMO EDRIC        805       417.10
+16) 20/04/2023   462373053 - SPRACKLIN HEMPEL A.           00:46:08      1545 - CORREA VIZCARDO MIGUEL                 454       139.12
+17) 22/04/2023   852355869 - WILFING BRENNON T.            01:17:35      3922 - CHAVEZ PRADO SILVANA                   805       393.81
+18) 22/04/2023   535116522 - THEZE D'AMBROSI D.            01:18:02      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       134.70
+19) 24/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       01:22:03      6836 - PAIRAZAMAN CUBA ALBERTO                762       263.93
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 19
+TOTAL PAGO SEDE: $/. 8945.20
+TIEMPO TOTAL ATENCIONES: 36:18:37
+=======================================================================================================================================
+SEDE: 605 - RAUL FERRERO
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 02/04/2023   646672143 - CLEMPTON HALKYARD K.          02:28:23      1847 - INGA FLORES CESAR ADOLFO               207       579.56
+02) 08/04/2023   378125523 - YURIKOV GOULDIE A.            01:43:12      6836 - PAIRAZAMAN CUBA ALBERTO                762       331.96
+03) 12/04/2023   260547458 - MCAVEY CHESNAY O.             01:34:27      8748 - PALOMARES VERA HENRRY HUMBERTO         762       781.81
+04) 17/04/2023   635962790 - SCHOFFEL HOOKES H.            02:45:37      2824 - AURIS ZIMIC JAVIER DANIEL              369       658.13
+05) 25/04/2023   535116522 - THEZE D'AMBROSI D.            02:38:12      2824 - AURIS ZIMIC JAVIER DANIEL              369       628.66
+06) 25/04/2023   502543350 - ETHINGTON ROW Z.              00:59:36      7727 - CABRERA CANALES GUILLERMO EDRIC        805       158.56
+07) 29/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       02:27:31      4691 - SUAREZ BOLANOS RAFAEL                  576       785.48
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 7
+TOTAL PAGO SEDE: $/. 3924.16
+TIEMPO TOTAL ATENCIONES: 14:36:58
+=======================================================================================================================================
+SEDE: 742 - VILLA EL SALVADOR
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   229852969 - KITTLEY NAJERA K.             02:53:38      8697 - LOZADA YINO MARTHA                     670       415.36
+02) 03/04/2023   378125523 - YURIKOV GOULDIE A.            01:12:54      9398 - GONZALES ARIAS HENRY                   762       170.33
+03) 06/04/2023   636295268 - THURNER SHAWEL D.             01:35:41      1545 - CORREA VIZCARDO MIGUEL                 454       288.55
+04) 06/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       02:38:18      1691 - AQUINO TORO VALENTINA ROCIO            576       665.63
+05) 14/04/2023   888461367 - DOXSEY LEVEE W.               01:37:30      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       370.63
+06) 17/04/2023   808115508 - TAVERNOR PEAT U.              00:55:35      1847 - INGA FLORES CESAR ADOLFO               207       217.10
+07) 18/04/2023   280604794 - WYBURN GILLINGHAM Z.          01:17:40      1323 - FARFAN RARAZ WALDEMAR                  369       563.59
+08) 19/04/2023   415953806 - SIBBERING BANTHAM D.          02:59:50      2824 - AURIS ZIMIC JAVIER DANIEL              369       714.63
+09) 25/04/2023   481991791 - HAMMAND SILVESTON Y.          02:45:02      8748 - PALOMARES VERA HENRRY HUMBERTO         762      1366.06
+10) 29/04/2023   728312493 - MCGARVA CHITTOCK W.           02:21:27      1282 - VILCARA CORREA VICTOR                  716       625.16
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 10
+TOTAL PAGO SEDE: $/. 5397.04
+TIEMPO TOTAL ATENCIONES: 20:17:35
+=======================================================================================================================================
+SEDE: 859 - SAN BORJA SUR
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 02/04/2023   834502690 - PESTERFIELD KIEFF C.          02:38:51      2139 - DEL POZO ISABEL JUGO                   207       888.95
+02) 03/04/2023   712254902 - GINMAN SKARMAN J.             00:33:24      2655 - PRADO VERGEL CARLOS JULIAN             996       182.29
+03) 05/04/2023   728312493 - MCGARVA CHITTOCK W.           02:55:30      6357 - MEJIA HAZA FRANCISCO EDGAR             716       474.03
+04) 05/04/2023   691129990 - HARBERTSON ABRAHIM H.         02:41:59      2846 - CARO POLO SANDRO                       369      1178.54
+05) 08/04/2023   112443497 - GILLFORD SARTAIN Q.           03:13:29      2239 - CERNA DURAND MARTIN                    805      1560.19
+06) 11/04/2023   520322321 - GULL ANTRACK X.               02:31:10      2655 - PRADO VERGEL CARLOS JULIAN             996       825.02
+07) 12/04/2023   481991791 - HAMMAND SILVESTON Y.          02:58:13      4393 - CUBA NARVAEZ PAUL JOHN                 453       957.29
+08) 13/04/2023   782344167 - AICKEN OSGARBY X.             02:30:58      8872 - CORRALES TSUKAZAN IRMA LOURDES         454      1235.34
+09) 14/04/2023   782344167 - AICKEN OSGARBY X.             00:59:57      3922 - CHAVEZ PRADO SILVANA                   805       304.31
+10) 15/04/2023   280604794 - WYBURN GILLINGHAM Z.          00:37:58      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       144.32
+11) 15/04/2023   469844163 - DUNSTON ROSSONI P.            00:39:21      2239 - CERNA DURAND MARTIN                    805       317.31
+12) 16/04/2023   646672143 - CLEMPTON HALKYARD K.          00:55:57      2139 - DEL POZO ISABEL JUGO                   207       313.11
+13) 17/04/2023   521841782 - LABORDA FIDAL A.              00:53:48      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       219.69
+14) 18/04/2023   280604794 - WYBURN GILLINGHAM Z.          00:49:12      1282 - VILCARA CORREA VICTOR                  716       217.45
+15) 20/04/2023   374261067 - POMFRETT MAILLARD V.          03:00:00      3603 - ASMAD ACUNA ANNIE OFELIA               454      1083.66
+16) 21/04/2023   808115508 - TAVERNOR PEAT U.              03:02:59      9418 - VALVERDE BERROCAL RONY GONZALO         670       645.50
+17) 21/04/2023   195519264 - LINDENBERG LYMPANY C.         02:14:53      8697 - LOZADA YINO MARTHA                     670       322.66
+18) 21/04/2023   119285124 - COPPARD POCKLINGTON O.        02:46:47      2427 - MARTEL ASMAD BRUNO ROBERTO             762       528.84
+19) 21/04/2023   890839216 - DRIFFILL MEMBRY H.            01:31:12      8516 - PRADO PAREDES JUAN                     207       706.60
+20) 22/04/2023   551809262 - EMMITT DEELAY K.              01:15:43      1282 - VILCARA CORREA VICTOR                  716       334.64
+21) 26/04/2023   506942779 - DOWNIE CORNEW B.              02:51:18      5119 - NORABUENA PRECIADO CINTHIA             454       801.46
+22) 28/04/2023   198356734 - GONEAU EYKEL U.               02:52:16      2375 - CAMACHO AGUERO ELIA ROSA               576       547.92
+23) 28/04/2023   481991791 - HAMMAND SILVESTON Y.          00:42:32      4691 - SUAREZ BOLANOS RAFAEL                  576       226.48
+24) 29/04/2023   201902001 - BABIN DE AVENELL M.           02:40:57      4393 - CUBA NARVAEZ PAUL JOHN                 453       864.54
+25) 30/04/2023   111194529 - GORVETTE KHOTER Q.            02:11:54      9398 - GONZALES ARIAS HENRY                   762       308.18
+26) 30/04/2023   852355869 - WILFING BRENNON T.            01:53:50      7727 - CABRERA CANALES GUILLERMO EDRIC        805       302.83
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 26
+TOTAL PAGO SEDE: $/. 15491.14
+TIEMPO TOTAL ATENCIONES: 52:04:08
+=======================================================================================================================================
+SEDE: 967 - SAN JUAN DE LURIGANCHO
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   344367156 - HALLIHAN MANDELL M.           02:39:02      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       604.54
+02) 03/04/2023   646672143 - CLEMPTON HALKYARD K.          02:08:02      2139 - DEL POZO ISABEL JUGO                   207       716.50
+03) 10/04/2023   691129990 - HARBERTSON ABRAHIM H.         01:54:31      3922 - CHAVEZ PRADO SILVANA                   805       581.29
+04) 10/04/2023   459361115 - DY GRIMSDITCH O.              02:40:19      9017 - LANDEO SUELDO ADOLFO                   996      1117.65
+05) 13/04/2023   111194529 - GORVETTE KHOTER Q.            02:49:23      2846 - CARO POLO SANDRO                       369      1232.38
+06) 13/04/2023   669742146 - CHILDE BILBY C.               03:13:25      9398 - GONZALES ARIAS HENRY                   762       451.92
+07) 14/04/2023   469844163 - DUNSTON ROSSONI P.            00:37:45      8159 - LAURA WONG MELVIN HENRRY               207       217.41
+08) 15/04/2023   260547458 - MCAVEY CHESNAY O.             02:30:25      4691 - SUAREZ BOLANOS RAFAEL                  576       800.92
+09) 15/04/2023   867168022 - OAKDEN TOURS W.               03:00:28      3603 - ASMAD ACUNA ANNIE OFELIA               454      1086.47
+10) 15/04/2023   378125523 - YURIKOV GOULDIE A.            02:26:10      6587 - JUSTINO CRUZ WILLIAMS                  805       921.19
+11) 16/04/2023   462373053 - SPRACKLIN HEMPEL A.           00:58:06      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576       404.93
+12) 16/04/2023   469844163 - DUNSTON ROSSONI P.            02:44:53      9398 - GONZALES ARIAS HENRY                   762       385.25
+13) 17/04/2023   236996309 - LINDELOF FEAK I.              02:14:23      8159 - LAURA WONG MELVIN HENRRY               207       773.96
+14) 18/04/2023   198356734 - GONEAU EYKEL U.               03:11:31      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       330.59
+15) 19/04/2023   635962790 - SCHOFFEL HOOKES H.            03:17:07      9418 - VALVERDE BERROCAL RONY GONZALO         670       695.36
+16) 25/04/2023   867168022 - OAKDEN TOURS W.               02:48:15      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       290.43
+17) 25/04/2023   469306816 - VEVERS PREUVOST G.            01:41:29      1759 - CRUZ FUENTES JOHANA YDALI              453       675.93
+18) 28/04/2023   888461367 - DOXSEY LEVEE W.               03:04:51      2239 - CERNA DURAND MARTIN                    805      1490.57
+19) 30/04/2023   521841782 - LABORDA FIDAL A.              03:17:00      3922 - CHAVEZ PRADO SILVANA                   805       999.97
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 19
+TOTAL PAGO SEDE: $/. 13777.24
+TIEMPO TOTAL ATENCIONES: 47:17:05
+=======================================================================================================================================
+SEDE: 401 - LOS OLIVOS
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 03/04/2023   195519264 - LINDENBERG LYMPANY C.         01:26:20      6836 - PAIRAZAMAN CUBA ALBERTO                762       277.71
+02) 07/04/2023   113606899 - CAMMACK ITSCOVITZ W.          03:09:02      9398 - GONZALES ARIAS HENRY                   762       441.68
+03) 11/04/2023   834502690 - PESTERFIELD KIEFF C.          02:11:11      2824 - AURIS ZIMIC JAVIER DANIEL              369       521.30
+04) 14/04/2023   808752972 - O'KYNSILLAGHE SPELLESY X.     02:21:36      6357 - MEJIA HAZA FRANCISCO EDGAR             716       382.46
+05) 14/04/2023   636295268 - THURNER SHAWEL D.             01:05:27      3922 - CHAVEZ PRADO SILVANA                   805       332.22
+06) 18/04/2023   728312493 - MCGARVA CHITTOCK W.           02:32:13      9418 - VALVERDE BERROCAL RONY GONZALO         670       536.97
+07) 18/04/2023   706194564 - DELION VICKARS U.             01:00:55      8618 - MORALES VALVERDE INES MARTHA           805       116.54
+08) 19/04/2023   706194564 - DELION VICKARS U.             01:11:51      9444 - ARCA AMEZQUITA EDRIC RONALD            453       122.72
+09) 19/04/2023   691129990 - HARBERTSON ABRAHIM H.         03:04:49      3922 - CHAVEZ PRADO SILVANA                   805       938.13
+10) 20/04/2023   520322321 - GULL ANTRACK X.               02:35:03      9398 - GONZALES ARIAS HENRY                   762       362.27
+11) 22/04/2023   662216522 - RICKETTS STANLACK G.          02:16:38      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       557.94
+12) 25/04/2023   521841782 - LABORDA FIDAL A.              01:47:03      6506 - SALAS AGUERO DANIEL                    368       250.00
+13) 26/04/2023   712254902 - GINMAN SKARMAN J.             02:03:32      2139 - DEL POZO ISABEL JUGO                   207       691.31
+14) 26/04/2023   113606899 - CAMMACK ITSCOVITZ W.          01:00:29      6924 - PAREDES PATINO CHRISTIAN               716       223.82
+15) 26/04/2023   782344167 - AICKEN OSGARBY X.             03:03:13      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       696.47
+16) 27/04/2023   867168022 - OAKDEN TOURS W.               00:34:59      1847 - INGA FLORES CESAR ADOLFO               207       136.64
+17) 30/04/2023   131716388 - TERRAM KUNZLER A.             02:53:30      8872 - CORRALES TSUKAZAN IRMA LOURDES         454      1419.72
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 17
+TOTAL PAGO SEDE: $/. 8007.90
+TIEMPO TOTAL ATENCIONES: 34:17:51
+=======================================================================================================================================
+SEDE: 909 - MIRAFLORES
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 05/04/2023   198356734 - GONEAU EYKEL U.               02:37:44      6924 - PAREDES PATINO CHRISTIAN               716       583.69
+02) 06/04/2023   706194564 - DELION VICKARS U.             01:00:08      3603 - ASMAD ACUNA ANNIE OFELIA               454       362.02
+03) 06/04/2023   888461367 - DOXSEY LEVEE W.               01:50:01      8618 - MORALES VALVERDE INES MARTHA           805       210.48
+04) 11/04/2023   274808104 - MCILVENNA HADIGATE M.         01:11:10      9822 - MALCA SAAVEDRA DORIS MILAGROS          985       500.31
+05) 12/04/2023   698471909 - BRIANCE WHITTOCK C.           01:34:16      4393 - CUBA NARVAEZ PAUL JOHN                 453       506.35
+06) 14/04/2023   119285124 - COPPARD POCKLINGTON O.        01:34:03      9994 - CALDERON ORTEGA GUILLERMO              996       476.99
+07) 14/04/2023   278496531 - TABOR VANNACCI L.             01:03:14      5899 - LANDA PISCOYA CHRISTIAN                368       210.59
+08) 16/04/2023   659676667 - THREADGILL SCHERMICK J.       02:37:07      2846 - CARO POLO SANDRO                       369      1143.13
+09) 18/04/2023   521841782 - LABORDA FIDAL A.              02:14:45      6924 - PAREDES PATINO CHRISTIAN               716       498.64
+10) 19/04/2023   888461367 - DOXSEY LEVEE W.               01:32:44      1545 - CORREA VIZCARDO MIGUEL                 454       279.65
+11) 22/04/2023   646672143 - CLEMPTON HALKYARD K.          02:15:29      8748 - PALOMARES VERA HENRRY HUMBERTO         762      1121.46
+12) 23/04/2023   462373053 - SPRACKLIN HEMPEL A.           02:12:19      5119 - NORABUENA PRECIADO CINTHIA             454       619.07
+13) 25/04/2023   520322321 - GULL ANTRACK X.               00:47:15      2846 - CARO POLO SANDRO                       369       343.78
+14) 27/04/2023   469844163 - DUNSTON ROSSONI P.            02:24:53      3603 - ASMAD ACUNA ANNIE OFELIA               454       872.25
+15) 27/04/2023   251729605 - HARG GENTRY I.                01:45:46      1323 - FARFAN RARAZ WALDEMAR                  369       767.50
+16) 29/04/2023   659676667 - THREADGILL SCHERMICK J.       02:47:19      9444 - ARCA AMEZQUITA EDRIC RONALD            453       285.78
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 16
+TOTAL PAGO SEDE: $/. 8781.69
+TIEMPO TOTAL ATENCIONES: 29:28:13
+=======================================================================================================================================
+SEDE: 160 - PRIMAVERA
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   712254902 - GINMAN SKARMAN J.             03:14:39      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       794.85
+02) 02/04/2023   646672143 - CLEMPTON HALKYARD K.          00:51:39      9017 - LANDEO SUELDO ADOLFO                   996       360.08
+03) 07/04/2023   669742146 - CHILDE BILBY C.               02:21:52      8872 - CORRALES TSUKAZAN IRMA LOURDES         454      1160.87
+04) 08/04/2023   131716388 - TERRAM KUNZLER A.             01:21:28      2824 - AURIS ZIMIC JAVIER DANIEL              369       323.73
+05) 09/04/2023   111194529 - GORVETTE KHOTER Q.            01:47:55      2139 - DEL POZO ISABEL JUGO                   207       603.92
+06) 10/04/2023   113606899 - CAMMACK ITSCOVITZ W.          01:00:30      5204 - HIJAR YEP WILLIAMS CHRISTIAN           985       221.37
+07) 10/04/2023   344367156 - HALLIHAN MANDELL M.           02:30:38      1265 - GORDILLO YINO YVONNE ROSARIO           368       283.89
+08) 11/04/2023   867168022 - OAKDEN TOURS W.               03:13:55      9822 - MALCA SAAVEDRA DORIS MILAGROS          985      1363.27
+09) 15/04/2023   636295268 - THURNER SHAWEL D.             02:17:02      1759 - CRUZ FUENTES JOHANA YDALI              453       912.71
+10) 19/04/2023   462373053 - SPRACKLIN HEMPEL A.           02:40:14      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576      1116.75
+11) 22/04/2023   260547458 - MCAVEY CHESNAY O.             03:04:01      1323 - FARFAN RARAZ WALDEMAR                  369      1335.32
+12) 23/04/2023   521841782 - LABORDA FIDAL A.              01:36:45      6506 - SALAS AGUERO DANIEL                    368       225.94
+13) 24/04/2023   481991791 - HAMMAND SILVESTON Y.          01:55:03      1847 - INGA FLORES CESAR ADOLFO               207       449.37
+14) 25/04/2023   469306816 - VEVERS PREUVOST G.            02:49:56      5119 - NORABUENA PRECIADO CINTHIA             454       795.06
+15) 25/04/2023   260547458 - MCAVEY CHESNAY O.             02:33:09      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       582.17
+16) 26/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       00:34:30      2466 - CORONEL CHUMPITAZ HELI                 368       157.72
+17) 26/04/2023   280604794 - WYBURN GILLINGHAM Z.          02:50:02      6587 - JUSTINO CRUZ WILLIAMS                  805      1071.61
+18) 27/04/2023   119285124 - COPPARD POCKLINGTON O.        02:13:14      1545 - CORREA VIZCARDO MIGUEL                 454       401.79
+19) 27/04/2023   195519264 - LINDENBERG LYMPANY C.         01:48:57      5243 - YOSHINARI RIVERA PAUL                  985       549.96
+20) 28/04/2023   662216522 - RICKETTS STANLACK G.          00:37:52      5204 - HIJAR YEP WILLIAMS CHRISTIAN           985       138.55
+21) 28/04/2023   278496531 - TABOR VANNACCI L.             02:01:02      4494 - LARRIEGA ARCA ISABEL MADELEINE         453       494.24
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 21
+TOTAL PAGO SEDE: $/. 13343.17
+TIEMPO TOTAL ATENCIONES: 43:24:23
+=======================================================================================================================================
+SEDE: 377 - INCA GARCILASO DE LA VEGA
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   646672143 - CLEMPTON HALKYARD K.          01:50:34      8516 - PRADO PAREDES JUAN                     207       856.65
+02) 03/04/2023   706194564 - DELION VICKARS U.             00:36:20      4691 - SUAREZ BOLANOS RAFAEL                  576       193.46
+03) 04/04/2023   113606899 - CAMMACK ITSCOVITZ W.          01:06:04      1759 - CRUZ FUENTES JOHANA YDALI              453       440.04
+04) 04/04/2023   636295268 - THURNER SHAWEL D.             01:59:51      6836 - PAIRAZAMAN CUBA ALBERTO                762       385.52
+05) 05/04/2023   374261067 - POMFRETT MAILLARD V.          02:38:48      3603 - ASMAD ACUNA ANNIE OFELIA               454       956.03
+06) 05/04/2023   698471909 - BRIANCE WHITTOCK C.           01:10:35      1691 - AQUINO TORO VALENTINA ROCIO            576       296.79
+07) 06/04/2023   166202794 - SYNCKE PERCY U.               01:01:47      6836 - PAIRAZAMAN CUBA ALBERTO                762       198.74
+08) 07/04/2023   636295268 - THURNER SHAWEL D.             03:01:49      1759 - CRUZ FUENTES JOHANA YDALI              453      1210.99
+09) 08/04/2023   728312493 - MCGARVA CHITTOCK W.           01:46:32      2824 - AURIS ZIMIC JAVIER DANIEL              369       423.35
+10) 09/04/2023   712254902 - GINMAN SKARMAN J.             00:35:47      2655 - PRADO VERGEL CARLOS JULIAN             996       195.29
+11) 09/04/2023   195519264 - LINDENBERG LYMPANY C.         02:31:33      8697 - LOZADA YINO MARTHA                     670       362.53
+12) 12/04/2023   462373053 - SPRACKLIN HEMPEL A.           01:00:52      9017 - LANDEO SUELDO ADOLFO                   996       424.33
+13) 12/04/2023   229852969 - KITTLEY NAJERA K.             03:25:07      7727 - CABRERA CANALES GUILLERMO EDRIC        805       545.68
+14) 18/04/2023   198356734 - GONEAU EYKEL U.               03:29:46      6357 - MEJIA HAZA FRANCISCO EDGAR             716       566.58
+15) 20/04/2023   506942779 - DOWNIE CORNEW B.              00:53:23      5119 - NORABUENA PRECIADO CINTHIA             454       249.76
+16) 22/04/2023   131716388 - TERRAM KUNZLER A.             02:07:58      5119 - NORABUENA PRECIADO CINTHIA             454       598.71
+17) 24/04/2023   506942779 - DOWNIE CORNEW B.              02:59:56      2375 - CAMACHO AGUERO ELIA ROSA               576       572.31
+18) 26/04/2023   113606899 - CAMMACK ITSCOVITZ W.          02:17:19      9994 - CALDERON ORTEGA GUILLERMO              996       696.42
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 18
+TOTAL PAGO SEDE: $/. 9173.19
+TIEMPO TOTAL ATENCIONES: 34:34:01
+=======================================================================================================================================
+SEDE: 895 - INDEPENDENCIA LOS OLIVOS
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 01/04/2023   691129990 - HARBERTSON ABRAHIM H.         01:52:54      4393 - CUBA NARVAEZ PAUL JOHN                 453       606.44
+02) 06/04/2023   520322321 - GULL ANTRACK X.               02:50:47      5204 - HIJAR YEP WILLIAMS CHRISTIAN           985       624.90
+03) 06/04/2023   712254902 - GINMAN SKARMAN J.             00:59:01      6836 - PAIRAZAMAN CUBA ALBERTO                762       189.84
+04) 06/04/2023   113606899 - CAMMACK ITSCOVITZ W.          01:12:01      8516 - PRADO PAREDES JUAN                     207       557.97
+05) 08/04/2023   415953806 - SIBBERING BANTHAM D.          01:10:43      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       268.82
+06) 12/04/2023   113606899 - CAMMACK ITSCOVITZ W.          02:41:00      8516 - PRADO PAREDES JUAN                     207      1247.40
+07) 12/04/2023   770827913 - HASELDINE LONGWORTH N.        02:14:11      9418 - VALVERDE BERROCAL RONY GONZALO         670       473.35
+08) 14/04/2023   145395406 - POTTERIDGE GLASSPOOL H.       02:20:43      1545 - CORREA VIZCARDO MIGUEL                 454       424.35
+09) 17/04/2023   799442163 - HURDLE TABER Z.               01:45:37      8697 - LOZADA YINO MARTHA                     670       252.65
+10) 17/04/2023   506942779 - DOWNIE CORNEW B.              01:16:51      5908 - BENAVENTE AYALA VIRGINIA IRMA          670       132.66
+11) 19/04/2023   502543350 - ETHINGTON ROW Z.              02:54:50      1265 - GORDILLO YINO YVONNE ROSARIO           368       329.50
+12) 20/04/2023   659676667 - THREADGILL SCHERMICK J.       01:09:57      2824 - AURIS ZIMIC JAVIER DANIEL              369       277.97
+13) 20/04/2023   374261067 - POMFRETT MAILLARD V.          02:26:33      9846 - AMEZQUITA EPIQUEN EVERT ROBERTO        576      1021.38
+14) 22/04/2023   274808104 - MCILVENNA HADIGATE M.         03:28:53      1847 - INGA FLORES CESAR ADOLFO               207       815.86
+15) 27/04/2023   131716388 - TERRAM KUNZLER A.             01:06:13      5791 - VELASQUEZ HUAYANAY EDGARD HENRY        454       483.27
+16) 27/04/2023   502543350 - ETHINGTON ROW Z.              03:09:33      1323 - FARFAN RARAZ WALDEMAR                  369      1375.47
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 16
+TOTAL PAGO SEDE: $/. 9081.84
+TIEMPO TOTAL ATENCIONES: 32:39:47
+=======================================================================================================================================
+SEDE: 656 - AURELIO MIRO QUESADA
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 05/04/2023   378125523 - YURIKOV GOULDIE A.            01:25:30      8516 - PRADO PAREDES JUAN                     207       662.44
+02) 12/04/2023   635962790 - SCHOFFEL HOOKES H.            02:57:47      3603 - ASMAD ACUNA ANNIE OFELIA               454      1070.31
+03) 13/04/2023   481991791 - HAMMAND SILVESTON Y.          02:13:10      6587 - JUSTINO CRUZ WILLIAMS                  805       839.26
+04) 14/04/2023   888461367 - DOXSEY LEVEE W.               02:28:03      5243 - YOSHINARI RIVERA PAUL                  985       747.33
+05) 14/04/2023   808752972 - O'KYNSILLAGHE SPELLESY X.     02:50:07      5791 - VELASQUEZ HUAYANAY EDGARD HENRY        454      1241.57
+06) 15/04/2023   659676667 - THREADGILL SCHERMICK J.       00:31:07      8748 - PALOMARES VERA HENRRY HUMBERTO         762       257.57
+07) 17/04/2023   535116522 - THEZE D'AMBROSI D.            02:07:06      4691 - SUAREZ BOLANOS RAFAEL                  576       676.77
+08) 23/04/2023   201902001 - BABIN DE AVENELL M.           01:10:53      8516 - PRADO PAREDES JUAN                     207       549.19
+09) 23/04/2023   888461367 - DOXSEY LEVEE W.               02:19:45      3603 - ASMAD ACUNA ANNIE OFELIA               454       841.34
+10) 30/04/2023   131716388 - TERRAM KUNZLER A.             02:55:42      2427 - MARTEL ASMAD BRUNO ROBERTO             762       557.12
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 10
+TOTAL PAGO SEDE: $/. 7442.90
+TIEMPO TOTAL ATENCIONES: 20:59:10
+=======================================================================================================================================
+SEDE: 464 - SEDE CENTRO CHORRILLOS
+ATENCIONES
+       FECHA               PACIENTE                        DURACION              MEDICO                            ESPECIALIDAD   PAGO
+01) 02/04/2023   520322321 - GULL ANTRACK X.               02:56:26      6836 - PAIRAZAMAN CUBA ALBERTO                762       567.53
+02) 03/04/2023   469844163 - DUNSTON ROSSONI P.            03:22:15      1847 - INGA FLORES CESAR ADOLFO               207       789.95
+03) 04/04/2023   278496531 - TABOR VANNACCI L.             02:25:01      9994 - CALDERON ORTEGA GUILLERMO              996       735.48
+04) 04/04/2023   195519264 - LINDENBERG LYMPANY C.         03:00:52      5814 - PORTUGAL BENAVENTE JOHANA GLORIA       368       687.53
+05) 11/04/2023   669742146 - CHILDE BILBY C.               00:35:11      2846 - CARO POLO SANDRO                       369       255.98
+06) 11/04/2023   274808104 - MCILVENNA HADIGATE M.         02:40:06      2427 - MARTEL ASMAD BRUNO ROBERTO             762       507.65
+07) 13/04/2023   834502690 - PESTERFIELD KIEFF C.          01:44:54      2846 - CARO POLO SANDRO                       369       763.22
+08) 13/04/2023   374261067 - POMFRETT MAILLARD V.          01:05:15      1265 - GORDILLO YINO YVONNE ROSARIO           368       122.97
+09) 14/04/2023   782344167 - AICKEN OSGARBY X.             01:08:42      9822 - MALCA SAAVEDRA DORIS MILAGROS          985       482.97
+10) 17/04/2023   344367156 - HALLIHAN MANDELL M.           00:36:40      2239 - CERNA DURAND MARTIN                    805       295.67
+11) 18/04/2023   481991791 - HAMMAND SILVESTON Y.          01:50:40      2846 - CARO POLO SANDRO                       369       805.17
+12) 21/04/2023   119285124 - COPPARD POCKLINGTON O.        01:34:17      8748 - PALOMARES VERA HENRRY HUMBERTO         762       780.43
+13) 24/04/2023   344367156 - HALLIHAN MANDELL M.           01:01:17      8159 - LAURA WONG MELVIN HENRRY               207       352.95
+14) 26/04/2023   112443497 - GILLFORD SARTAIN Q.           02:17:01      1545 - CORREA VIZCARDO MIGUEL                 454       413.20
+15) 27/04/2023   274808104 - MCILVENNA HADIGATE M.         02:19:09      2139 - DEL POZO ISABEL JUGO                   207       778.71
+16) 28/04/2023   770827913 - HASELDINE LONGWORTH N.        01:06:42      1847 - INGA FLORES CESAR ADOLFO               207       260.52
+17) 28/04/2023   112443497 - GILLFORD SARTAIN Q.           01:53:06      2239 - CERNA DURAND MARTIN                    805       912.00
+18) 30/04/2023   229852969 - KITTLEY NAJERA K.             02:44:15      2139 - DEL POZO ISABEL JUGO                   207       919.17
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTAL ATENCIONES: 18
+TOTAL PAGO SEDE: $/. 10431.11
+TIEMPO TOTAL ATENCIONES: 34:21:49
+=======================================================================================================================================
+RESUMEN TOTAL
+---------------------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE SEDES QUE ATENDIERON: 17
+PAGO TOTAL: $/. 157898.64
+SEDE CON MAYOR PAGO: 859 - 15491.14
+=======================================================================================================================================
