@@ -1,0 +1,60 @@
+   REPORTE DE ATENCIÓN PRIORITARIA EN EMERGENCIAS
+--------------------------------------------------------------------------------
+PRIORIDAD CLÍNICA: 1
+ID    NOMBRE COMPLETO                       EDAD    SEXO
+1032  Ricardo Angela Quiroz Herrera         24      FEMENINO
+1025  Elena Karla Paredes Campos            67      FEMENINO
+1008  Sebastian Angela Diaz Condori         47      MASCULINO
+PRIORIDAD CLÍNICA: 2
+ID    NOMBRE COMPLETO                       EDAD    SEXO
+1099  Diego Edgar Lopez Mendoza             82      FEMENINO
+1095  Ricardo Sofia Paredes Gomez           18      MASCULINO
+1094  Valeria Paola Silva Gomez             84      FEMENINO
+1083  Paola Alejandro Aguilar Medina        15      FEMENINO
+1077  Rosa Sofia Rojas Huaman               38      FEMENINO
+1076  Juan Martin Lopez Ramirez             70      FEMENINO
+1071  Natalia Fiorella Ramirez Mendoza      33      MASCULINO
+1068  Sebastian Camila Diaz Romero          85      MASCULINO
+1059  Ana Rosa Castro Vargas                56      FEMENINO
+1057  Elena Alberto Condori Chavez          75      MASCULINO
+1054  Rosa Lucia Mendoza Gomez              30      MASCULINO
+1041  Beatriz Gabriela Gomez Medina         63      FEMENINO
+1040  Claudia Lucia Salazar Perez           24      FEMENINO
+1037  Natalia Miguel Perez Quiroz           79      FEMENINO
+1022  Alejandro Sofia Ramirez Herrera       66      FEMENINO
+1020  Miguel Fiorella Cruz Soto             35      MASCULINO
+1016  Sofia Fiorella Soto Medina            21      MASCULINO
+1007  Fernanda Angela Lopez Vargas           9      MASCULINO
+PRIORIDAD CLÍNICA: 4
+ID    NOMBRE COMPLETO                       EDAD    SEXO
+1100  Fiorella Julio Lopez Rios              4      FEMENINO
+1097  Sebastian Luis Rojas Vargas           31      MASCULINO
+1096  Rosa Paola Salazar Lopez              31      FEMENINO
+1092  Claudia Fernanda Huaman Reyes         55      MASCULINO
+1090  Sebastian Fiorella Romero Romero      19      MASCULINO
+1089  Maria Alejandro Romero Huaman         22      MASCULINO
+1088  Roberto Alejandro Campos Mendoza      39      FEMENINO
+1081  Diego Sebastian Navarro Torres        92      FEMENINO
+1072  Elena Carlos Chavez Flores            23      FEMENINO
+1069  Ana Sofia Campos Ramirez              62      MASCULINO
+1065  Miguel Sebastian Rojas Salazar         3      MASCULINO
+1063  Luis Claudia Flores Herrera            2      MASCULINO
+1062  Diego Cesar Herrera Herrera           50      MASCULINO
+1061  Rosa Paola Torres Paredes             49      FEMENINO
+1060  Alberto Patricia Romero Huaman         7      FEMENINO
+1058  Luis Edgar Soto Paredes               10      MASCULINO
+1053  Miguel Beatriz Vega Flores            65      MASCULINO
+1052  Patricia Gabriela Chavez Ramirez      78      FEMENINO
+1045  Maria Claudia Soto Medina             10      FEMENINO
+1044  Daniela Miguel Romero Ramirez         18      MASCULINO
+1038  Sofia Ricardo Salazar Medina          35      FEMENINO
+1030  Manuel Alejandro Navarro Rios         42      MASCULINO
+1029  Diego Renato Diaz Chavez              30      FEMENINO
+1027  Patricia Julio Rios Huaman            80      FEMENINO
+1023  Carlos Renato Silva Reyes             68      FEMENINO
+1021  Marco Valeria Romero Mendoza          23      FEMENINO
+1018  Fernanda Ana Herrera Vega             62      MASCULINO
+1013  Ana Luis Ramirez Diaz                  6      MASCULINO
+1011  Luis Ricardo Castro Morales           48      FEMENINO
+--------------------------------------------------------------------------------
+Observación: Prioridades 3 y 5 se atenderán en sala de admisión.

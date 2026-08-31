@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Pregunta2_2026_1.dir\\main.cpp.obj -c D:\\EEGGCC\\TP\\EX2\\Examen2_2026_1_20236332_Fernandez_Andre\\Pregunta2_2026_1\\main.cpp",
+  "file": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/main.cpp",
+  "output": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/cmake-build-debug/CMakeFiles/Pregunta2_2026_1.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Pregunta2_2026_1.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c D:\\EEGGCC\\TP\\EX2\\Examen2_2026_1_20236332_Fernandez_Andre\\Pregunta2_2026_1\\Bibliotecas\\FuncionesAuxiliares.cpp",
+  "file": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/TP/EX2/Examen2_2026_1_20236332_Fernandez_Andre/Pregunta2_2026_1/cmake-build-debug/CMakeFiles/Pregunta2_2026_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
