@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\2026_1_Lab04_Arreglos.dir\\main.cpp.obj -c D:\\EEGGCC\\TP\\LAB04\\2026_1_Laboratorio_04_20236332_Fernández_André\\2026-1_Lab04_Arreglos\\main.cpp",
+  "file": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/main.cpp",
+  "output": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/cmake-build-debug/CMakeFiles/2026_1_Lab04_Arreglos.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\2026_1_Lab04_Arreglos.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c D:\\EEGGCC\\TP\\LAB04\\2026_1_Laboratorio_04_20236332_Fernández_André\\2026-1_Lab04_Arreglos\\Bibliotecas\\FuncionesAuxiliares.cpp",
+  "file": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/TP/LAB04/2026_1_Laboratorio_04_20236332_Fernández_André/2026-1_Lab04_Arreglos/cmake-build-debug/CMakeFiles/2026_1_Lab04_Arreglos.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
