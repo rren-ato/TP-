@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1",
+	"dir-top-bld" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug/CMakeFiles/Resolucion_LAB1_2025_1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Resolucion_LAB1_2025_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/Bibliotecas/FuncionesAuxiliares.cpp"
+		},
+		"CMakeFiles/Resolucion_LAB1_2025_1.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/main.cpp"
+		}
+	}
+}

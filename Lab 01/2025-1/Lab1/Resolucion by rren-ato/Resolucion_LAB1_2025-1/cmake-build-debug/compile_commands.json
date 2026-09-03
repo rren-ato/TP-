@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Resolucion_LAB1_2025_1.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Resolucion_LAB1_2025_1.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2025-1\\Lab 1\\Resolucion by rren-ato\\Resolucion_LAB1_2025-1\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug/CMakeFiles/Resolucion_LAB1_2025_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Resolucion_LAB1_2025_1.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Resolucion_LAB1_2025_1.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2025-1\\Lab 1\\Resolucion by rren-ato\\Resolucion_LAB1_2025-1\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2025-1/Lab 1/Resolucion by rren-ato/Resolucion_LAB1_2025-1/cmake-build-debug/CMakeFiles/Resolucion_LAB1_2025_1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
