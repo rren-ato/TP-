@@ -1,0 +1,89 @@
+L1001   158.33   Circular en las vias publicas urbanas sin portar la licencia de conducir.
+L1002   180.50   No respetar las senales de transito de tipo informativo.
+L1003   220.25   Utilizar la bocina para llamar la atencion en forma innecesaria.
+L1004   195.00   Estacionar el vehiculo en zona prohibida por senalizacion.
+L1005   210.75   No usar el cinturon de seguridad mientras se conduce.
+L1007   165.40   Circular con las luces apagadas durante la noche.
+L1008   142.80   No ceder el paso a peatones en cruces peatonales.
+L1009   175.60   Exceder el limite de velocidad en zona residencial en menos de 10 km/h.
+L1010   230.00   Conducir sin el permiso de circulacion vigente.
+L1011   198.25   No detenerse ante un semaforo en rojo intermitente.
+L1012   155.90   Circular por carril exclusivo de transporte publico.
+L1013   187.45   No senalizar correctamente el cambio de carril.
+L1015   205.30   Transportar pasajeros en el compartimiento de carga.
+L1016   172.10   No mantener la distancia de seguridad reglamentaria.
+L1017   160.00   Circular con neumaticos en mal estado.
+L1018   225.50   No portar el extintor de incendios obligatorio.
+L1019   190.75   Estacionar obstruyendo una rampa para discapacitados.
+L1021   148.20   Conducir usando dispositivos electronicos no autorizados.
+L1023   215.80   No respetar la senal de pare en intersecciones.
+L1025   178.90   Circular en sentido contrario en via de un solo sentido.
+L1026   200.00   No utilizar el casco de seguridad en motocicleta.
+L1027   185.40   Exceder el numero de pasajeros permitido en el vehiculo.
+L1031   240.25   No presentar la documentacion del vehiculo cuando se requiere.
+L1032   168.70   Circular con el escape modificado produciendo ruido excesivo.
+L1033   212.50   No ceder el paso a vehiculos de emergencia.
+L1034   155.00   Estacionar en zona de carga y descarga fuera del horario.
+L1036   195.80   No usar las luces direccionales al girar.
+L1037   170.25   Circular sin la placa de rodaje visible.
+L1039   220.00   No respetar el limite de velocidad en zona escolar.
+L1041   182.60   Conducir con la vision obstruida por objetos en el vehiculo.
+L1042   160.90   No detener el vehiculo ante un paso a nivel ferroviario.
+L1043   205.00   Circular con pasajeros de pie en vehiculos no autorizados.
+L1045   175.30   No portar el botiquin de primeros auxilios.
+L1046   190.00   Estacionar en doble fila.
+L1047   210.40   No respetar las zonas de restriccion vehicular.
+L1048   158.75   Circular con el vehiculo sin revision tecnica vigente.
+G2001   516.75   No reducir la velocidad al ingresar a una zona urbana.
+G2002   480.00   Sobrepasar el limite de velocidad en mas de 20 km/h.
+G2003   550.25   Conducir bajo los efectos del alcohol con grado bajo.
+G2005   495.80   Realizar maniobras peligrosas en la via publica.
+G2009   620.00   No respetar la preferencia de paso en rotondas.
+G2010   530.50   Circular en contramano en avenida principal.
+G2011   470.25   Adelantar en curva o pendiente.
+G2013   580.00   No detenerse ante un semaforo en rojo.
+G2014   510.75   Transportar carga que sobresale sin senalizacion adecuada.
+G2015   545.30   Conducir a exceso de velocidad en zona de obras.
+G2016   490.00   No respetar la distancia minima entre vehiculos.
+G2018   560.40   Realizar giros prohibidos en intersecciones.
+G2019   505.20   Circular con documentacion falsa o alterada.
+G2020   575.00   No ceder el paso a peatones en paso cebra.
+G2021   485.60   Conducir vehiculo con frenos en mal estado.
+G2022   520.80   Exceder el peso maximo permitido del vehiculo.
+G2023   540.00   Circular por la berma o acera.
+G2025   500.25   No utilizar el cinturon de seguridad en vehiculo de carga.
+G2028   590.50   Realizar competencias de velocidad en via publica.
+G2029   465.75   No respetar las senales de transito de tipo reglamentario.
+G2031   555.00   Conducir con licencia vencida.
+G2032   158.33   Circular en las vias publicas urbanas sin el permiso correspondiente.
+G2035   610.25   Transportar materiales peligrosos sin autorizacion.
+G2036   525.40   No reducir la velocidad ante condiciones climaticas adversas.
+G2040   480.90   Adelantar a otro vehiculo en zona prohibida.
+G2042   535.00   Circular con las luces altas en zona urbana.
+G2043   570.75   No respetar el derecho de paso de los peatones.
+G2044   495.00   Conducir de manera temeraria.
+G2046   550.00   No detenerse ante la senal de ceda el paso.
+G2047   510.30   Circular con el vehiculo emitiendo humo excesivo.
+G2048   585.60   Transportar pasajeros en exceso de la capacidad.
+G2051   520.00   No portar el certificado de inspeccion tecnica.
+G2052   540.25   Realizar estacionamiento en zona de alto riesgo.
+G2053   500.80   Conducir sin espejos retrovisores.
+G2054   560.00   No respetar las restricciones de circulacion por pico y placa.
+G2059   475.40   Circular con la placa de rodaje ilegible o deteriorada.
+G2063   590.00   No ceder el paso a vehiculos que circulan por la via preferencial.
+G2064   515.75   Realizar cambio de carril sin senalizar.
+G2065   545.00   Conducir a velocidad excesiva en zona de niebla.
+G2066   530.50   No respetar el limite de velocidad en carreteras.
+G2067   480.00   Circular con el vehiculo sin seguro obligatorio vigente.
+G2068   555.25   Transportar carga que impide la vision del conductor.
+G2069   500.00   No detener el vehiculo ante un agente de transito.
+G2070   570.80   Realizar maniobras de retroceso en via principal.
+G2072   525.00   Circular en sentido contrario en via de doble sentido.
+G2073   540.40   No utilizar las luces de emergencia en caso de detencion.
+M3001  2439.00   Conducir un vehiculo automotor sin tener licencia de conducir o permiso provisional.
+M3002  2800.50   Conducir en estado de ebriedad con grado alto de alcohol.
+M3003  2650.00   Participar en competencias de velocidad no autorizadas.
+M3005  3100.75   Causar accidente de transito con lesiones graves por imprudencia.
+M3007  2950.25   Conducir bajo la influencia de sustancias estupefacientes.
+L3006  220.25   Utilizar la bocina para llamar la atencion en forma innecesaria.
+G2039  516.75   No reducir la velocidad al ingresar a una zona urbana.
