@@ -4,7 +4,6 @@
 
 #include "FuncionesAuxiliares.h"
 
-#include <algorithm>
 // # registration_date,channel_id,channel_name,metric1,metric2,metric3,stream_date,stream_duration,peak_viewers
 // 01/04/2021,F3765,Fextralife,1734810,93036735,222720,16/07/2025,00:25:55,1396
 
