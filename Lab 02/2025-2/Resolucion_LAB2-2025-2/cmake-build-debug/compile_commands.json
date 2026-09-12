@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Resolucion_LAB2_2025_2.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Resolucion_LAB2_2025_2.dir\\main.cpp.obj -c \"D:\\EEGGCC\\TP\\rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2\\main.cpp\"",
+  "file": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/main.cpp",
+  "output": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug/CMakeFiles/Resolucion_LAB2_2025_2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Resolucion_LAB2_2025_2.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Resolucion_LAB2_2025_2.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"D:\\EEGGCC\\TP\\rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug/CMakeFiles/Resolucion_LAB2_2025_2.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]

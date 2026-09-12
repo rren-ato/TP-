@@ -1,0 +1,3 @@
+D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug/CMakeFiles/Resolucion_LAB2_2025_2.dir
+D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/EEGGCC/TP/rren-ato TP- main Lab 02-2025-2_Resolucion_LAB2-2025-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
