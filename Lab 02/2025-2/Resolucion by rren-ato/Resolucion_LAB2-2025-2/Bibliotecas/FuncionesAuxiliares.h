@@ -20,8 +20,8 @@ using namespace std;
 //Funciones
 
 //? APERTURA DE ARCHIVOS (DEBUG)
-void open_read_file(ifstream &input, const char* file_name);
-void open_write_file(ofstream &output, const char* file_name);
+////void open_read_file(ifstream &input, const char* file_name);
+////void open_write_file(ofstream &output, const char* file_name);
 bool openFiles(ifstream &input, ofstream &output);
 void closeFiles(ifstream &input, ofstream &output);
 
