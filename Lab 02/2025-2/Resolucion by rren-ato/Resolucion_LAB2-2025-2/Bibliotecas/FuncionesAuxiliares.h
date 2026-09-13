@@ -59,7 +59,7 @@ void read_and_print_registros_validos(ifstream &input, ofstream &output, int dat
 void registro_por_canal(ifstream &input, ofstream &output, int date_limite_inf, int date_limite_sup,
                         double tarifax1k_reproducciones, double tarifaxminuto_duracion);
 
-void generar_reporte(ifstream &input, ofstream &output)
+void generar_reporte(ifstream &input, ofstream &output);
 
 void print_resumen_por_canal(ofstream &output, int duracion_total_reproduccion, int total_reproducciones,
                              long long ingresos_por_publidad, double ingresos_por_duracion,
