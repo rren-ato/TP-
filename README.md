@@ -6,6 +6,8 @@ El objetivo es centralizar en un solo lugar los recursos utilizados para **pract
 
 > [!NOTE]
 > Este repositorio no busca monetizar ni lucrar con el material compartido.
+> Canal de YT: https://www.youtube.com/@nonenaught2507
+> PLAYLIST DE TP: https://www.youtube.com/watch?v=Qcgs8O2tQDE&list=PLNOJvmGcpEDw
 
 ---
 
