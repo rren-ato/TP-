@@ -7,10 +7,15 @@ El objetivo es centralizar en un solo lugar los recursos utilizados para **pract
 > [!NOTE]
 > Este repositorio no busca monetizar ni lucrar con el material compartido.
 
-> Canal de YT: https://www.youtube.com/@nonenaught2507
-> PLAYLIST DE TP: https://www.youtube.com/watch?v=Qcgs8O2tQDE&list=PLNOJvmGcpEDw
-
 ---
+
+## 🎥 Material audiovisual
+
+[![Canal de YouTube](https://img.shields.io/badge/▶️%20Canal-Nonenaught-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nonenaught2507)
+[![Playlist de TP](https://img.shields.io/badge/🧪%20Playlist%20de%20TP-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Qcgs8O2tQDE&list=PLNOJvmGcpEDw)
+
+> [!NOTE]
+> Material audiovisual complementario para reforzar los contenidos del curso.
 
 ## 📂 ¿Qué encontrarás aquí?
 
