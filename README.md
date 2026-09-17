@@ -204,6 +204,10 @@ Esta sección reúne material académico de carácter **transversal**, correspon
 
 [![Abrir material FACI](https://img.shields.io/badge/📂%20Abrir%20material-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1ruO_Qj_8UMF7jvHTyEtoOzxcwE_CXfQX?usp=drive_link)
 
+Links de material de desarollo de habilidades:
+https://refactoring.guru/design-patterns/structural-patterns 
+https://roadmap.sh/ 
+
 El material puede incluir:
 
 - 📚 Material teórico
