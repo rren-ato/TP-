@@ -201,8 +201,11 @@ Repositorio relacionado con ejercicios, laboratorios y evaluaciones de Programac
 Esta sección reúne material académico de carácter **transversal**, correspondiente a diferentes cursos y áreas de la Facultad de Ciencias e Ingeniería.
 
 ### 📚 Material de práctica
-
+Material del nuevo TP
 [![Abrir material FACI](https://img.shields.io/badge/📂%20Abrir%20material-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1ruO_Qj_8UMF7jvHTyEtoOzxcwE_CXfQX?usp=drive_link)
+Material Legacy (complementario - en algunas presentaciones se entiende mucho más)
+
+[![Abrir material del curso](https://img.shields.io/badge/📂%20Abrir%20material-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1seX8RNi-VQwz4Cqbpo-OAETe6pqh8uQLzx47pqc5w0o/edit?usp=drivesdk)
 
 Links de material de desarollo de habilidades:
 https://refactoring.guru/design-patterns/structural-patterns 
