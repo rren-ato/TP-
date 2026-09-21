@@ -1,0 +1,60 @@
+L3001	158.33	Circular en las vias publicas urbanas o de acceso restringido sin cinturon de seguridad
+L3002	145.10	No portar la licencia de conducir durante la conduccion del vehiculo
+L3003	172.90	Estacionar el vehiculo en un lugar no autorizado sin obstruir la via
+L3004	160.25	No contar con el certificado de revision tecnica vehicular vigente
+L3005	168.50	Conducir con la luneta o los espejos retrovisores en mal estado
+L3006	150.00	No usar las luces reglamentarias durante la conduccion nocturna
+L3007	175.40	Tocar el claxon en zonas y horarios donde esta prohibido
+L3008	155.75	No llevar el triangulo de seguridad reglamentario
+L3009	163.20	Circular con el parabrisas o lunas polarizadas fuera de la norma
+L3010	170.60	No respetar las señales de transito de caracter informativo
+G2001	350.10	No conducir por el carril de extremo derecho de la calzada un vehiculo de transporte de carga
+G2002	412.50	Adelantar a otro vehiculo en una curva o zona de poca visibilidad
+G2003	380.25	No respetar el paso peatonal cuando un peaton esta cruzando la calzada
+G2004	395.60	Conducir un vehiculo con las llantas lisas o en mal estado
+G2005	425.75	Girar en U en una via donde esta prohibida dicha maniobra
+G2006	360.40	Circular en sentido contrario al establecido en una via de un solo sentido
+G2007	425.23	No conducir por el carril de extremo derecho de la calzada un vehiculo de transporte publico
+G2008	448.90	Estacionar el vehiculo en un area destinada para personas con discapacidad
+G2009	405.15	No ceder el paso a un vehiculo de emergencia con las sirenas encendidas
+G2010	470.30	Exceder el limite de velocidad permitido en zona urbana
+G2011	390.80	Conducir empleando el telefono celular sin dispositivo manos libres
+G2012	415.60	No respetar la luz roja intermitente en un cruce ferroviario
+G2013	460.20	Circular con las luces altas encendidas en sentido contrario a otro vehiculo
+G2014	375.45	Transportar pasajeros en la tolva de un vehiculo de carga
+G2015	500.00	Conducir un vehiculo con las placas de rodaje ilegibles o alteradas
+G2016	430.70	No detenerse ante una señal de PARE en una interseccion
+G2017	385.90	Circular por la berma central o auxiliar de la via
+G2018	440.25	Adelantar a otro vehiculo por la derecha en una via de doble sentido
+G2019	455.60	No respetar el derecho de via de un vehiculo que circula por una rotonda
+G2020	398.10	Conducir un vehiculo de transporte publico sin el brevete de categoria correspondiente
+G2021	420.55	Estacionar el vehiculo en doble fila obstruyendo el transito
+G2022	465.80	No usar el cinturon de seguridad los pasajeros de un vehiculo de transporte publico
+G2023	410.35	Circular con las puertas del vehiculo abiertas
+G2024	445.90	No respetar las señales de un efectivo de transito
+G2025	480.15	Conducir un vehiculo con el sistema de frenos en mal estado
+G2026	355.70	No colocar los conos de seguridad en caso de avería en la via
+G2027	392.40	Circular con exceso de pasajeros respecto a la capacidad autorizada
+G2028	428.60	Realizar maniobras de adelantamiento en un puente o tunel
+G2029	401.25	No respetar el carril exclusivo de transporte publico
+G2030	486.45	Conducir un vehiculo especial que no se ajuste a las exigencias reglamentarias
+M1001	780.40	Conducir un vehiculo bajo los efectos del alcohol o de sustancias estupefacientes
+M1002	950.60	Participar en una competencia de velocidad no autorizada en la via publica
+M1003	820.15	Conducir un vehiculo sin contar con licencia de conducir vigente
+M1004	890.75	Fugar del lugar de un accidente de transito con daños personales
+M1005	760.30	Conducir un vehiculo con el brevete suspendido o cancelado
+M1006	1050.90	Transportar pasajeros excediendo notoriamente la capacidad autorizada poniendo en riesgo su vida
+M1007	810.45	No detenerse ante un accidente de transito en el que se ha visto involucrado
+M1008	995.20	Conducir un vehiculo de transporte de materiales peligrosos sin la autorizacion correspondiente
+M1009	870.60	Circular a excesiva velocidad en una zona escolar
+M1010	925.35	Conducir un vehiculo con las llantas en estado critico poniendo en riesgo a los ocupantes
+M1011	785.80	Manipular el vehiculo mientras se encuentra en movimiento sin las manos en el volante
+M1012	910.25	Conducir un vehiculo de transporte publico sin el seguro obligatorio vigente
+M1013	845.90	Realizar maniobras temerarias que pongan en riesgo la vida de terceros
+M1014	1020.40	Conducir un vehiculo con el sistema de direccion gravemente deteriorado
+M1015	799.65	No respetar un cerco policial o control de transito establecido por la autoridad
+M1016	865.10	Circular en sentido contrario en una via expresa o autopista
+M1017	930.80	Conducir un vehiculo de transporte escolar sin las medidas de seguridad obligatorias
+M1018	1080.50	Abandonar el vehiculo en la via generando un riesgo grave para el transito
+M1019	815.20	Conducir de manera temeraria arriesgando la vida de los pasajeros
+M1020	960.45	Transportar carga peligrosa sin cumplir con las normas de seguridad establecidas
