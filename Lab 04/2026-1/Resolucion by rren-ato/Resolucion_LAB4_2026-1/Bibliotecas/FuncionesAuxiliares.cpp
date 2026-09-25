@@ -8,7 +8,7 @@
 void open_read_file(ifstream &input, const char* file_name) {
     input.open(file_name);
     if (not input.is_open()) {
-        cout << "El archivo " << file_name << " no se pudo leer" << endl;
+        cerr << "El archivo " << file_name << " no se pudo leer" << endl;
         exit(1);
     }
 }
@@ -16,7 +16,7 @@ void open_read_file(ifstream &input, const char* file_name) {
 void open_write_file(ofstream &output, const char* file_name) {
     output.open(file_name);
     if (not output.is_open()) {
-        cout << "El archivo " << file_name << " no se pudo leer" << endl;
+        cerr << "El archivo " << file_name << " no se pudo leer" << endl;
         exit(1);
     }
 }
@@ -48,6 +48,16 @@ int read_date (ifstream &input) {
     return yyyy*10000 + mm*100 + dd;
 }
 
+void print_date(ofstream &output, int width, int fechasTriajes) {
+    int day, month, year;
+    year = fechasTriajes / 1000;
+    month = (fechasTriajes/100) % 100;
+    day = fechasTriajes % 100;
+    output << setfill('0') << setw(2) << day << "/" << setw(2) << month << setfill(' ') << "/" << year;
+    //* GENERAR ESPACIADO
+    for (int i=10; i<=width; i++) output.put(' ');
+}
+
 int read_time(ifstream &input) {
     int mm, ss, hh;
     char c;
@@ -70,7 +80,8 @@ int read_time(ifstream &input) {
 // }
 
 //! PENSAR UNICAMENTE QUE LA LECTURA SE DA POR FUNCIONES - SE LLENAN LOS ARREGLOS Y LUEGO SE PUEDE IMPRIMIR
-void llenar_pacientes(const char* filePacientes, int *codigosPacientes, int *edadesPacientes, char *sexosPacientes) {
+void llenar_pacientes(const char* filePacientes, int *codigosPacientes, int *edadesPacientes, char *sexosPacientes,
+                      int &cantPacientes) {
     //! {"id": 1, "dni": "469-84-4163", "nombre": "Dunston/Rossoni-P.", "sexo": "F", "edad": 47}
     ifstream inputPacientes; open_read_file(inputPacientes, filePacientes);
     int i =0;
@@ -91,9 +102,11 @@ void llenar_pacientes(const char* filePacientes, int *codigosPacientes, int *eda
         inputPacientes.ignore(10000,':');                   //*    ", "edad":
         inputPacientes >> edadesPacientes[i];
     }
+    cantPacientes = i; //*COLOCAR "CANT" EN CADA ARREGLO ME PARECE ENGORROSO
 }
 
-void llenar_especialidades(const char* fileEspecialidades, int *codigosEspecialidades, double *costosEspecialidades) {
+void llenar_especialidades(const char* fileEspecialidades, int *codigosEspecialidades, double *costosEspecialidades,
+                           int &cantEspecialidades) {
     //! {"id": 1, "codigo": 576, "nombre": "Pediatria", "costo": 268.65}
     ifstream inputEspecialidades; open_read_file(inputEspecialidades, fileEspecialidades);
     int i =0;
@@ -112,6 +125,7 @@ void llenar_especialidades(const char* fileEspecialidades, int *codigosEspeciali
         inputEspecialidades.ignore(10000,'"');                   //*       "costo":
         inputEspecialidades >> costosEspecialidades[i];
     }
+    cantEspecialidades = i; //*COLOCAR "CANT" EN CADA ARREGLO ME PARECE ENGORROSO
 }
 
 
@@ -157,16 +171,20 @@ void llenar_triaje(const char* fileTriaje,int *CodigosPacientes,int *CodigosEspe
         //* BUSQUEDA DE COINCIDENCIA (NO SE PUEDE IMPRIMIR AQUI)
         posPaciente = buscarPaciente(codigoPacienteTriaje, CodigosPacientes);
         posEspecialidad = buscarEspecialidad(codigoEspecialidadTriaje, CodigosEspecialidades);
+        //? ETAPA DE GUARDADOS
         if (posPaciente != NOT_FOUND and posEspecialidad != NOT_FOUND) {
             duracion = read_time(inputTriaje);
-            costo = costosEspecialidades[posEspecialidad]; //* se remplaza el i por la posicion encontrada (MATCH)
+            //! se remplaza el i por la posicion encontrada (MATCH)
+            costo = costosEspecialidades[posEspecialidad]; //* SE BUSCA PASAR EL DATO DE UN ARREGLO A OTRO (LINKEO)
             if (temperaturaMaxTriajes[posPaciente] < temperatura) {
                 fechasTriajes[posPaciente] = fecha;
                 frecuenciasTriajes[posPaciente] = frecuenciaC;
                 presionesSisTriajes[posPaciente] = presionSistolica;
                 presionesDiasTriajes[posPaciente] = presionDiastolica;
             }
+            //* SE GUARDA EL COSTO EN FUNCION A LAS POSICIONES DEL PACIENTE - LINKEO COMPLETO DE INFORMACION
             CostoTotal[posPaciente] += (costo/3600) * duracion;
+
         }
         else {
             //* NO SE ENCUENTRA LOS VALORES POR ENDE IGNORAS TODA LA LINEA
@@ -174,5 +192,45 @@ void llenar_triaje(const char* fileTriaje,int *CodigosPacientes,int *CodigosEspe
         }
     }
 
+}
+
+//? EN UN REPORTE LA BUENA PRACTICA REALMENTE SERIA
+//* PERO UNO NO ESTA OBLIGADO A HACERLO (PROF HUIZA)
+// void imprimirReporte(const char *fileReporte,const int *CodigosPacientes,const int *EdadesPacientes,const char *SexosPacientes,
+//                      const int *fechasTriajes,const int *frecuenciasTriajes,const int *presionesSisTriajes,
+//                      const int *presionesDiasTriajes,const double *temperaturaMaxTriajes,const double *CostoTotal);
+
+void imprimirReporte(const char *fileReporte, int *CodigosPacientes, int *EdadesPacientes, char *SexosPacientes,
+                     int *fechasTriajes, int *frecuenciasTriajes, int *presionesSisTriajes, int *presionesDiasTriajes,
+                     double *temperaturaMaxTriajes, double *CostoTotal) {
+    ofstream outputReporte; open_write_file(outputReporte, fileReporte);
+    int cant = 0, edadTotal = 0, sistolicaTotal = 0, diastolicaTotal = 0, frecuenciaTotal = 0;
+    double temperaturaTotal = 0.00, costoTotal = 0.00;
+    //* Imprimir el Header
+
+    for (int i = 0; CodigosPacientes[i] != 0; i++) {
+        //* Descuentos circunstanciales por edad
+        print_date(outputReporte, 16, fechasTriajes[i]);
+        if (EdadesPacientes[i] < 18) CostoTotal[i] *= 0.95;
+        else if (EdadesPacientes[i] > 64) CostoTotal[i] *= 0.82;
+         outputReporte << setfill('0') << setw(2) << i + 1 << setfill(' ') << ")" <<
+             setw(12) << CodigosPacientes[i] << setw(6) << SexosPacientes[i] << setw(6) << "" <<
+                 setfill('0') <<setw(2) << EdadesPacientes[i] << setfill(' ') <<
+                     setw(15) << temperaturaMaxTriajes[i] << setw(17) << presionesSisTriajes[i] <<
+                         setw(17) << presionesDiasTriajes[i] << setw(20) << frecuenciasTriajes[i] << setw(8) << "";
+        //* IMPRIMIR FECHA
+        outputReporte << setw(14) << CostoTotal[i] << endl;
+        //* GUARDADO DE VALORES PARA PROMEDIO
+        edadTotal += EdadesPacientes[i];
+        sistolicaTotal += frecuenciasTriajes[i];
+        diastolicaTotal += presionesSisTriajes[i];
+        frecuenciaTotal += presionesDiasTriajes[i];
+        temperaturaTotal += temperaturaMaxTriajes[i];
+        costoTotal += CostoTotal[i];
+        cant++;
+    }
+    print_line(outputReporte,ANCHO_REPORTE, '-');
+    //* IMPRIMIR PROMEDIOS
+    
 }
 
