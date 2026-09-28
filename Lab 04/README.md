@@ -2,7 +2,7 @@
 
 Explicación rápida de la diferencia real entre **arrays** y **punteros** (basado en la teoría de clase).
 
-![Array vs Puntero](array-vs-puntero.png)
+![Arreglo vs Puntero](Arreglo%20vs%20Puntero.jpg)
 
 ---
 
