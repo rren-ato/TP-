@@ -18,7 +18,7 @@
 //! PERO CON BUSQUEDA
 
 int buscarPosicionOrdenada(int* arrCodigos, int longitud, int nuevo) {
-  for (int i = 0; i < tamanio; i++) {
+  for (int i = 0; i < longitud; i++) {
     if (codigos[i] > nuevo) {
       return i;
     }
