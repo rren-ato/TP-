@@ -1,5 +1,49 @@
 //? INSERCION DE DATOS EN LOS ARREGLOS DE FORMA ORDENADA
+  bool insertarOrdenado(int* arrNumero, int capacidad, int& longitud, int numero) {
+    if (longitud >= capacidad) {
+        return false;
+    }
+
+    int i = longitud - 1;
+    while (i >= 0 && arrNumero[i] > numero) {
+        arrNumero[i + 1] = arrNumero[i]; // desplazamos a la derecha
+        i--;
+    }
+
+    numeros[i + 1] = numero; // insertamos el nuevo número
+    longitud++;
+    return true
+}
+
+//! PERO CON BUSQUEDA
+
+int buscarPosicionOrdenada(int* arrCodigos, int longitud, int nuevo) {
+  for (int i = 0; i < tamanio; i++) {
+    if (codigos[i] > nuevo) {
+      return i;
+    }
+  }
+  return tamanio;
+}
+//-----------------------------------------
+bool insertarOrdenado(int* arrCodigos, double* arrCiclos, int& longitud,
+  int capacidad, int codigo, double ciclo) {
   
+  if (tamanio >= capacidad) return false;
+  
+  int pos = buscarPosicionOrdenada(codigos, longitud, codigo);
+  
+  for (int i = tamanio; i > pos; i--) { // de atras hacia adelante
+    arrCodigos[i] = arrCodigos[i - 1];
+    arrCiclos[i] = arrCiclos[i - 1]; // los DOS arreglos
+  }
+  
+  arrCodigos[pos] = codigo;
+  arrCiclos[pos] = ciclo;
+  longitud++;
+  return true;
+  }
+
 
 //? ORDENAMIENTO
 //* El ordenamiento funciona para cuando los datos ya se encuentran leidos en los arreglos
