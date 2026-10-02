@@ -46,6 +46,7 @@ void selection_sort(double *arrNota, int n){
         swap(posMenor[i], posMenor[posMenor]) // posMenor en este momento es j
       }
     }
+  }
 }
 
 //? Ordenamiento TIPO BURBUJA (DUALES)
