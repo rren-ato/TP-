@@ -67,7 +67,7 @@ int busquedaBinaria(int *arrdato, int n, int valorAbuscar){
   int derecha = n-1;
 
   while(inicio <= fin){
-    int medio = (inicio + fin)/2;
+    int medio = izquierda + (derecha - izquierda)/2;
       //* |1|2|*3|4|5| ==> |3|*4|5|
     if(datos[medio] == valorAbuscar){
       return medio; // la posicion i
