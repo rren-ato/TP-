@@ -6,7 +6,7 @@
 
     int i = longitud - 1;
     while (i >= 0 and arrNumero[i] > numero) {
-        arrNumero[i + 1] = arrNumero[i]; // desplazamos a la derecha
+        arrNumero[i + 1] = arrNumero[i]; // desplazamos a la derecha (SHIFT)
         i--;
     }
 
