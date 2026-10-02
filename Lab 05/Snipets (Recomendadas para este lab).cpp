@@ -16,33 +16,34 @@
 }
 
 //! PERO CON BUSQUEDA
-
+//? Esta funcion indicala posicion donde deberia ir el nuevo dato
 int buscarPosicionOrdenada(int* arrCodigos, int longitud, int nuevo) {
   for (int i = 0; i < longitud; i++) {
-    if (codigos[i] > nuevo) {
+    if (arrCodigos[i] > nuevo) {
       return i;
     }
   }
-  return tamanio;
+  return longitud;   // si no encontró ninguno mayor, va al final
 }
-//-----------------------------------------
+
 bool insertarOrdenado(int* arrCodigos, double* arrCiclos, int& longitud,
-  int capacidad, int codigo, double ciclo) {
+                      int capacidad, int codigo, double ciclo) {
   
-  if (tamanio >= capacidad) return false;
+  if (longitud >= capacidad) return false;
   
-  int pos = buscarPosicionOrdenada(codigos, longitud, codigo);
+  int pos = buscarPosicionOrdenada(arrCodigos, longitud, codigo);
   
-  for (int i = tamanio; i > pos; i--) { // de atras hacia adelante
-    arrCodigos[i] = arrCodigos[i - 1];
-    arrCiclos[i] = arrCiclos[i - 1]; // los DOS arreglos
+  // correr los elementos hacia la derecha (de atrás hacia adelante)
+  for (int i = longitud; i > pos; i--) {
+    arrCodigos[i] = arrCodigos[i - 1]; //aplastas el valor nuevo (y vas moviendo los datos hasta antes de llegar a tu pos)
+    arrCiclos[i]  = arrCiclos[i - 1];
   }
   
-  arrCodigos[pos] = codigo;
-  arrCiclos[pos] = ciclo;
+  arrCodigos[pos] = codigo; //luego añades el valor que querias añadir
+  arrCiclos[pos]  = ciclo;
   longitud++;
   return true;
-  }
+}
 
 
 //? ORDENAMIENTO
