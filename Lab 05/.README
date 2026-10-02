@@ -1,8 +1,18 @@
+## 🧠 Ordenamiento y búsqueda
 
-## 🧠 Ordenamiento y búsqueda en arreglos
-
-Guía visual para comprender los principales algoritmos de ordenamiento y búsqueda en C++.
+### 📖 Guía visual
 
 <div align="center">
-  <img src="Assets/Guía-visual-de-algoritmos-en-arreglos.png" alt="Infografía de ordenamiento y búsqueda en arreglos" width="100%">
+  <img src="Assets/ordenamiento-busqueda.png"
+       alt="Guía visual de ordenamiento y búsqueda"
+       width="100%">
 </div>
+
+### 🎮 Simulador interactivo
+
+¿Quieres ver cómo funcionan los algoritmos paso a paso?
+
+[![Abrir simulador](https://img.shields.io/badge/🧠%20Abrir%20simulador-Algoritmos-8B5CF6?style=for-the-badge)](https://rren-ato.github.io/TP-/GUIAS/ALGORITMOS/)
+
+> Prueba diferentes arreglos, avanza paso a paso y observa qué ocurre
+> con `i`, `j`, `posMenor`, `medio`, `izquierda` y `derecha`.
