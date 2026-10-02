@@ -3,7 +3,7 @@
 ### 📖 Guía visual
 
 <div align="center">
-  <img src="Assets/ordenamiento-busqueda.png"
+  <img src="TP-/Assets/ordenamiento-busqueda.png"
        alt="Guía visual de ordenamiento y búsqueda"
        width="100%">
 </div>
