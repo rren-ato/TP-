@@ -5,7 +5,7 @@
     }
 
     int i = longitud - 1;
-    while (i >= 0 && arrNumero[i] > numero) {
+    while (i >= 0 and arrNumero[i] > numero) {
         arrNumero[i + 1] = arrNumero[i]; // desplazamos a la derecha
         i--;
     }
@@ -16,7 +16,8 @@
 }
 
 //! PERO CON BUSQUEDA
-//? Esta funcion indicala posicion donde deberia ir el nuevo dato
+//? Esta funcion indica la posicion donde deberia ir el nuevo dato
+//Asumir que se sabe que en el tu funcion aparte es donde lees cada codigo (nuevo)
 int buscarPosicionOrdenada(int* arrCodigos, int longitud, int nuevo) {
   for (int i = 0; i < longitud; i++) {
     if (arrCodigos[i] > nuevo) {
@@ -26,8 +27,8 @@ int buscarPosicionOrdenada(int* arrCodigos, int longitud, int nuevo) {
   return longitud;   // si no encontró ninguno mayor, va al final
 }
 
-bool insertarOrdenado(int* arrCodigos, double* arrCiclos, int& longitud,
-                      int capacidad, int codigo, double ciclo) {
+bool insertarOrdenado(int* arrCodigos, double* arrCiclos, int& longitud,      //!Asumir que se sabe que en el tu funcion aparte es donde lees cada codigo (nuevo)
+                      int capacidad, int codigo, double ciclo) {    
   
   if (longitud >= capacidad) return false;
   
