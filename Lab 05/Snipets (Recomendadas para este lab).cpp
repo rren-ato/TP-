@@ -24,7 +24,10 @@ void insertion_sort(int *arr, int n){ //el arr puede cambiar de tipo de dato
     for( int j= i+1; j < n; j++){     // arr[j] (posicion 1) - ESTA POSICION VA VARIANDO
       if(arr[j] > arr[i]){
          // Dependiendo de > o < se ordena de forma ACENDETEMENTE o DESCENDENTEMENTE respectivamente
-        swapInt(arr[i], arr[j]); //* si el dato de la posicion 1 es mayor al de la posicion 0, se va ordenando     
+        swapInt(arr[i], arr[j]); //* si el dato de la posicion 1 es mayor al de la posicion 0, se va ordenando
+      }
+    }
+  }
 }
 
 
@@ -42,6 +45,7 @@ void selection_sort(double *arrNota, int n){
       if (posMenor =! i){
         swap(posMenor[i], posMenor[posMenor]) // posMenor en este momento es j
       }
+    }
 }
 
 //? Ordenamiento TIPO BURBUJA (DUALES)
