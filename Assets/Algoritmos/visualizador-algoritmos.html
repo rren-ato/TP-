@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualizador de Algoritmos - Lab 05</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --border: #334155;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent2: #a78bfa;
+      --success: #4ade80;
+      --warning: #fbbf24;
+      --danger: #f87171;
+      --compare: #f472b6;
+      --swap: #fb923c;
+      --sorted: #34d399;
+      --pivot: #c084fc;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 1.5rem;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .section-title {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin-bottom: 0.75rem;
+      font-weight: 600;
+    }
+
+    /* Controles de datos */
+    .data-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      min-width: 200px;
+      padding: 0.6rem 0.9rem;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #0f172a;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+
+    input[type="text"]:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+    }
+
+    button {
+      padding: 0.55rem 1rem;
+      border-radius: 8px;
+      border: none;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    button:hover:not(:disabled) {
+      transform: translateY(-1px);
+    }
+
+    button:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #0f172a;
+    }
+
+    .btn-primary:hover:not(:disabled) {
+      background: #7dd3fc;
+    }
+
+    .btn-secondary {
+      background: #334155;
+      color: var(--text);
+    }
+
+    .btn-secondary:hover:not(:disabled) {
+      background: #475569;
+    }
+
+    .btn-success {
+      background: var(--success);
+      color: #064e3b;
+    }
+
+    .btn-warning {
+      background: var(--warning);
+      color: #78350f;
+    }
+
+    .btn-danger {
+      background: var(--danger);
+      color: #7f1d1d;
+    }
+
+    /* Selector de algoritmos */
+    .algo-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .algo-tab {
+      padding: 0.5rem 1rem;
+      border-radius: 999px;
+      background: #0f172a;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .algo-tab:hover {
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .algo-tab.active {
+      background: var(--accent);
+      color: #0f172a;
+      border-color: var(--accent);
+    }
+
+    /* Visualización */
+    .viz-area {
+      min-height: 140px;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem 0.5rem;
+    }
+
+    .array-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      align-items: flex-end;
+    }
+
+    .box {
+      width: 56px;
+      height: 56px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1.1rem;
+      background: #334155;
+      border: 2px solid #475569;
+      color: var(--text);
+      transition: all 0.25s ease;
+      position: relative;
+    }
+
+    .box .index {
+      position: absolute;
+      bottom: -18px;
+      font-size: 0.7rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+
+    .box.comparing {
+      background: var(--compare);
+      border-color: #ec4899;
+      color: #831843;
+      transform: scale(1.08);
+      box-shadow: 0 0 16px rgba(244, 114, 182, 0.5);
+    }
+
+    .box.swapping {
+      background: var(--swap);
+      border-color: #ea580c;
+      color: #7c2d12;
+      transform: scale(1.1);
+      box-shadow: 0 0 16px rgba(251, 146, 60, 0.5);
+    }
+
+    .box.sorted {
+      background: var(--sorted);
+      border-color: #10b981;
+      color: #064e3b;
+    }
+
+    .box.pivot {
+      background: var(--pivot);
+      border-color: #9333ea;
+      color: #4c1d95;
+      transform: scale(1.05);
+    }
+
+    .box.inserting {
+      background: var(--accent);
+      border-color: #0ea5e9;
+      color: #0c4a6e;
+      transform: scale(1.12);
+      box-shadow: 0 0 18px rgba(56, 189, 248, 0.6);
+    }
+
+    .box.found {
+      background: var(--success);
+      border-color: #16a34a;
+      color: #14532d;
+      animation: pulse 0.6s ease infinite;
+    }
+
+    .box.discarded {
+      opacity: 0.35;
+      transform: scale(0.92);
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1.1); }
+      50% { transform: scale(1.2); }
+    }
+
+    /* Controles de reproducción */
+    .playback {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .speed-control {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    input[type="range"] {
+      width: 100px;
+      accent-color: var(--accent);
+    }
+
+    /* Status */
+    .status {
+      text-align: center;
+      font-size: 0.95rem;
+      color: var(--muted);
+      min-height: 1.5rem;
+      padding: 0.5rem;
+    }
+
+    .status strong {
+      color: var(--accent);
+    }
+
+    /* Leyenda */
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .legend-color {
+      width: 14px;
+      height: 14px;
+      border-radius: 4px;
+    }
+
+    /* Info del algoritmo */
+    .algo-info {
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .algo-info code {
+      background: #0f172a;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      color: var(--accent);
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .box {
+        width: 44px;
+        height: 44px;
+        font-size: 0.95rem;
+      }
+      h1 { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Visualizador de Algoritmos</h1>
+    <p class="subtitle">Lab 05 · Inserción ordenada · Ordenamientos · Búsqueda binaria</p>
+
+    <!-- Datos -->
+    <div class="card">
+      <div class="section-title">Datos del arreglo</div>
+      <div class="data-controls">
+        <input type="text" id="arrayInput" placeholder="Ej: 5, 2, 8, 1, 9, 3" value="7, 3, 9, 1, 5, 8, 2">
+        <button class="btn-primary" onclick="setCustomArray()">Aplicar</button>
+        <button class="btn-secondary" onclick="generateRandom()">Aleatorio</button>
+      </div>
+    </div>
+
+    <!-- Algoritmos -->
+    <div class="card">
+      <div class="section-title">Algoritmo</div>
+      <div class="algo-tabs" id="algoTabs">
+        <button class="algo-tab active" data-algo="bubble">Bubble Sort</button>
+        <button class="algo-tab" data-algo="selection">Selection Sort</button>
+        <button class="algo-tab" data-algo="insertion">Insertion Sort</button>
+        <button class="algo-tab" data-algo="orderedInsert">Inserción Ordenada</button>
+        <button class="algo-tab" data-algo="binarySearch">Búsqueda Binaria</button>
+      </div>
+    </div>
+
+    <!-- Visualización -->
+    <div class="card">
+      <div class="section-title">Visualización</div>
+      <div class="viz-area">
+        <div class="array-row" id="arrayDisplay"></div>
+      </div>
+      <div class="status" id="status">Selecciona un algoritmo y presiona ▶ Reproducir o Paso</div>
+    </div>
+
+    <!-- Controles -->
+    <div class="card">
+      <div class="section-title">Controles</div>
+      <div class="playback">
+        <button class="btn-success" id="btnPlay" onclick="play()">▶ Reproducir</button>
+        <button class="btn-secondary" id="btnStep" onclick="step()">Paso →</button>
+        <button class="btn-warning" id="btnPause" onclick="pause()" disabled>⏸ Pausar</button>
+        <button class="btn-danger" id="btnReset" onclick="reset()">↺ Reiniciar</button>
+        <div class="speed-control">
+          <span>Velocidad</span>
+          <input type="range" id="speed" min="100" max="1200" value="500" step="50">
+          <span id="speedLabel">500ms</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Leyenda -->
+    <div class="card">
+      <div class="legend">
+        <div class="legend-item"><div class="legend-color" style="background:#f472b6"></div> Comparando</div>
+        <div class="legend-item"><div class="legend-color" style="background:#fb923c"></div> Intercambiando</div>
+        <div class="legend-item"><div class="legend-color" style="background:#34d399"></div> Ordenado / Encontrado</div>
+        <div class="legend-item"><div class="legend-color" style="background:#38bdf8"></div> Insertando</div>
+        <div class="legend-item"><div class="legend-color" style="background:#c084fc"></div> Pivote / Medio</div>
+        <div class="legend-item"><div class="legend-color" style="background:#334155; opacity:0.4"></div> Descartado</div>
+      </div>
+    </div>
+
+    <!-- Info -->
+    <div class="card">
+      <div class="section-title">Descripción del algoritmo</div>
+      <div class="algo-info" id="algoInfo">
+        <strong>Bubble Sort</strong>: Compara pares adyacentes e intercambia si están en el orden incorrecto. 
+        Después de cada pasada, el elemento más grande “burbujea” hacia el final.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ============== Estado global ==============
+    let originalArray = [7, 3, 9, 1, 5, 8, 2];
+    let array = [...originalArray];
+    let currentAlgo = 'bubble';
+    let steps = [];
+    let stepIndex = 0;
+    let playing = false;
+    let timer = null;
+    let searchTarget = null;
+
+    // ============== Descripciones ==============
+    const descriptions = {
+      bubble: `<strong>Bubble Sort</strong>: Compara pares adyacentes e intercambia si están en el orden incorrecto. 
+        Después de cada pasada, el elemento más grande “burbujea” hacia el final. Complejidad: O(n²).`,
+      selection: `<strong>Selection Sort</strong>: En cada pasada encuentra el mínimo (o máximo) del subarreglo restante 
+        y lo coloca en su posición final. Solo hace un intercambio por pasada. Complejidad: O(n²).`,
+      insertion: `<strong>Insertion Sort</strong>: Construye el arreglo ordenado de izquierda a derecha. 
+        Toma el siguiente elemento y lo inserta en la posición correcta desplazando los mayores. Complejidad: O(n²).`,
+      orderedInsert: `<strong>Inserción Ordenada</strong>: Busca la posición correcta en un arreglo ya ordenado 
+        y desplaza los elementos hacia la derecha para hacer espacio (como en tu función <code>insertarOrdenado</code>).`,
+      binarySearch: `<strong>Búsqueda Binaria</strong>: Requiere el arreglo ordenado. Divide el rango a la mitad 
+        en cada paso comparando con el elemento del medio. Complejidad: O(log n).`
+    };
+
+    // ============== Utilidades de UI ==============
+    function renderArray(highlights = {}) {
+      const container = document.getElementById('arrayDisplay');
+      container.innerHTML = '';
+      array.forEach((val, i) => {
+        const box = document.createElement('div');
+        box.className = 'box';
+        if (highlights.comparing?.includes(i)) box.classList.add('comparing');
+        if (highlights.swapping?.includes(i)) box.classList.add('swapping');
+        if (highlights.sorted?.includes(i)) box.classList.add('sorted');
+        if (highlights.pivot === i) box.classList.add('pivot');
+        if (highlights.inserting === i) box.classList.add('inserting');
+        if (highlights.found === i) box.classList.add('found');
+        if (highlights.discarded?.includes(i)) box.classList.add('discarded');
+        box.textContent = val;
+        const idx = document.createElement('span');
+        idx.className = 'index';
+        idx.textContent = i;
+        box.appendChild(idx);
+        container.appendChild(box);
+      });
+    }
+
+    function setStatus(msg) {
+      document.getElementById('status').innerHTML = msg;
+    }
+
+    function updateButtons() {
+      const hasSteps = steps.length > 0;
+      const atEnd = stepIndex >= steps.length;
+      document.getElementById('btnPlay').disabled = playing || atEnd || !hasSteps;
+      document.getElementById('btnStep').disabled = playing || atEnd || !hasSteps;
+      document.getElementById('btnPause').disabled = !playing;
+      document.getElementById('btnReset').disabled = false;
+    }
+
+    // ============== Generadores de pasos ==============
+    function generateBubbleSteps(arr) {
+      const a = [...arr];
+      const n = a.length;
+      const s = [];
+      for (let i = 0; i < n - 1; i++) {
+        for (let j = 0; j < n - 1 - i; j++) {
+          s.push({
+            array: [...a],
+            highlights: { comparing: [j, j + 1] },
+            message: `Comparando posiciones <strong>${j}</strong> y <strong>${j + 1}</strong> → ${a[j]} y ${a[j + 1]}`
+          });
+          if (a[j] > a[j + 1]) {
+            [a[j], a[j + 1]] = [a[j + 1], a[j]];
+            s.push({
+              array: [...a],
+              highlights: { swapping: [j, j + 1] },
+              message: `Intercambio: ${a[j + 1]} ↔ ${a[j]}`
+            });
+          }
+        }
+        s.push({
+          array: [...a],
+          highlights: { sorted: Array.from({ length: i + 1 }, (_, k) => n - 1 - k) },
+          message: `Pasada ${i + 1} terminada. Elemento en posición ${n - 1 - i} ya está en su lugar.`
+        });
+      }
+      s.push({
+        array: [...a],
+        highlights: { sorted: Array.from({ length: n }, (_, k) => k) },
+        message: `¡Arreglo completamente ordenado!`
+      });
+      return s;
+    }
+
+    function generateSelectionSteps(arr) {
+      const a = [...arr];
+      const n = a.length;
+      const s = [];
+      for (let i = 0; i < n - 1; i++) {
+        let minIdx = i;
+        s.push({
+          array: [...a],
+          highlights: { pivot: i, sorted: Array.from({ length: i }, (_, k) => k) },
+          message: `Buscando el mínimo desde la posición <strong>${i}</strong>`
+        });
+        for (let j = i + 1; j < n; j++) {
+          s.push({
+            array: [...a],
+            highlights: { comparing: [minIdx, j], pivot: i, sorted: Array.from({ length: i }, (_, k) => k) },
+            message: `Comparando mínimo actual (${a[minIdx]}) con ${a[j]}`
+          });
+          if (a[j] < a[minIdx]) {
+            minIdx = j;
+            s.push({
+              array: [...a],
+              highlights: { pivot: minIdx, sorted: Array.from({ length: i }, (_, k) => k) },
+              message: `Nuevo mínimo encontrado: <strong>${a[minIdx]}</strong> en posición ${minIdx}`
+            });
+          }
+        }
+        if (minIdx !== i) {
+          [a[i], a[minIdx]] = [a[minIdx], a[i]];
+          s.push({
+            array: [...a],
+            highlights: { swapping: [i, minIdx], sorted: Array.from({ length: i }, (_, k) => k) },
+            message: `Intercambio: colocando ${a[i]} en la posición ${i}`
+          });
+        }
+        s.push({
+          array: [...a],
+          highlights: { sorted: Array.from({ length: i + 1 }, (_, k) => k) },
+          message: `Posición ${i} fijada con valor ${a[i]}`
+        });
+      }
+      s.push({
+        array: [...a],
+        highlights: { sorted: Array.from({ length: n }, (_, k) => k) },
+        message: `¡Arreglo completamente ordenado!`
+      });
+      return s;
+    }
+
+    function generateInsertionSteps(arr) {
+      const a = [...arr];
+      const n = a.length;
+      const s = [];
+      s.push({
+        array: [...a],
+        highlights: { sorted: [0] },
+        message: `El primer elemento se considera ya ordenado`
+      });
+      for (let i = 1; i < n; i++) {
+        const key = a[i];
+        let j = i - 1;
+        s.push({
+          array: [...a],
+          highlights: { inserting: i, sorted: Array.from({ length: i }, (_, k) => k) },
+          message: `Tomando el elemento <strong>${key}</strong> (posición ${i}) para insertarlo`
+        });
+        while (j >= 0 && a[j] > key) {
+          s.push({
+            array: [...a],
+            highlights: { comparing: [j], inserting: i, sorted: Array.from({ length: i }, (_, k) => k) },
+            message: `${a[j]} > ${key} → desplazando ${a[j]} hacia la derecha`
+          });
+          a[j + 1] = a[j];
+          j--;
+          s.push({
+            array: [...a],
+            highlights: { swapping: [j + 1], inserting: i, sorted: Array.from({ length: i }, (_, k) => k) },
+            message: `Desplazamiento realizado`
+          });
+        }
+        a[j + 1] = key;
+        s.push({
+          array: [...a],
+          highlights: { inserting: j + 1, sorted: Array.from({ length: i + 1 }, (_, k) => k) },
+          message: `Insertado <strong>${key}</strong> en la posición ${j + 1}`
+        });
+      }
+      s.push({
+        array: [...a],
+        highlights: { sorted: Array.from({ length: n }, (_, k) => k) },
+        message: `¡Arreglo completamente ordenado!`
+      });
+      return s;
+    }
+
+    function generateOrderedInsertSteps(arr) {
+      // Simula insertar un nuevo valor en un arreglo YA ordenado
+      const sorted = [...arr].sort((x, y) => x - y);
+      const nuevo = Math.floor(Math.random() * 15) + 1; // valor aleatorio a insertar
+      const a = [...sorted];
+      const s = [];
+      s.push({
+        array: [...a],
+        highlights: { sorted: Array.from({ length: a.length }, (_, k) => k) },
+        message: `Arreglo ordenado. Vamos a insertar el valor <strong>${nuevo}</strong>`
+      });
+
+      // Buscar posición (como buscarPosicionOrdenada)
+      let pos = a.length;
+      for (let i = 0; i < a.length; i++) {
+        s.push({
+          array: [...a],
+          highlights: { comparing: [i], sorted: Array.from({ length: a.length }, (_, k) => k) },
+          message: `¿${a[i]} > ${nuevo}? ${a[i] > nuevo ? 'Sí → posición encontrada' : 'No, seguir'}`
+        });
+        if (a[i] > nuevo) {
+          pos = i;
+          break;
+        }
+      }
+      s.push({
+        array: [...a],
+        highlights: { inserting: pos < a.length ? pos : a.length - 1, sorted: Array.from({ length: a.length }, (_, k) => k) },
+        message: `Posición de inserción: <strong>${pos}</strong>`
+      });
+
+      // Shift a la derecha
+      a.push(0); // espacio temporal
+      for (let i = a.length - 1; i > pos; i--) {
+        a[i] = a[i - 1];
+        s.push({
+          array: [...a],
+          highlights: { swapping: [i], inserting: pos },
+          message: `Desplazando ${a[i]} hacia la derecha (posición ${i})`
+        });
+      }
+      a[pos] = nuevo;
+      s.push({
+        array: [...a],
+        highlights: { inserting: pos, sorted: Array.from({ length: a.length }, (_, k) => k) },
+        message: `Insertado <strong>${nuevo}</strong> en la posición ${pos}. ¡Listo!`
+      });
+      return s;
+    }
+
+    function generateBinarySearchSteps(arr) {
+      const sorted = [...arr].sort((x, y) => x - y);
+      const target = sorted[Math.floor(Math.random() * sorted.length)]; // busca un valor que existe
+      searchTarget = target;
+      const a = [...sorted];
+      const s = [];
+      let left = 0;
+      let right = a.length - 1;
+
+      s.push({
+        array: [...a],
+        highlights: { sorted: Array.from({ length: a.length }, (_, k) => k) },
+        message: `Arreglo ordenado. Buscando el valor <strong>${target}</strong>`
+      });
+
+      while (left <= right) {
+        const mid = Math.floor(left + (right - left) / 2);
+        const discarded = [];
+        for (let i = 0; i < a.length; i++) {
+          if (i < left || i > right) discarded.push(i);
+        }
+        s.push({
+          array: [...a],
+          highlights: { pivot: mid, discarded },
+          message: `Rango [${left}..${right}] → medio = ${mid} (valor ${a[mid]})`
+        });
+        if (a[mid] === target) {
+          s.push({
+            array: [...a],
+            highlights: { found: mid },
+            message: `¡Encontrado! <strong>${target}</strong> está en la posición ${mid}`
+          });
+          return s;
+        } else if (a[mid] < target) {
+          s.push({
+            array: [...a],
+            highlights: { pivot: mid, discarded: [...discarded, ...Array.from({ length: mid - left + 1 }, (_, k) => left + k)] },
+            message: `${a[mid]} < ${target} → buscar en la mitad derecha`
+          });
+          left = mid + 1;
+        } else {
+          s.push({
+            array: [...a],
+            highlights: { pivot: mid, discarded: [...discarded, ...Array.from({ length: right - mid + 1 }, (_, k) => mid + k)] },
+            message: `${a[mid]} > ${target} → buscar en la mitad izquierda`
+          });
+          right = mid - 1;
+        }
+      }
+      s.push({
+        array: [...a],
+        highlights: { discarded: Array.from({ length: a.length }, (_, k) => k) },
+        message: `No se encontró el valor ${target}`
+      });
+      return s;
+    }
+
+    // ============== Control de pasos ==============
+    function buildSteps() {
+      array = [...originalArray];
+      stepIndex = 0;
+      switch (currentAlgo) {
+        case 'bubble': steps = generateBubbleSteps(array); break;
+        case 'selection': steps = generateSelectionSteps(array); break;
+        case 'insertion': steps = generateInsertionSteps(array); break;
+        case 'orderedInsert': steps = generateOrderedInsertSteps(array); break;
+        case 'binarySearch': steps = generateBinarySearchSteps(array); break;
+        default: steps = [];
+      }
+      if (steps.length > 0) {
+        applyStep(0);
+      } else {
+        renderArray();
+        setStatus('No hay pasos generados');
+      }
+      updateButtons();
+    }
+
+    function applyStep(idx) {
+      if (idx < 0 || idx >= steps.length) return;
+      const step = steps[idx];
+      array = [...step.array];
+      renderArray(step.highlights || {});
+      setStatus(step.message || '');
+      stepIndex = idx;
+      updateButtons();
+    }
+
+    function step() {
+      if (stepIndex < steps.length - 1) {
+        applyStep(stepIndex + 1);
+      } else if (stepIndex === steps.length - 1) {
+        // ya está en el último
+        updateButtons();
+      }
+    }
+
+    function play() {
+      if (playing || stepIndex >= steps.length - 1) return;
+      playing = true;
+      updateButtons();
+      const speed = parseInt(document.getElementById('speed').value);
+      function next() {
+        if (!playing) return;
+        if (stepIndex < steps.length - 1) {
+          applyStep(stepIndex + 1);
+          timer = setTimeout(next, speed);
+        } else {
+          playing = false;
+          updateButtons();
+        }
+      }
+      timer = setTimeout(next, speed);
+    }
+
+    function pause() {
+      playing = false;
+      if (timer) clearTimeout(timer);
+      updateButtons();
+    }
+
+    function reset() {
+      pause();
+      array = [...originalArray];
+      stepIndex = 0;
+      steps = [];
+      renderArray();
+      setStatus('Reiniciado. Selecciona un algoritmo y presiona ▶ Reproducir o Paso');
+      buildSteps();
+    }
+
+    // ============== Datos ==============
+    function setCustomArray() {
+      const raw = document.getElementById('arrayInput').value;
+      const nums = raw.split(/[\s,;]+/).map(x => parseInt(x.trim())).filter(x => !isNaN(x));
+      if (nums.length === 0) {
+        alert('Ingresa al menos un número válido');
+        return;
+      }
+      if (nums.length > 16) {
+        alert('Máximo 16 elementos para una buena visualización');
+        return;
+      }
+      originalArray = nums;
+      document.getElementById('arrayInput').value = nums.join(', ');
+      reset();
+    }
+
+    function generateRandom() {
+      const len = 7 + Math.floor(Math.random() * 4); // 7-10
+      const nums = Array.from({ length: len }, () => Math.floor(Math.random() * 20) + 1);
+      originalArray = nums;
+      document.getElementById('arrayInput').value = nums.join(', ');
+      reset();
+    }
+
+    // ============== Eventos ==============
+    document.querySelectorAll('.algo-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.algo-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        currentAlgo = tab.dataset.algo;
+        document.getElementById('algoInfo').innerHTML = descriptions[currentAlgo];
+        pause();
+        buildSteps();
+      });
+    });
+
+    document.getElementById('speed').addEventListener('input', (e) => {
+      document.getElementById('speedLabel').textContent = e.target.value + 'ms';
+    });
+
+    // Init
+    renderArray();
+    buildSteps();
+  </script>
+</body>
+</html>
