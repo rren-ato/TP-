@@ -4,7 +4,8 @@ La dirección va cambiando
 Un puntero vale 4 bits ya sea si es int *arr o double *arr.
 
 Por ejemplo...
-//! Aplicando el '&' acceso a la dirección de memoria y con '*' accedo al valor del dato en esa dirección de memoria2
+//! Aplicando el '&' acceso a la dirección de memoria y con '*' accedo al valor del dato en esa dirección de memoria
+
 int *p = &a
 (*p)++;
 
