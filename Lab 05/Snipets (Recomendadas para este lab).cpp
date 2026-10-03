@@ -10,7 +10,7 @@
         i--;
     }
 
-    numeros[i + 1] = numero; // insertamos el nuevo número
+    arrNumero[i + 1] = numero; // insertamos el nuevo número
     longitud++;
     return true
 }
@@ -120,15 +120,28 @@ int busquedaBinaria(int *arrdato, int n, int valorAbuscar){
   while(inicio <= fin){
     int medio = izquierda + (derecha - izquierda)/2;
       //* |1|2|*3|4|5| ==> |3|*4|5|
-    if(datos[medio] == valorAbuscar){
+    if(arrdato[medio] == valorAbuscar){
       return medio; // la posicion i
-        } else if (datos[medio] < valorAbuscar){
+        } else if (arrdato[medio] < valorAbuscar){
             inicio = medio + 1;
         } else {
             fin = medio + 1;
         }
   }
   return NOT_FOUND; // esto es -1; ==> definido en el .h (Utils)
+}
+
+bool eliminar(int* arrNumero, int& longitud, int pos) { //Eliminas un valor (segun la posicion de numero dentro del arreglo)
+    if (pos < 0 or pos >= longitud) {
+        return false;
+    }
+
+    for (int i = pos; i < longitud -1; i++) {
+        arrNumero[i] = arrNumero[i + 1];
+    }
+    longitud--;
+
+    return true;
 }
 
 
