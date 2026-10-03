@@ -117,15 +117,15 @@ int busquedaBinaria(int *arrdato, int n, int valorAbuscar){
   int izquierda = 0;
   int derecha = n-1;
 
-  while(inicio <= fin){
+  while(izquierda <= derecha){
     int medio = izquierda + (derecha - izquierda)/2;
       //* |1|2|*3|4|5| ==> |3|*4|5|
     if(arrdato[medio] == valorAbuscar){
       return medio; // la posicion i
         } else if (arrdato[medio] < valorAbuscar){
-            inicio = medio + 1;
+            izquierda = medio + 1;
         } else {
-            fin = medio + 1;
+            derecha = medio + 1;
         }
   }
   return NOT_FOUND; // esto es -1; ==> definido en el .h (Utils)
