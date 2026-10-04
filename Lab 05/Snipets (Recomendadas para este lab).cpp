@@ -98,7 +98,7 @@ void selection_sort(double *arrNota, int n){
 //? Ordenamiento TIPO BURBUJA (DUALES)
 //* Funcionamiento de pares comparativos hasta el limite de valores
 
-void bubble_sort(int *arr, int n){
+void bubble_sort(int *arr, int num){
   for(int i=0; i < num -1; i++){
     for(int j= i+1; i< num -1 -j; j++){
       if(arr[j] > arr[j+1]){
