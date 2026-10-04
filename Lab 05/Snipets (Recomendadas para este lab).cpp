@@ -83,6 +83,7 @@ void insertion_sort(int *arr, int n){ //el arr puede cambiar de tipo de dato
 void selection_sort(double *arrNota, int n){
   for(int i=0; i<n-1; i++){
     int posMenor = i; // se hace esto pero no es necesario btw es namas para pedagogico
+    //? posMenor se usa para orden ascendente - posMayor se usa para orden descentende
 
     for(int j = i+1; i<n; j++){
       if(arrNota[j] < arrNota[posMenor]){ //En este caso se esta ordenando descendentemente, pero si fuera descendente seria arrNota[j] > arrNota[posMenor]
