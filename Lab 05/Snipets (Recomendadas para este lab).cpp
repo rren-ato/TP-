@@ -89,7 +89,7 @@ void selection_sort(double *arrNota, int n){
         posMenor = j;
       }
       if (posMenor =! i){
-        swap(posMenor[i], posMenor[posMenor]) // posMenor en este momento es j
+        swap(arrNota[i], arrNota[posMenor]) // posMenor en este momento es j
       }
     }
   }
