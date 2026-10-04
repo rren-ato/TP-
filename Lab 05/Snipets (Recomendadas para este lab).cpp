@@ -85,7 +85,7 @@ void selection_sort(double *arrNota, int n){
     int posMenor = i; // se hace esto pero no es necesario btw es namas para pedagogico
 
     for(int j = i+1; i<n; j++){
-      if(arrNota[j] > arrNota[posMenor]){
+      if(arrNota[j] < arrNota[posMenor]){ //En este caso se esta ordenando descendentemente, pero si fuera descendente seria arrNota[j] > arrNota[posMenor]
         posMenor = j;
       }
       if (posMenor =! i){
