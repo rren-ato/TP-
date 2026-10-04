@@ -102,7 +102,9 @@ void bubble_sort(int *arr, int num){
   for(int i=0; i < num -1; i++){
     for(int j= i+1; i< num -1 -j; j++){
       if(arr[j] > arr[j+1]){
-        swapInt(arr[j], arr[j+1]);
+        int aux = arr[j];
+        arr[j] = arr[j+1];
+        arr[j+1] = aux;
       }
     }
   }
