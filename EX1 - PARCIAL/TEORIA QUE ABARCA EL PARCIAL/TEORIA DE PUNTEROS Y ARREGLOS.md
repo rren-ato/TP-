@@ -3,7 +3,7 @@
 Explicación rápida de la diferencia real entre **arrays** y **punteros** (basado en la teoría de clase).
 
 <div align="center">
-  <img src="../Assets/Arreglo vs Puntero.jpg"
+  <img src="../../Assets/Arreglo vs Puntero.jpg"
        alt="Arreglos y Punteros"
        width="100%">
 </div>
