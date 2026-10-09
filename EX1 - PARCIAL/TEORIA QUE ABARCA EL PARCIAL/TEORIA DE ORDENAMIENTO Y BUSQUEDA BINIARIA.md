@@ -3,7 +3,7 @@
 ### 📖 Guía visual
 
 <div align="center">
-  <img src="../Assets/Guía visual de algoritmos en C++.png"
+  <img src="../../Assets/Guía visual de algoritmos en C++.png"
        alt="Guía visual de ordenamiento y búsqueda"
        width="100%">
 </div>
