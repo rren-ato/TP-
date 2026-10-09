@@ -106,3 +106,6 @@ void leer_clinica_Y_Generar_reporte(const char* fileClinica, const char* filePac
         }
     }
 }
+
+//* Si se puede encontrar mas de una coincidencia, se necesitaria imprimir en la funcion get_data (usualmente uno se acostumbra
+//* a no imprimir nada porque en arreglos la funcion buscar no puede ni debe imprimir nada.)
