@@ -83,7 +83,7 @@ bool eliminar(int* arrNumero, int& longitud, int pos) { //Eliminas un valor (seg
     }
 
     for (int i = pos; i < longitud -1; i++) {
-        arrNumero[i] = arrNumero[i + 1];
+        arrNumero[i] = arrNumero[i + 1]; //Esto se denomina como SHIFT que es aplazar la informacion aplastandola
     }
     longitud--;
 
