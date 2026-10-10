@@ -36,6 +36,21 @@ bool insertarOrdenado(int* arrNumero, int capacidad, int& longitud, int numero) 
     return true;
 }
 
+//? INSERTAR DESORDENADAMENTE (PERO SIN REPETICION DE UN ELEMENTO)
+bool insertarDesordenado(ifstream &input, int *arrClientes, int codigoCliente
+                      int &cantClientes, int capacidad) {
+    if (cantClientes >= capacidad) return false;
+
+    //! Se necesita solo considerar la primera aparicion por codigo
+    for (int i=0; i< cantClientes; i++) {
+        if (arrClientes[i] == codigoCliente) return false;
+        }
+    //* Si se pasa el filtro de comparaciones entra la datta ya rellenada (entonces se coloca como nueva informacion en el arreglo)
+    arrClientes[cantClientes] = codigoCliente;
+    cantClientes++;
+    return true;
+}
+
   //? Extras Utiles
 bool agregar(int* arrNumero, int capacidad, int& longitud, int numero) { //agregar al final sin orden
     if (longitud >= capacidad) {
