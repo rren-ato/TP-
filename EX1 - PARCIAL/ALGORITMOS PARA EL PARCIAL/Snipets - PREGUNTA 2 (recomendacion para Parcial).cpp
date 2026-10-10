@@ -67,18 +67,22 @@ bool insertarDesordenado(ifstream &input, int *arrClientes, int codigoCliente
 //? ORDENAMIENTO
 //* El ordenamiento funciona para cuando los datos ya se encuentran leidos en los arreglos
 //! CHEQUEAR SI SE NECESITA ASCENDENTEMENTE O DESCENDENTEMENTE
-int swapInt (int &a, int &b){  // 1 y 5
-  int aux;
-  aux = a;  // aux = 1
-  a = b;    // a = 5
-  b = aux   // b = 1
-}                                //Resultado: 5 y 1
+void swapInt (int &a, int &b) {
+    int aux = a;
+    a = b;
+    b = aux;
+}
 
-char swapChar (char &a, char &b){
-  char aux;
-  aux = a;  // aux = 1
-  a = b;    // a = 5
-  b = aux   // b = 1
+void swapDouble (double &a, double &b) {
+    double aux = a;
+    a = b;
+    b = aux;
+}
+
+void swapChar (char &a, char &b) {
+    char aux = a;
+    a = b;
+    b = aux;
 }
 
 
