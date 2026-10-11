@@ -1,6 +1,4 @@
 
-
-
 ### 📖 Guía visual
 
 <div align="center">
