@@ -56,4 +56,8 @@ void cargarPacientes(const char* fileName,
     double* montosLimitesPacientes;
     int cantPacientes =0;
     cargarPacientes("ArchivosDeDatos/Pacientes.txt", codigosPacientes, generosPacientes, edadesPacientes, montosLimitesPacientes, cantPacientes);
+    delete[] codigosPacientes;
+    delete[] generosPacientes;
+    delete[] edadesPacientes;
+    delete[] montosLimitesPacientes;
 
