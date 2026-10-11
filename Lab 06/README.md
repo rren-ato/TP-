@@ -1,1 +1,2 @@
-me falta crear previsualizacion del codigo como la fotito del lab anterior xd
+
+Assets/Cargar en arreglo Dinamico.jpg
