@@ -1,0 +1,17 @@
+513   San_Martin_de_Porres
+615     Iquitos_La_Victoria
+850  El_Polo
+201    Sanchez_Ferrer
+429      Paseo_de_la_Republica
+618     Guardia_Civil
+605   Raul_Ferrero
+742 Villa_El_Salvador
+859  San_Borja_Sur
+967   San_Juan_de_Lurigancho
+401     Los_Olivos
+909   Miraflores
+160      Primavera
+377   Inca_Garcilaso_de_la_Vega
+895  Independencia_Los_Olivos
+656   Aurelio_Miro_Quesada
+464      Sede_Centro_Chorrillos

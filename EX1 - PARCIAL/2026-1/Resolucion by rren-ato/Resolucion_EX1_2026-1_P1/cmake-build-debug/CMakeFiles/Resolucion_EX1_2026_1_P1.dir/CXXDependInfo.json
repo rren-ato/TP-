@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1",
+	"dir-top-bld" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1/cmake-build-debug/CMakeFiles/Resolucion_EX1_2026_1_P1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Resolucion_EX1_2026_1_P1.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1/Bibliotecas/FuncionesAuxiliares.cpp"
+		},
+		"CMakeFiles/Resolucion_EX1_2026_1_P1.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Renato/Documents/2026-2/TP/2026-1/Ex1 - PARCIAL/Resolucion by rren-ato/Resolucion_EX1_2026-1_P1/main.cpp"
+		}
+	}
+}
