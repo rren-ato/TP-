@@ -51,12 +51,18 @@ bool insertarOrdenado(int* arrCodigos, double* arrCiclos, int& longitud,      //
 
 //? INSERTAR DESORDENADAMENTE (PERO SIN REPETICION DE UN ELEMENTO)
 bool insertarDesordenado(ifstream &input, int *arrClientes, int codigoCliente
-                      int &cantClientes, int capacidad) {
+                      int &cantClientes, int capacidad, int *numeroAtenciones, int *tiempoTotal) {
     if (cantClientes >= capacidad) return false;
 
     //! Se necesita solo considerar la primera aparicion por codigo
     for (int i=0; i< cantClientes; i++) {
-        if (arrClientes[i] == codigoCliente) return false;
+      //! AQUI UNO DEBE ELEJIR LO QUE NECESITE Y SEA PERTINTENTE ( EL 1er if o el 2do if)
+        if (arrClientes[i] == codigoCliente) return false; //* Este if solo funciona si conseguir meramente una coincidencia te sirve para volver
+        //Cuando necesitas contar por ejemplo... ATENCIONES
+        if (arrClientes[i] == codigoMedico) { //* Este if te permite hacer contadores apesar que no se puede imprimir el codigoCliente mas  de una vez 
+            numeroAtenciones[i]++;
+            tiempoTotal[i] += duracionAtencion;
+            return true;
         }
     //* Si se pasa el filtro de comparaciones entra la datta ya rellenada (entonces se coloca como nueva informacion en el arreglo)
     arrClientes[cantClientes] = codigoCliente;
