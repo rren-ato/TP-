@@ -8,3 +8,11 @@
 </div>
 
 ## 🧠 Arreglo de Caracteres
+
+### 📖 Guía visual
+
+<div align="center">
+  <img src="../Assets/Cadenas Dinamicas.jpg"
+       alt="Guía visual de funcionamiento de una Cadena De Caracteres"
+       width="100%">
+</div>
