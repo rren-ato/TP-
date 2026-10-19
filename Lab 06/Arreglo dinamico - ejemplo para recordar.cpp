@@ -1,4 +1,4 @@
-//? Cargar en arreglo dinamico
+//? Cargar en arreglo dinamico 
 void cargarPacientes(const char* fileName,
     int*& codigosPacientes,
     char*& generosPacientes,
