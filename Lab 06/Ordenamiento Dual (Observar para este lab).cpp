@@ -1,4 +1,4 @@
-//? Ordenamiento segun dos parametros sin uso de matrices
+//? Ordenamiento segun dos parametros sin uso de matrices 
 
 //* Primero ordeno segun un parametro (el primero)
 void ordenarAlumnosPorCiclos(int* arrCodigos, int* arrCiclos, double* arrPromedios, int num) {
