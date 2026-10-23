@@ -70,6 +70,7 @@ char mi_strstr(char* cadena1, const char* cadena2){    //? Llamenlo doble if (as
      return nullptr;
 }
 
+//*    Invertir cadena (como si fuera una X)
 void invertirCadena(char* Cadena){
      char aux[200];
      int longitud = mi_strlen(Cadena);
@@ -77,6 +78,18 @@ void invertirCadena(char* Cadena){
          aux = Cadena[j];
      }
      aux[longitud] = 0;
-     mi_strcpy(cadena, aux);
+     mi_strcpy(Cadena, aux);
 }
 
+//*    Remplazar cadena (parte de la oracion)
+//? "El gato come pescado", "gato", "perro"
+void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaRemplazar){
+     char axu[200], *pt;
+     pt = mi_strstr(textoOrigen, cadenaBuscar);                //*    "El |*gato*| come pescado"  -   "gato"  (pt apunta a gato)
+     if(pt == nullptr) return;                                 //! Si no encuentra nada en la cadena, meramente se da un return
+     *pt = 0;                                        //?    "El \0ato come pescado" <-- Se da una nueva posicion al caracter de fin de cadena (la corta)
+     mi_strcpy(aux, texto);                          //?    "El "        (se corta la cadena original - textoOrigen)
+     mi_strcat(aux, cadenaRemplazar);                //?    "El perro"
+     mi_strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   //?    "El perro come pescado"
+     mi_strcpy(textoOrigen, aux);                    //?    textoOrigen se actualiza con una cadena que cambio el sujeeto de la oriacion (en este caso)
+}
