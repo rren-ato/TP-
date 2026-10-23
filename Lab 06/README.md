@@ -1,6 +1,6 @@
 ## 🧠 Cargar en un arreglo Dinamico
 
-### 📖 Guía visual
+### 📖 Guía visual [SE DA EL USO LIBRE DE ARR DINAMICOS PARA ESTE LAB]
 <div align="center">
   <img src="../Assets/Cargar en arreglo Dinamico.jpg"
        alt="Guía visual de ordenamiento y búsqueda"
