@@ -15,7 +15,7 @@ input.clear()  //?  Necesitas levantar la bandera pues si usas getline al final 
 //* Longitud de la cadena (strlen)
 //? ESTO ES SUMAMENTE IMPORTANTE PARA COPIAR
 int mi_strlen(const char* Cadena){
-    for(int nCaracteres =0; Cadena[i]; nCaracteres++) //? Se lee todo hasta el '\0'
+    for(int nCaracteres =0; Cadena[i]; nCaracteres++){} //? Se lee todo hasta el '\0'
     return nCaracteres;
 }
 
