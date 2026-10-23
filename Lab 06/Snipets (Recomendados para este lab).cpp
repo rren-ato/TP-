@@ -90,6 +90,7 @@ void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaR
      *pt = 0;                                        //?    "El \0ato come pescado" <-- Se da una nueva posicion al caracter de fin de cadena (la corta)
      mi_strcpy(aux, texto);                          //?    "El "        (se corta la cadena original - textoOrigen)
      mi_strcat(aux, cadenaRemplazar);                //?    "El perro"
+    //? Aqui se calcula dónde terminaba la palabra vieja y se salta para tomar el resto del texto original.
      mi_strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   //?    "El perro come pescado"
      mi_strcpy(textoOrigen, aux);                    //?    textoOrigen se actualiza con una cadena que cambio el sujeeto de la oriacion (en este caso)
 }
