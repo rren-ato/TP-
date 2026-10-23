@@ -15,7 +15,7 @@ input.clear()  //?  Necesitas levantar la bandera pues si usas getline al final 
 //* Longitud de la cadena (strlen)
 //? ESTO ES SUMAMENTE IMPORTANTE PARA COPIAR
 int mi_strlen(const char* Cadena){
-    for(int nCaracteres =0; Cadena[i]; nCaracteres++){} //? Se lee todo hasta el '\0'
+    for(int nCaracteres =0; Cadena[nCaracteres]; nCaracteres++){} //? Se lee todo hasta el '\0'
     return nCaracteres;
 }
 
@@ -49,15 +49,15 @@ int mi_strcpy(char* arr, const char* CadenaACopiar){    //? Cadena a copiar pasa
 char nombre[40] = "Juana";
 mi_strcat(nombre, "Perez");
 
-void mi_strcat(const char* cadena1, const char* cadena2){
+void mi_strcat(char* cadena1, const char* cadena2){
      int pos = mi_strlen(cadena1);      //? llegas al "Hola| |\0"
      mi_strcpy(&cadena1[pos], cadena2[i]);
 }
 
 //* Busquedas (strstr) 
 bool corresponde (const char* cadena1, const char* cadena2){
-     for(int i=0; cad[i]; i++){
-         if(cad[i] != cad[i]) return false;
+     for(int i=0; cadena1[i]; i++){
+         if(cadena1[i] != cadena2[i]) return false;
      }
      return true;
 }
@@ -65,7 +65,7 @@ bool corresponde (const char* cadena1, const char* cadena2){
 char mi_strstr(char* cadena1, const char* cadena2){    //? Llamenlo doble if (asi les cuadra mas rapido)
      for (int i=0; cad1[i];i++){
        if(cadena1[i] == cadena2[i]){
-         if(corresponde(&cadena1[i], cadena2[i])) return &cadena[i];     
+         if(corresponde(&cadena1[i], cadena2[i])) return &cadena1[i];     
      }
      return nullptr;
 }
@@ -84,7 +84,7 @@ void invertirCadena(char* Cadena){
 //*    Remplazar cadena (parte de la oracion)
 //? "El gato come pescado", "gato", "perro"
 void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaRemplazar){
-     char axu[200], *pt;
+     char aux[200], *pt;
      pt = mi_strstr(textoOrigen, cadenaBuscar);                //*    "El |*gato*| come pescado"  -   "gato"  (pt apunta a gato)
      if(pt == nullptr) return;                                 //! Si no encuentra nada en la cadena, meramente se da un return
      *pt = 0;                                        //?    "El \0ato come pescado" <-- Se da una nueva posicion al caracter de fin de cadena (la corta)
