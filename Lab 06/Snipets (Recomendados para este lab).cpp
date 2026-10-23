@@ -69,3 +69,14 @@ char mi_strstr(char* cadena1, const char* cadena2){    //? Llamenlo doble if (as
      }
      return nullptr;
 }
+
+void invertirCadena(char* Cadena){
+     char aux[200];
+     int longitud = mi_strlen(Cadena);
+     for(int i=0, j = longitud -1; cadena[i]; i++, j--){
+         aux = Cadena[j];
+     }
+     aux[longitud] = 0;
+     mi_strcpy(cadena, aux);
+}
+
