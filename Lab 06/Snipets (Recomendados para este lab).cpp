@@ -82,15 +82,17 @@ void invertirCadena(char* Cadena){
 }
 
 //*    Remplazar cadena (parte de la oracion)
-//? "El gato come pescado", "gato", "perro"
+//? "El gato come pescado", "perro", "gato gordo"
 void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaRemplazar){
      char aux[200], *pt;
-     pt = mi_strstr(textoOrigen, cadenaBuscar);                //*    "El |*gato*| come pescado"  -   "gato"  (pt apunta a gato)
+     pt = mi_strstr(textoOrigen, cadenaBuscar);                //*    "El |*perro*| come pescado"  -   "perro"  (pt apunta a gato)
      if(pt == nullptr) return;                                 //! Si no encuentra nada en la cadena, meramente se da un return
      *pt = 0;                                        //?    "El \0ato come pescado" <-- Se da una nueva posicion al caracter de fin de cadena (la corta)
      mi_strcpy(aux, texto);                          //?    "El "        (se corta la cadena original - textoOrigen)
-     mi_strcat(aux, cadenaRemplazar);                //?    "El perro"
+     mi_strcat(aux, cadenaRemplazar);                //?    "El gato gordo"
     //? Aqui se calcula dónde terminaba la palabra vieja y se salta para tomar el resto del texto original.
-     mi_strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   //?    "El perro come pescado"
+    //? Se usa la posicion exacta donde termino la cad a buscar (perro | | come carne\0)
+     mi_strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   //?    "El  gato gordo come pescado" (LE INDICAS LA DIRECCION DE MEMORIA DE CADENA A BUSCAR) 
+    //! ACTUALIZACION DE CADENA
      mi_strcpy(textoOrigen, aux);                    //?    textoOrigen se actualiza con una cadena que cambio el sujeeto de la oriacion (en este caso)
 }
