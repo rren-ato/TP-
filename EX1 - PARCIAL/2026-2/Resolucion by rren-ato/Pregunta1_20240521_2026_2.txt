@@ -1,0 +1,54 @@
+//Alumno: Ruiz Aparco Renato Javier
+//Código: 20240521
+//Pregunta 1 - respuestas
+a)
+	int *p, int x
+	input >> p;	//P es un puntero pues lee el valor pero al imprimir el valor de p es una dirección de memoria
+	x = p;		//X es el valor "25" el cual posee la posición de memoria "0x2000"
+
+b)	
+	//* Como la variable es un numero entero, podrías apuntar o al siguiente dato que esta alojado en la siguiente posición de memoria disponible int
+	//* Osea 0x2004
+	//* Si no hay memoria reservada apuntarías a NULL
+c)
+	input >> *p;
+	x = p;
+	x += 25;
+	p = x;			//* modificamos el valor de x (pero la posición que apunta p no cambia)
+
+d) 	
+	//? Pues tienes identificado un arreglo por la relación de el mismo tipo de variable de datos (enteros - 4 bytes) en continuidad (la posición de memoria es 	//? secuencial)
+	//* asumiendo que abres tu archivo (ifstream &inputDatos)
+	void guardarInt(ifstream &inputDatos, int *arrDato){
+		int dato=0, i=0;
+		while(input >> dato){
+			arrDato[i] = dato;
+			i++;
+		}
+	}
+
+e)	
+	//? Pues tienes identificado un arreglo por la relación de el mismo tipo de variable de datos (char - valor 1 byte) en continuidad (la posición de memoria 	//? es secuencial)
+	void guardarChar(ifstream &inputDatos, char *arrDato){
+		char dato=0, i=0;
+		while(input >> dato){
+			arrDato[i] = dato;
+			i++;
+		}
+	}
+
+f)
+
+	Un interprete no compila y traduce linea por linea, no compila (no genera un archivo ejecutable) y además es mucho mas lento que el compilador pues tiene que traducir cada vez que se corre [ES UNA EJECUCION DIRECTA PERO EN LA EJECUCION SE PRESENTAN LOS ERRORES]
+
+	Un compilador primero compila todo el codigo y luego genera el codigo (osea que si recibe cambios los lee y guarda (compila) mucho mas rapido que el interprete, y luego instantaneamente genera el ejecutable si no se presentan errores, lo que lo hace más eficiente
+[LOS ERRORES SE DETECTAN AL MOMENTO DE COMPILAR]
+
+	Ambos pasan por etapas:
+	Analisis lexivo >> Analisis sintactico >> Analisis Semantico >> Generacion de codigo
+
+
+
+
+
+	
