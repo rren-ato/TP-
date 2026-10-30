@@ -1,4 +1,4 @@
-## 🧠 Arreglo de Caracteres
+## 🧠 Arreglo de Caracteres (UNA cadena de caracteres)
 
 ### 📖 Guía visual
 
