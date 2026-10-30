@@ -1,0 +1,3 @@
+C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex block de nombres/cmake-build-debug/CMakeFiles/Ex_block_de_nombres.dir
+C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex block de nombres/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex block de nombres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
