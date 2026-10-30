@@ -5,6 +5,7 @@ char *leer_cadena(ifstream &input, char until) {
     char buffer[MAX_TAM_CADENA];
     char *cadena; //Arr Dinamico
     input.getline(buffer, MAX_TAM_CADENA, until);
+    if(input.eof()) return nullptr; //! Permite dar validaciones por si leemos en un bucle (la cadena como primer dato a leer)
     //DESIGNAR MEMORIA (asignar)
     cadena = new char[strlen(buffer) +1];
     strcpy(cadena, buffer);
