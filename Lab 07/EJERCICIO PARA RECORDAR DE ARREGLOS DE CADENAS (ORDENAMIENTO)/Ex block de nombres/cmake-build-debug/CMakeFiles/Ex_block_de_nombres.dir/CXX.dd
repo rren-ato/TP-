@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/Ex_block_de_nombres.dir/main.cpp.obj: dyndep
-
-build CMakeFiles/Ex_block_de_nombres.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj: dyndep
-
