@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/FP/Ex block de nombres/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_block_de_nombres.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_block_de_nombres.dir\\main.cpp.obj -c \"D:\\EEGGCC\\FP\\Ex block de nombres\\main.cpp\"",
+  "file": "D:/EEGGCC/FP/Ex block de nombres/main.cpp",
+  "output": "D:/EEGGCC/FP/Ex block de nombres/cmake-build-debug/CMakeFiles/Ex_block_de_nombres.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/FP/Ex block de nombres/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_block_de_nombres.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_block_de_nombres.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"D:\\EEGGCC\\FP\\Ex block de nombres\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "D:/EEGGCC/FP/Ex block de nombres/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/FP/Ex block de nombres/cmake-build-debug/CMakeFiles/Ex_block_de_nombres.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
