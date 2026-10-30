@@ -12,7 +12,7 @@ char *leer_cadena(ifstream &input, char until) {
 }
 
 //Asignacion de cadena debido a algun filtro (por ejemplo un caracter de genero) 
-char* asignar_cadena(char* cadena) {
+char *asignar_cadena(char* cadena) {
     char* str;
     str = new char[strlen(cadena) + 1];
     strcpy(str, cadena);
