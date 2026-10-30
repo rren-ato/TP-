@@ -29,20 +29,20 @@ if(ptr != nullptr){
 }
 
 //* Remplazar cadena
-//! Verificar con lo que hizo huiza (creo que hay un error)
-void remplazar (char* textoOrigen, char** cadenaBuscar, char** cadenaRemplazar){
-     char aux[200], *pt;
-     pt = strstr(textoOrigen, cadenaBuscar);
-    //* En realidad pt es un puntero, si llega a '\0' luego apuntara a NULL (nullptr)
-     if(pt == nullptr) return;                       
-     *pt = 0;  //? AQUI PT SE QUEDA APUNTANDO A EL '\0' pero de la cadena buscada (recordar que si se encuentra se cambia la posicion al '\0')                                        
-     strcpy(aux, texto);                          
-     strcat(aux, cadenaRemplazar);                
-    
-     //? A partir de la posicion del pt 
-     strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   
-    //! ACTUALIZACION DE CADENA
-     strcpy(textoOrigen, aux);                    
+
+void reemplazar(char* texto, const char* cadBus, const char* cadReem) {
+    char aux[500];
+    char* pt;
+    pt = strstr(texto, cadBus);   // 1. ubicar
+    if (pt == nullptr) {
+        return;
+    }
+    *pt = 0;                                   // 2. cortar
+    strcpy(aux, texto);                     // 3. parte izquierda
+    strcat(aux, cadReem);                   // 4. reemplazo
+    strcat(aux, &pt[strlen(cadBus)]);    // 5. parte derecha
+    strcpy(texto, aux);                     // 6. devolver
+}                
 
 
 //! Donde se encuentras mundo se remplaza con galaxia
