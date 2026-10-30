@@ -27,6 +27,20 @@ int buscar_cadena(char* genero, char** genero_sin_repeticion, int n_generos) {
 }
 
 
+void insertar_genero(char* genero, char** genero_sin_repeticion, int* frecuencias, int &n_generos) {
+    int pos;
+    pos = buscar_cadena(genero, genero_sin_repeticion, n_generos);
+    if (pos == -1) {
+        genero_sin_repeticion[n_generos] = asignar_cadena(genero);
+        frecuencias[n_generos] = 1;
+        n_generos++;
+    }
+    else {
+        frecuencias[pos]++;
+    }
+}
+
+
 void calcular_frecuencias(char** arr_generos_totales, int cant_datos, int* frecuencias,
                           char** genero_sin_repeticion, int &n_generos) {
     char genero[40]{};
