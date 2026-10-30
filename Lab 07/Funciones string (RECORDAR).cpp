@@ -30,15 +30,16 @@ if(ptr != nullptr){
 
 //* Remplazar cadena
 //! Verificar con lo que hizo huiza (creo que hay un error)
-void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaRemplazar){
+void remplazar (char* textoOrigen, char** cadenaBuscar, char** cadenaRemplazar){
      char aux[200], *pt;
-     *ptr = strstr(textoOrigen, cadenaBuscar);                
+     pt = strstr(textoOrigen, cadenaBuscar);
+    //* En realidad pt es un puntero, si llega a '\0' luego apuntara a NULL (nullptr)
      if(pt == nullptr) return;                       
-     *pt = 0;                                        
+     *pt = 0;  //? AQUI PT SE QUEDA APUNTANDO A EL '\0' pero de la cadena buscada (recordar que si se encuentra se cambia la posicion al '\0')                                        
      strcpy(aux, texto);                          
      strcat(aux, cadenaRemplazar);                
     
-   
+     //? A partir de la posicion del pt 
      strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   
     //! ACTUALIZACION DE CADENA
      strcpy(textoOrigen, aux);                    
