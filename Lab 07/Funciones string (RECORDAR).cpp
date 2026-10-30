@@ -29,8 +29,19 @@ if(ptr != nullptr){
 }
 
 //* Remplazar cadena
-
-
+//! Verificar con lo que hizo huiza (creo que hay un error)
+void remplazar (char* textoOrigen, const char* cadenaBuscar, const char* cadenaRemplazar){
+     char aux[200], *pt;
+     *ptr = strstr(textoOrigen, cadenaBuscar);                
+     if(pt == nullptr) return;                       
+     *pt = 0;                                        
+     strcpy(aux, texto);                          
+     strcat(aux, cadenaRemplazar);                
+    
+   
+     strcat(aux, &pt[mi_strlen(cadenaBuscar)]);   
+    //! ACTUALIZACION DE CADENA
+     strcpy(textoOrigen, aux);                    
 
 
 //! Donde se encuentras mundo se remplaza con galaxia
