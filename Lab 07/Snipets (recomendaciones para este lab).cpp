@@ -31,6 +31,7 @@ void insertar_genero(char* genero, char** genero_sin_repeticion, int* frecuencia
     int pos;
     pos = buscar_cadena(genero, genero_sin_repeticion, n_generos);
     if (pos == -1) {
+        //* Debido a que es un arreglo de cadenas, es por ello que es doble puntero  (es un arreglo de char*) 
         genero_sin_repeticion[n_generos] = asignar_cadena(genero);
         frecuencias[n_generos] = 1;
         n_generos++;
