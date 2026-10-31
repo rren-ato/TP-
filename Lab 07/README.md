@@ -1,4 +1,5 @@
 ## 🧠 Arreglo de Cadena de caracteres (uso de char**)
+# Se permite el uso de cstring y ctype
 
 ### 📖 Guía visual
 
