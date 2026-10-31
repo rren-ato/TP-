@@ -9,7 +9,7 @@
        width="100%">
 </div>
 
-
-El buffer y el str (o cadena), son valores locales, el buffer es un arreglo local y el str o cad es un puntero, se usa un momento como puntero a memoria
+En particular en leerCadena y AsignarCadena...
+El buffer y el str (o cadena), son valores locales, el buffer es un arreglo local y el str (o cadena) es un puntero, se usa un momento como puntero a memoria
 Sin embargo el puntero solo sirve para guardar el arreglo en el heap (en un espacio de memoria); sin embargo el puntero en si es simplemente local
 
