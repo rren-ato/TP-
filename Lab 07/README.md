@@ -1,5 +1,7 @@
 ## 🧠 Arreglo de Cadena de caracteres (uso de char**)
 ### --> Se permite el uso de cstring y ctype
+### Recordar que uno debe diferenciar si uno ya asigno memoria o falta asignar es decir char **pacientes[MAX_TAM] es diferente a char** pacientes; En este punto hay diferencias pues en las funciones debe retornar o char **pacientes, o char &** pacientes... (dar ejemplo de una fotito con algo en el main)
+
 
 ### 📖 Guía visual
 
