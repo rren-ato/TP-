@@ -24,6 +24,11 @@ Liberación de memoria depende si tienes un arreglo estático, debes eliminar la
 </div>
 
 ## 🧠 Lógica de puntero a cadenas
+
 <div align="center">
   <img width="1185" height="467" alt="image" src="https://github.com/user-attachments/assets/62de1729-a583-4b08-aae3-73396867f720" />
+</div>
+
+<div align="center">
+  <img width="1166" height="732" alt="image" src="https://github.com/user-attachments/assets/5d462f2d-66a0-4627-85da-f647718daa04" />
 </div>
