@@ -11,11 +11,13 @@
        width="100%">
 </div>
 
+# En particular en leerCadena y AsignarCadena...
+# El buffer y el str (o cadena), son valores locales, el buffer es un arreglo local y el str (o cadena) es un puntero, se usa un momento como puntero a memoria
+# Sin embargo el puntero solo sirve para guardar el arreglo en el heap (en un espacio de memoria); sin embargo el puntero en si es simplemente local
+
 # Para Ctype recordar mencionar el uso de atoi y atof ; toouper. ademas del uso de intercambiar (atraves de un char * o un swap con int o double con *&) y la impresion de un char**
 
-En particular en leerCadena y AsignarCadena...
-El buffer y el str (o cadena), son valores locales, el buffer es un arreglo local y el str (o cadena) es un puntero, se usa un momento como puntero a memoria
-Sin embargo el puntero solo sirve para guardar el arreglo en el heap (en un espacio de memoria); sin embargo el puntero en si es simplemente local
+
 
 ## 🧠 Liberacion de memoria (delete[])
 Liberación de memoria depende si tienes un arreglo estático, debes eliminar la cadena o valor con un for (una iteración), si es un arreglo dinamico meramente se elimina la memoria de forma directa (sin considerar "[i]" posiciones)
