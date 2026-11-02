@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_de_text_mining_y_stop_words.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_de_text_mining_y_stop_words.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2026-2\\LAB7\\Ex de text mining y stop words\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/cmake-build-debug/CMakeFiles/Ex_de_text_mining_y_stop_words.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_de_text_mining_y_stop_words.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_de_text_mining_y_stop_words.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-2\\TP\\2026-2\\LAB7\\Ex de text mining y stop words\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-2/TP/2026-2/LAB7/Ex de text mining y stop words/cmake-build-debug/CMakeFiles/Ex_de_text_mining_y_stop_words.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]

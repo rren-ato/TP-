@@ -1,0 +1,11 @@
+============================================================
+REPORTE 1: RESUMEN GENERAL
+============================================================
+Categoria          Tokens         %   Distintas
+CONTENIDO             271     49.18         153
+OTROS                 270     49.00          52
+DESCONOCIDA            10      1.81          10
+
+Total de palabras (tokens) ..........551
+Vocabulario (palabras distintas) .....215
+Riqueza lexica (TTR) .................0.39
