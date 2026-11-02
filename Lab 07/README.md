@@ -37,3 +37,9 @@ Liberación de memoria depende si tienes un arreglo estático, debes eliminar la
 <div align="center">
   <img width="1166" height="732" alt="image" src="https://github.com/user-attachments/assets/5d462f2d-66a0-4627-85da-f647718daa04" />
 </div>
+
+### Y con memoria dinámica...
+<div align="center">
+  <img width="1280" height="1039" alt="image" src="https://github.com/user-attachments/assets/a50b32e6-3bf4-49b4-b9e0-fb97763adbd8" />
+</div>
+
