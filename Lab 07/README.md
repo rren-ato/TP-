@@ -16,7 +16,7 @@
 ### Sin embargo el puntero solo sirve para guardar el arreglo en el heap (en un espacio de memoria); sin embargo el puntero en si es simplemente local
 
 <div align="center">
-  <img src="../Assets/Assets/Cadenas dinamicas y cctype.jpg"
+  <img src="../Assets/Cadenas dinamicas y cctype.jpg"
        alt="Guía visual de arreglos de Cadena de Caracteres (parte 2)"
        width="100%">
 </div>
