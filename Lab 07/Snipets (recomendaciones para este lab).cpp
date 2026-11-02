@@ -67,3 +67,42 @@ void calcular_frecuencias(char** arr_generos_totales, int cant_datos, int* frecu
         }
     }
 }
+
+int contadorLineas (ifstream &input) {
+    int n=0;
+    while (input.ignore(TAM_BUFFER, '\n')) {
+        n++;
+    }
+    return n;
+}
+
+
+int busquedaBinaria(char** dicc, int tamDicc, char* cadena) {
+    int izquierda=0;
+    int derecha = tamDicc-1;
+    while (izquierda <= derecha) {
+        int medio = izquierda + (derecha-izquierda)/2;
+        int cmp = strcmp(cadena, dicc[medio]);
+        if (cmp == 0) {
+            return medio;
+        }
+        if (cmp < 0) {
+            derecha = medio-1;
+        } else {
+            izquierda = medio+1;
+        }
+    }
+    return NOT_FOUND;
+}
+
+void intercambiar (char*& a, char*& b) {
+    char* aux = a;
+    a=b;
+    b=aux;
+}
+
+void swapInt(int& a, int& b) {
+    int aux = a;
+    a = b;
+    b = aux;
+}
