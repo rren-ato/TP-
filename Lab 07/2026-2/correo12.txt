@@ -1,9 +1,0 @@
-De: verificacion@cuenta-segura-mail.net
-Para: estudiante@universidad.edu
-Asunto: Verifique su cuenta de correo
-
-Estimado usuario:
-
-Hemos recibido una solicitud para cambiar la clave de su cuenta de correo. Si usted no la hizo, debe hacer clic en el enlace y confirmar sus datos para cancelar el cambio. De lo contrario, su cuenta quedara bloqueada y no podra recibir mas mensajes. Por su seguridad, no comparta este aviso con nadie y responda lo antes posible.
-
-Soporte de Correo

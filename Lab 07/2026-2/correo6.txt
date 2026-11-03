@@ -1,9 +1,0 @@
-De: secretaria@universidad.edu
-Para: estudiante@universidad.edu
-Asunto: Publicacion de notas del primer parcial
-
-Estimado estudiante:
-
-Le informamos que las notas del primer parcial ya estan disponibles en el portal academico. Para consultarlas debe ingresar con su usuario institucional. Si tiene algun reclamo sobre su nota, puede presentarlo en la secretaria durante la proxima semana, con una carta dirigida al profesor de la materia. La secretaria atiende de lunes a viernes por la manana.
-
-Secretaria Academica

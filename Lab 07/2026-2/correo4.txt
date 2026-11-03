@@ -1,9 +1,0 @@
-De: profesor.ramirez@universidad.edu
-Para: estudiante@universidad.edu
-Asunto: Tarea de la clase de estructuras de datos
-
-Estimados estudiantes:
-
-Les recuerdo que la tarea sobre arreglos dinamicos debe entregarse el viernes antes de las ocho de la noche. Deben subir el codigo fuente y un informe corto con la explicacion de cada funcion. Durante la clase del lunes resolveremos las preguntas sobre la busqueda binaria y el ordenamiento. Recuerden que el examen parcial incluira estos temas.
-
-Profesor Ramirez

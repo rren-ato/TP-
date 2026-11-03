@@ -1,9 +1,0 @@
-De: biblioteca@universidad.edu
-Para: estudiante@universidad.edu
-Asunto: Recordatorio de devolucion de libros
-
-Estimado usuario:
-
-Le recordamos que el libro que tomo prestado el mes pasado debe devolverse antes del lunes. Puede renovar el prestamo desde la pagina de la biblioteca si ningun otro estudiante lo ha reservado. La biblioteca abre de lunes a sabado y cuenta con salas de estudio para trabajos en grupo. Si tiene preguntas, visite el mostrador de atencion.
-
-Biblioteca Central
