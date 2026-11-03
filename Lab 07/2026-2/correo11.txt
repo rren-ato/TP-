@@ -1,0 +1,9 @@
+De: libreria@universidad.edu
+Para: estudiante@universidad.edu
+Asunto: Descuento para estudiantes en la libreria
+
+Estimados estudiantes:
+
+La libreria del campus tiene una oferta especial para el inicio del semestre: los libros de texto de ingenieria tienen un descuento del diez por ciento para quienes presenten su carnet. La oferta termina el fin de mes. Tambien encontraran cuadernos, lapices y material de oficina. Pueden consultar el catalogo en la pagina de la universidad o visitar la tienda en el primer piso.
+
+Libreria Universitaria
