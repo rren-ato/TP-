@@ -21,6 +21,14 @@
        width="100%">
 </div>
 
+# Pero y si tengo entero (int) y quiero que sea char*?
+### Hay funciones de cctype que son muy utiles para las cadenas
+
+<div align="center">
+  <img src="..Assets/De tipo de dato alterno a Cadena con cctype.jpg"
+       alt="Guía visual de arreglos de Cadena de Caracteres (parte 3)"
+       width="100%">
+</div>
 
 ## 🧠 Liberacion de memoria (delete[])
 Liberación de memoria depende si tienes un arreglo estático, debes eliminar la cadena o valor con un for (una iteración), si es un arreglo dinamico meramente se elimina la memoria de forma directa (sin considerar "[i]" posiciones)
