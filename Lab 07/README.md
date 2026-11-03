@@ -25,7 +25,7 @@
 ### Hay funciones de cctype que son muy utiles para las cadenas
 
 <div align="center">
-  <img src="..Assets/De tipo de dato alterno a Cadena con cctype.jpg"
+  <img src="../Assets/De tipo de dato alterno a Cadena con cctype.jpg"
        alt="Guía visual de arreglos de Cadena de Caracteres (parte 3)"
        width="100%">
 </div>
