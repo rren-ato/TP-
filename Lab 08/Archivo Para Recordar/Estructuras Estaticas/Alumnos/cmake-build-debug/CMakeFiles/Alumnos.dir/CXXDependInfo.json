@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/EEGGCC/FP/Alumnos/cmake-build-debug",
+	"dir-cur-src" : "D:/EEGGCC/FP/Alumnos",
+	"dir-top-bld" : "D:/EEGGCC/FP/Alumnos/cmake-build-debug",
+	"dir-top-src" : "D:/EEGGCC/FP/Alumnos",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/EEGGCC/FP/Alumnos/cmake-build-debug/CMakeFiles/Alumnos.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Alumnos.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/EEGGCC/FP/Alumnos/Bibliotecas/FuncionesAuxiliares.cpp"
+		},
+		"CMakeFiles/Alumnos.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/EEGGCC/FP/Alumnos/main.cpp"
+		}
+	}
+}
