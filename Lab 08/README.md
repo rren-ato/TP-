@@ -1,4 +1,4 @@
-# TEORIA
+# TEORIA (ESTRUCTURAS (GENERAL) Y ESTRUCTURAS ESTATICAS)
 
 ### -->  Son tipos de datos definidos por el usuario [AGRUPADOS BAJO UN SOLO NOMBRE]
 <div align="center">
@@ -21,3 +21,4 @@
 
 ## * Si la estructura es un puntero, se le debe asignar memoria con "new" además se de trabajar con "->" (si presionas punto se transfomra automaticamente)
 
+# ESTRUCTURAS ANIDADAS
