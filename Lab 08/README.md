@@ -23,10 +23,19 @@
   ### Para LECTURA (struct Alumno&) Se usa cuando la estructura es declarada antes de invocar la función que depende de la estructura
 
 <div align="center">
-  <img src="../Assets/Uso de parametros con struct.jpg"
+  <img src="../Assets/Uso de parametros con struct.png"
        alt="Guía visual de uso de parametros para struct"
        width="100%">
 </div>
+
+<div align="center">
+  <img src="../Assets/Impacto de declaracion interna o externa de una STRUCT.png"
+       alt="Guía visual declaracion INTERNA o EXTERNA"
+       width="100%">
+</div>
+
+
+
 
 ## * Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
 
