@@ -5,12 +5,14 @@
   <img width="1733" height="642" alt="Que es un struct" src="https://github.com/user-attachments/assets/2c89e95b-6702-4ec6-b0db-1c1ddda98b44" />
 </div>
 
+#### (esto fue sacado de las diapositivas del profe ERASMO)
+
 ## Tipos de uso con struct
   ### Para IMPRESION (const struct Alumno&)
   ### Para LECTURA (struct Alumno&)
 
 
-#### (esto fue sacado de las diapositivas del profe ERASMO)
+
 
 
 ## Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
