@@ -9,6 +9,12 @@
 
 # Implementacion de la struct
 
+<div align="center">
+  <img src="../Assets/Declaracion de struct y uso.jpg"
+       alt="Guía visual de Struct y su uso "
+       width="100%">
+</div>
+
 # Tipos de uso con struct
   ## IMPRESION
   ### Para IMPRESION (const struct Alumno&)
