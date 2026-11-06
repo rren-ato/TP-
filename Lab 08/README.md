@@ -7,7 +7,7 @@
 
 #### (esto fue sacado de las diapositivas del profe ERASMO)
 
-# Implementacion de la struct
+# 🔨 Implementacion de la struct
 
 <div align="center">
   <img src="../Assets/Declaracion de struct y uso.jpg"
@@ -15,7 +15,7 @@
        width="100%">
 </div>
 
-# Tipos de uso con struct
+# 📓 Tipos de uso con struct
   ## IMPRESION
   ### Para IMPRESION (const struct Alumno&)
   ## LECTURA
