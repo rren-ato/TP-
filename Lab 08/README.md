@@ -22,6 +22,11 @@
   ### Para LECTURA (struct Alumno) (GENERAS UNA COPIA) Se usa cuando la estructura es declarada interamente (Pues necesitas la posicion de lectura)
   ### Para LECTURA (struct Alumno&) Se usa cuando la estructura es declarada antes de invocar la función que depende de la estructura
 
+<div align="center">
+  <img src="../Assets/Uso de parametros con struct.jpg"
+       alt="Guía visual de uso de parametros para struct"
+       width="100%">
+</div>
 
 ## * Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
 
