@@ -19,3 +19,8 @@
 ## Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
 
 ## Si la estructura es un puntero, se le debe asignar memoria con "new" además se de trabajar con "->" (si presionas punto se transfomra automaticamente)
+
+<ul>
+  <li>Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."</li>
+  <li>Si la estructura es un puntero, se le debe asignar memoria con "new" además se de trabajar con "->" (si presionas punto se transfomra automaticamente)</li>
+</ul>
