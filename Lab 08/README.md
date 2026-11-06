@@ -10,8 +10,11 @@
 # Implementacion de la struct
 
 # Tipos de uso con struct
+  ## IMPRESION
   ### Para IMPRESION (const struct Alumno&)
-  ### Para LECTURA (struct Alumno&)
+  ## LECTURA
+  ### Para LECTURA (struct Alumno) (GENERAS UNA COPIA) Se usa cuando la estructura es declarada interamente (Pues necesitas la posicion de lectura)
+  ### Para LECTURA (struct Alumno&) Se usa cuando la estructura es declarada antes de invocar la función que depende de la estructura
 
 ## Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
 
