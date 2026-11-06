@@ -7,6 +7,8 @@
 
 #### (esto fue sacado de las diapositivas del profe ERASMO)
 
+# Implementacion de la struct
+
 # Tipos de uso con struct
   ### Para IMPRESION (const struct Alumno&)
   ### Para LECTURA (struct Alumno&)
