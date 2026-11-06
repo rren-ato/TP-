@@ -7,13 +7,9 @@
 
 #### (esto fue sacado de las diapositivas del profe ERASMO)
 
-## Tipos de uso con struct
+# Tipos de uso con struct
   ### Para IMPRESION (const struct Alumno&)
   ### Para LECTURA (struct Alumno&)
-
-
-
-
 
 ## Si la estructura no es un puntero, simplemente no se le declara memoria y se puede trabajar como "."
 
