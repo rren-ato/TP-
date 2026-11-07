@@ -45,3 +45,5 @@
 
 <img width="905" height="328" alt="image" src="https://github.com/user-attachments/assets/ad4ff4af-4e04-47f5-b967-89e439bf8ff5" />
 
+# ARREGLO DE ESTRUCTURAS
+
