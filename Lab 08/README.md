@@ -42,3 +42,6 @@
 ## * Si la estructura es un puntero, se le debe asignar memoria con "new" además se de trabajar con "->" (si presionas punto se transforma automaticamente)
 
 # ESTRUCTURAS ANIDADAS
+
+<img width="905" height="328" alt="image" src="https://github.com/user-attachments/assets/ad4ff4af-4e04-47f5-b967-89e439bf8ff5" />
+
