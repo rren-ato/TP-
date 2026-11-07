@@ -45,6 +45,7 @@
 
 <img width="905" height="328" alt="image" src="https://github.com/user-attachments/assets/ad4ff4af-4e04-47f5-b967-89e439bf8ff5" />
 
+### En esta imagen el "#" implica * (puntero)
 <img width="1536" height="1024" alt="850BBCCC-19FA-4A12-8645-3128B24043D5" src="https://github.com/user-attachments/assets/d0e8f33b-a518-498b-ac8c-697f5b21d6dc" />
 
 
