@@ -147,7 +147,7 @@ int busquedaBinaria(int *arrdato, int n, int valorAbuscar){
         } else if (arrdato[medio] < valorAbuscar){
             izquierda = medio + 1;
         } else {
-            derecha = medio + 1;
+            derecha = medio - 1;
         }
   }
   return NOT_FOUND; // esto es -1; ==> definido en el .h (Utils)
