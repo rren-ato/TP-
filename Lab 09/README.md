@@ -18,7 +18,8 @@
 ## INICIO E IMPLEMENTACION INICIAL DE UNA LISTA
 ### Una lista inicia  apuntando a nullptr (pues esta vacia)
 <img width="1156" height="530" alt="image" src="https://github.com/user-attachments/assets/c8037ae5-462f-43f6-b1a8-a0cebfe03488" />
-
+### Vocabulario básico en Listas
+<img width="1129" height="470" alt="image" src="https://github.com/user-attachments/assets/42c7bd4d-a941-436c-9009-737e1458a29c" />
 
 
 
