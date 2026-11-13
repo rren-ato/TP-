@@ -15,7 +15,7 @@ void crearLista(const char* fileName, struct Nodo *& lista){
     }
 }
 
-void imprimir_lista(struct Nodo *lista) {
+void imprimirLista(struct Nodo *lista) {
     struct Nodo *recorrido;
     recorrido = lista;
     while (recorrido) {
