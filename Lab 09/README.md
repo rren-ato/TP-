@@ -6,6 +6,14 @@
 
 # IMPLICANCIA DEL NODO EN LAS LISTAS 
 <img width="1130" height="506" alt="image" src="https://github.com/user-attachments/assets/a2f7fda2-3250-44d4-be25-3b2a39880203" />
+<img width="1142" height="502" alt="image" src="https://github.com/user-attachments/assets/5090124f-418c-4499-ab5b-0cfa8a248be3" />
+
+
+# LA IDEA DE UNA LISTA LIGADA
+<img width="1154" height="522" alt="image" src="https://github.com/user-attachments/assets/0f9b9dcd-2ffb-4995-ae3a-e9d49ebf8d0a" />
+<img width="1158" height="526" alt="image" src="https://github.com/user-attachments/assets/29d8a183-07ea-47dc-8b62-26324684ae8e" />
+
+<img width="1142" height="508" alt="image" src="https://github.com/user-attachments/assets/023a0f12-628c-4ffb-932b-f658ef364f07" />
 
 
 
