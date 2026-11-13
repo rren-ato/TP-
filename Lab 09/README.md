@@ -9,6 +9,21 @@
 
 
 
+# [LEGADO DEL PROFE ERASMO]
+
+## CREACIÓN DE UN NODO E INSERTAR AL INICIO DE UNA LISTA
+https://youtu.be/A8uWtSsaq2I?si=9b8PA_XfOQdFo4sN 
+
+## INSERTAR NODO AL FINAL
+https://youtu.be/w3QUlSEK0w0?si=BMl5r4JGxJ2aCH3s 
+
+## INSERCIÓN DE UN NODO EN UNA LISTA ORDENADA
+### PARTE 1:
+https://youtu.be/ann7k4vRuYM?si=PQVscTiX0ZPJPM43 
+### PARTE 2:
+https://youtu.be/7t9xgUg0IVA?si=IEefsraTZ8tF9zEm 
+
+
 
 
 
