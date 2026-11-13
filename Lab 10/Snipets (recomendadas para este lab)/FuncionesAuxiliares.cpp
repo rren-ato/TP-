@@ -1,7 +1,7 @@
 
-
 #include "Nodo.h"
 
+#include "Bibliotecas/FuncionesAuxiliares.h"
 
 void crearLista(const char* fileName, struct Nodo *& lista){
     ifstream input; openReadFile(input, fileName);
