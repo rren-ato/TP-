@@ -9,6 +9,7 @@ using namespace std;
 
 
 void crearLista(const char* fileName, struct Nodo *& lista);
+void imprimirLista(struct Nodo *lista);
 void insertarAlInicio( struct Nodo *& lista, int dato);
 void insertarAlFinal( struct Nodo *& lista, int dato);
 void insercionOrdenada(struct Nodo *& lista, int dato);
