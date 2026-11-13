@@ -15,6 +15,15 @@ void crearLista(const char* fileName, struct Nodo *& lista){
     }
 }
 
+void imprimir_lista(struct Nodo *lista) {
+    struct Nodo *recorrido;
+    recorrido = lista;
+    while (recorrido) {
+        cout << setw(5) << recorrido->dato;
+        recorrido = recorrido->siguiente;
+    }
+}
+
 
 
 void insertarAlInicio( struct Nodo *& lista, int dato){
