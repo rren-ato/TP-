@@ -15,6 +15,10 @@
 <img width="1142" height="508" alt="image" src="https://github.com/user-attachments/assets/023a0f12-628c-4ffb-932b-f658ef364f07" />
 <img width="1158" height="526" alt="image" src="https://github.com/user-attachments/assets/29d8a183-07ea-47dc-8b62-26324684ae8e" />
 
+## INICIO E IMPLEMENTACION INICIAL DE UNA LISTA
+### Una lista inicia  apuntando a nullptr (pues esta vacia)
+<img width="1156" height="530" alt="image" src="https://github.com/user-attachments/assets/c8037ae5-462f-43f6-b1a8-a0cebfe03488" />
+
 
 
 
