@@ -67,7 +67,7 @@ void insercionOrdenada(struct Nodo *& lista, int dato){
     nuevo->dato = dato;
     while(recorrido != nullptr and recorrido->dato < dato){
       //* Aqui es donde se presentan los cambios en el anterior y el recorrido (o p) se desplaza
-        anterior = dato;
+        anterior = recorrido;
         recorrido = recorrido->siguiente;
       }
       nuevo->siguiente = recorrido;
