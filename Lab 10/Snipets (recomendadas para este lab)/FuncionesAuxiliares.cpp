@@ -119,7 +119,7 @@ void eliminacionCondicionalLista(struct Nodo *& lista, int condicion){
             else{
                 //* Cambio de punteritos [realmente es como una actualizacion]
                 anterior->siguiente = recorrido->siguiente;
-                p = p->siguiente
+                recorrido = recorrido->siguiente
             }
             delete recorrido;
         }
