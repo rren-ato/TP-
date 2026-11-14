@@ -12,8 +12,8 @@
 # LA IDEA DE UNA LISTA LIGADA
 <img width="1154" height="522" alt="image" src="https://github.com/user-attachments/assets/0f9b9dcd-2ffb-4995-ae3a-e9d49ebf8d0a" />
 ### RECORDAR...
-<img width="1142" height="508" alt="image" src="https://github.com/user-attachments/assets/023a0f12-628c-4ffb-932b-f658ef364f07" />
 ## P -> campoAtributo  es igual a aplicar el metodo de desreference (*p) >> campoAtributo 
+<img width="1142" height="508" alt="image" src="https://github.com/user-attachments/assets/023a0f12-628c-4ffb-932b-f658ef364f07" />
 <img width="1158" height="526" alt="image" src="https://github.com/user-attachments/assets/29d8a183-07ea-47dc-8b62-26324684ae8e" />
 
 ## INICIO E IMPLEMENTACION INICIAL DE UNA LISTA
