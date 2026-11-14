@@ -106,6 +106,4 @@ void eliminarLista(struct Nodo *& lista){
     }
 }
 
-void mostrarLista
-
 
