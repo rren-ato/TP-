@@ -15,7 +15,8 @@ void crearLista(const char* fileName, struct Nodo *& lista){
     }
 }
 
-void imprimirLista(struct Nodo *lista) {
+void imprimirLista(const char* fileName, struct Nodo *lista) {
+    ofstream output; openWriteFile(output, fileName);
     struct Nodo *recorrido;
     recorrido = lista;
     while (recorrido) {
@@ -104,5 +105,7 @@ void eliminarLista(struct Nodo *& lista){
         delete salida;
     }
 }
+
+void mostrarLista
 
 
