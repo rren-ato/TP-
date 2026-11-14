@@ -99,6 +99,35 @@ void eliminarDeLaLista(int dato, struct Nodo *& lista){
     }
 }
 
+void eliminacionCondicionalLista(struct Nodo *& lista, int condicion){
+    struct Nodo* recorrido = lista;
+    struct Nodo* anterior = nullptr;
+    struct Nodo* salida;
+    while(recorrido){
+        //* Aqui la condicional depende si deseas eliminar algo en un rango [ya sea si deseas eliminar los menores o los mayores a cierto rango]
+        //* Puede ser un valor especifico, o una comparacion de cadenas (strcmp o  hasta strlen) 
+        if(recorrido->dato >= condicion){
+            anterior = recorrido;
+            recorrido = recorrido->dato;
+        }
+        else{
+            salida = recorrido;
+            if(recorrido == nullptr){
+                lista = recorrido->siguiente;
+                lista = recorrido;
+            }
+            else{
+                //* Cambio de punteritos [realmente es como una actualizacion]
+                anterior->siguiente = recorrido->siguiente;
+                p = p->siguiente
+            }
+            delete recorrido;
+        }
+    }
+}
+
+
+
 void eliminarLista(struct Nodo *& lista){
     struct Nodo* salida;
     while(lista){
