@@ -74,6 +74,7 @@ void insercionOrdenada(struct Nodo *& lista, int dato){
       lista = nuevo;
     }else{
       anterior->siguiente = nuevo;
+    }
 }
 
 
