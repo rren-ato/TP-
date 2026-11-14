@@ -82,6 +82,8 @@ void insercionOrdenada(struct Nodo *& lista, int dato){
 void eliminarDeLaLista(int dato, struct Nodo *& lista){
     struct Nodo* recorrido = lista;
     struct Nodo* anterior = nullptr;
+    //! En este caso la lista esta ordenada
+    //* En esta funcion debes iniciar con un while con CONDICION NEGATIVA - no necesariamente "<" puede ser tambien "!="
     while(recorrido and recorrido->dato < dato){
         anterior = recorrido;
         recorrido = recorrido->siguiente;
