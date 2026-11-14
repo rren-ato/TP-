@@ -13,6 +13,7 @@
 
 # LA IDEA DE UNA LISTA LIGADA
 <img width="1154" height="522" alt="image" src="https://github.com/user-attachments/assets/0f9b9dcd-2ffb-4995-ae3a-e9d49ebf8d0a" />
+
 # RECORDAR...
 ### P -> campoAtributo  es igual a aplicar el metodo de desreference (*p) >> campoAtributo 
 <div align="center">
