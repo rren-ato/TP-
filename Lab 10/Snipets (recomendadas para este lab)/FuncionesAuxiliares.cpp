@@ -78,7 +78,7 @@ void insercionOrdenada(struct Nodo *& lista, int dato){
 
 
 void eliminarDeLaLista(int dato, struct Nodo *& lista){
-    struct Nodo* recorrido;
+    struct Nodo* recorrido = lista;
     struct Nodo* anterior = nullptr;
     while(recorrido and recorrido->dato < dato){
         anterior = recorrido;
@@ -87,7 +87,8 @@ void eliminarDeLaLista(int dato, struct Nodo *& lista){
     if(recorrido and recorrido->dato == dato){
         if(anterior == nullptr){
           lista = lista->siguiente;
-        }else{ 
+        }
+        else{
           anterior->siguiente = recorrido->siguiente;
         }
         delete recorrido;
