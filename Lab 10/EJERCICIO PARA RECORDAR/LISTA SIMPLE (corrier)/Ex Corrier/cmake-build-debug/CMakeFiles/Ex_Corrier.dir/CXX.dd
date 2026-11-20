@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Ex_Corrier.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Ex_Corrier.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj: dyndep
+

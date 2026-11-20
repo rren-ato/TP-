@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/EEGGCC/FP/Ex Corrier/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2025.3.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_Corrier.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_Corrier.dir\\main.cpp.obj -c \"D:\\EEGGCC\\FP\\Ex Corrier\\main.cpp\"",
+  "file": "D:/EEGGCC/FP/Ex Corrier/main.cpp",
+  "output": "D:/EEGGCC/FP/Ex Corrier/cmake-build-debug/CMakeFiles/Ex_Corrier.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/EEGGCC/FP/Ex Corrier/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2025.3.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Ex_Corrier.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Ex_Corrier.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"D:\\EEGGCC\\FP\\Ex Corrier\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "D:/EEGGCC/FP/Ex Corrier/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "D:/EEGGCC/FP/Ex Corrier/cmake-build-debug/CMakeFiles/Ex_Corrier.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
