@@ -89,16 +89,22 @@ void eliminarDeLaLista(int dato, struct Nodo *& lista){
     struct Nodo* anterior = nullptr;
     //! En este caso la lista esta ordenada
     //* En esta funcion debes iniciar con un while con CONDICION NEGATIVA - no necesariamente "<" puede ser tambien "!="
-    while(recorrido and recorrido->dato < dato){
+    
+    while(recorrido and recorrido->dato < dato){ //! GENERICAMENTE ESTA PARTE ES recorrido (es p) =! nullptr and recorrido->dato =! dato
         anterior = recorrido;
         recorrido = recorrido->siguiente;
       }
     if(recorrido and recorrido->dato == dato){
-        if(anterior == nullptr){
-          lista = lista->siguiente;
+        if(anterior == nullptr){ // SI FUERA LISTA DOBLE ESTA CONDICION DEBERIA SER recorrido->anterior == nullptr
+          lista = recorrido->siguiente;
         }
         else{
           anterior->siguiente = recorrido->siguiente;
+    //! EN LISTAS DOBLES ESTA CONDICION SERIA
+        // recorrido->anterior->siguiente = recorrido->siguiente;
+
+    //! SI SE JUEGA CON LISTA DOBLE SE HACE UNA SELECTIVA EXTRA
+        // if(recorrido->siguiente == nullptr)    recorrido->siguiente->anterior = recorrido->anterior
         }
         delete recorrido;
     }
