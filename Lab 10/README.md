@@ -55,6 +55,20 @@ https://youtu.be/7t9xgUg0IVA?si=IEefsraTZ8tF9zEm
   <img width="1433" height="671" alt="image" src="https://github.com/user-attachments/assets/64332382-b957-43fa-83e8-4446f074915c" />
 </div>
 
+## PARA RECORRER LA LISTA DE FORMA INVERTIDA
+### Uno debe primero recorrer con p = p->siguiente hasta llegar a "nullptr"; a partir de ahi se recorre con p = p->anterior hasta llegar a nullptr
+<img width="1377" height="652" alt="image" src="https://github.com/user-attachments/assets/65825fc8-8a46-4262-b823-108b594cfaaf" />
+
+
+<hr>
+
+# LISTA SIMPLE VS LISTA DOBLE
+<img width="1417" height="663" alt="image" src="https://github.com/user-attachments/assets/a8cf3ce4-9886-4543-9112-dad5f3ac52fd" />
+
+
+
+
+
 
 
 
