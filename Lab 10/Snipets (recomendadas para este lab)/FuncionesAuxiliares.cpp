@@ -132,7 +132,7 @@ void eliminacionCondicionalLista(struct Nodo *& lista, int condicion){
                 anterior->siguiente = recorrido->siguiente;
                 recorrido = recorrido->siguiente
             }
-            delete recorrido;
+            delete salida;
         }
     }
 }
