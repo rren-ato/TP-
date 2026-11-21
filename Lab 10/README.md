@@ -56,7 +56,7 @@ https://youtu.be/7t9xgUg0IVA?si=IEefsraTZ8tF9zEm
 </div>
 
 ## PARA RECORRER LA LISTA DE FORMA INVERTIDA
-### Uno debe primero recorrer con p = p->siguiente hasta llegar a "nullptr"; a partir de ahi se recorre con p = p->anterior hasta llegar a nullptr
+### Uno debe primero recorrer con p = p->siguiente hasta llegar a "nullptr"; a partir de ahi se recorre con p = p->anterior hasta llegar a "nullptr"
 <img width="1377" height="652" alt="image" src="https://github.com/user-attachments/assets/65825fc8-8a46-4262-b823-108b594cfaaf" />
 
 
