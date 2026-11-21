@@ -65,6 +65,10 @@ https://youtu.be/7t9xgUg0IVA?si=IEefsraTZ8tF9zEm
 # LISTA SIMPLE VS LISTA DOBLE
 <img width="1417" height="663" alt="image" src="https://github.com/user-attachments/assets/a8cf3ce4-9886-4543-9112-dad5f3ac52fd" />
 
+# EN RESUMEN
+<img width="1440" height="653" alt="image" src="https://github.com/user-attachments/assets/955c9aa9-9381-4afb-b5dd-2096c4d74b7d" />
+
+<img width="1386" height="557" alt="image" src="https://github.com/user-attachments/assets/8ddc0703-61ab-4558-867d-f3facd0de78c" />
 
 
 
