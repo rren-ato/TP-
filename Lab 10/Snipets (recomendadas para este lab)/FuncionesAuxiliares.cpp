@@ -71,8 +71,11 @@ void insercionOrdenada(struct Nodo *& lista, int dato){
         recorrido = recorrido->siguiente;
       }
       nuevo->siguiente = recorrido;
-      nuevo->anterior = anterior;
-    if(recorrido == nullptr) recorrido->siguiente = nuevo;
+    //! ESTA PARTE DEL ANTERIOR SOLO ENTRA SI SE TRABAJA CON LISTAS DOBLES
+      nuevo->anterior = anterior;                              // <- solo en listas DOBLES
+    //! ESTA PARTE DEL RECORRIDO (es P) SOLO SE TRABAJA CON LISTAS DOBLES
+    if(recorrido == nullptr) recorrido->siguiente = nuevo;     // <- solo en listas DOBLES
+
     if(anterior == nullptr){
       lista = nuevo;
     }else{
