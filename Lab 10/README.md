@@ -29,9 +29,6 @@
 ### Vocabulario básico en Listas
 <img width="1129" height="470" alt="image" src="https://github.com/user-attachments/assets/42c7bd4d-a941-436c-9009-737e1458a29c" />
 
-
-
-
 # [LEGADO DEL PROFE ERASMO]
 
 ## CREACIÓN DE UN NODO E INSERTAR AL INICIO DE UNA LISTA
@@ -46,6 +43,14 @@ https://youtu.be/ann7k4vRuYM?si=PQVscTiX0ZPJPM43
 ### PARTE 2:
 https://youtu.be/7t9xgUg0IVA?si=IEefsraTZ8tF9zEm 
 
+# LISTAS DOBLES
+
+## ANATOMIA DE UN NODO DOBLE
+### (btw esto aparece tambien en "eliminacion de dato en lista" y en "insercion ordenada")
+
+<div align="center">
+  <img width="1433" height="671" alt="image" src="https://github.com/user-attachments/assets/64332382-b957-43fa-83e8-4446f074915c" />
+</div>
 
 
 
